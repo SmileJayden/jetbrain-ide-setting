@@ -91,7 +91,6 @@
     <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="ExportToTextFile" />
-  <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="FindNext" />
@@ -125,9 +124,7 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
-  <action id="NextDiff">
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
-  </action>
+  <action id="NextDiff" />
   <action id="NextProjectWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt f3" />
@@ -141,9 +138,6 @@
   <action id="OverrideMethods" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt f2" />
-  </action>
-  <action id="PreviousDiff">
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
@@ -191,9 +185,6 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
-  <action id="ShowPopupMenu">
-    <keyboard-shortcut first-keystroke="shift meta i" />
-  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
@@ -201,12 +192,12 @@
   <action id="StepOver" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="TFFmtFileAction">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic" />
-  <action id="Tool_External Tools_Black">
-    <keyboard-shortcut first-keystroke="shift meta e" />
-  </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.EditSource" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
