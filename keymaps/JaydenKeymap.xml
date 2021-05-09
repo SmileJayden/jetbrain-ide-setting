@@ -41,6 +41,7 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="CollapseBlock" />
   <action id="CommentByBlockComment" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta k" />
@@ -59,6 +60,9 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource" />
   <action id="EditorCutLineEnd" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
   </action>
@@ -66,6 +70,9 @@
     <keyboard-shortcut first-keystroke="down" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
@@ -125,7 +132,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
-  <action id="NextDiff" />
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="NextProjectWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt f3" />
@@ -139,6 +148,9 @@
   <action id="OverrideMethods" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
@@ -189,9 +201,7 @@
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="shift meta comma" />
-  </action>
+  <action id="ShowSettings" />
   <action id="StepInto" />
   <action id="StepOver" />
   <action id="SwitcherIterateItems" />
