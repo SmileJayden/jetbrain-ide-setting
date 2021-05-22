@@ -41,6 +41,7 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="CollapseBlock" />
   <action id="CommentByBlockComment" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta k" />
@@ -59,6 +60,9 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource" />
   <action id="EditorCutLineEnd" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
   </action>
@@ -66,6 +70,9 @@
     <keyboard-shortcut first-keystroke="down" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
@@ -194,19 +201,17 @@
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="shift meta comma" />
-  </action>
+  <action id="ShowSettings" />
   <action id="StepInto" />
   <action id="StepOver" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="TFFmtFileAction">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic" />
-  <action id="Tool_External Tools_Black">
-    <keyboard-shortcut first-keystroke="shift meta e" />
-  </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.EditSource" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
