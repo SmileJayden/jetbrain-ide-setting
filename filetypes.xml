@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="dept" type="AUTO_DETECTED" />
       <mapping pattern="student" type="AUTO_DETECTED" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
 </application>
