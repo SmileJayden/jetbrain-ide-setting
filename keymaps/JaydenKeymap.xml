@@ -3,10 +3,14 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="meta 8" />
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="ActivateServicesToolWindow" />
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 9" />
   </action>
@@ -41,7 +45,20 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta subtract" />
+  </action>
   <action id="CollapseBlock" />
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="CommentByBlockComment" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta k" />
@@ -98,6 +115,9 @@
     <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="ExportToTextFile" />
+  <action id="ExternalSystem.CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
@@ -124,6 +144,9 @@
   </action>
   <action id="HippieCompletion" />
   <action id="Images.Editor.ToggleGrid" />
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="Images.Thumbnails.UpFolder" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift meta d" />
@@ -138,9 +161,11 @@
   <action id="NextProjectWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
@@ -148,6 +173,7 @@
   <action id="OverrideMethods" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt f2" />
+    <keyboard-shortcut first-keystroke="shift meta 0" />
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
@@ -155,6 +181,7 @@
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="ProjectViewChangeView" />
   <action id="QuickImplementations">
@@ -212,6 +239,7 @@
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic" />
+  <action id="ToggleLineBreakpoint" />
   <action id="Uml.ShowDiff" />
   <action id="Vcs.EditSource" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
