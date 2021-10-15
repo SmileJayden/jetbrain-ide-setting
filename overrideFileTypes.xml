@@ -1,6 +1,9 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/Development/fintech/.env.local" value=".env file" />
+    <file url="file://$USER_HOME$/Development/fintech/services/contents/.env.local" value=".env file" />
     <file url="file://$USER_HOME$/Development/fintech/services/tossinvest/.env.local" value=".env file" />
+    <file url="file://$USER_HOME$/Development/fintech/services/tossinvest/.env.local" value=".env file" />
+    <file url="file://$USER_HOME$/Development/fintech/services/waitlist/.env.local" value=".env file" />
   </component>
 </application>
