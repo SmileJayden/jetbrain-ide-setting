@@ -8,7 +8,6 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="meta 8" />
-    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateVersionControlToolWindow">
@@ -213,6 +212,7 @@
   <action id="SelectIn" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta g" />
