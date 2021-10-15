@@ -160,11 +160,11 @@
   <action id="NextProjectWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt f3" />
-    <keyboard-shortcut first-keystroke="shift meta minus" />
+    <keyboard-shortcut first-keystroke="shift meta 0" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="f3" />
-    <keyboard-shortcut first-keystroke="meta minus" />
+    <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
@@ -172,7 +172,7 @@
   <action id="OverrideMethods" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt f2" />
-    <keyboard-shortcut first-keystroke="shift meta 0" />
+    <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
@@ -180,7 +180,7 @@
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="meta 0" />
+    <keyboard-shortcut first-keystroke="meta 9" />
   </action>
   <action id="ProjectViewChangeView" />
   <action id="QuickImplementations">
@@ -235,6 +235,9 @@
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TFFmtFileAction">
     <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="Terminal.PrevSplitter">
+    <keyboard-shortcut first-keystroke="alt f2" />
   </action>
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark" />
