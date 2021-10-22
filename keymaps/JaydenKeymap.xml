@@ -7,7 +7,6 @@
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="f1" />
-    <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateVersionControlToolWindow">
