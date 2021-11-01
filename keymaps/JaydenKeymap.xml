@@ -99,6 +99,7 @@
     <keyboard-shortcut first-keystroke="meta left" />
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
+  <action id="EditorMatchBrace" />
   <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="end" />
   </action>
