@@ -5,6 +5,7 @@
   </action>
   <action id="ActivateCommitToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProblemsViewToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
@@ -193,6 +194,9 @@
   <action id="RecentLocations" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta w" />
