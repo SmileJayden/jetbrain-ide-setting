@@ -18,6 +18,7 @@
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="ContextHelp" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDown">
@@ -27,6 +28,7 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindNext" />
   <action id="FindUsages">
@@ -74,6 +76,10 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename" />
+  <action id="ShowIntentionActions" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
