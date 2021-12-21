@@ -163,6 +163,7 @@
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="NextEditorTab" />
   <action id="NextProjectWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt f3" />
@@ -183,6 +184,7 @@
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
+  <action id="PreviousEditorTab" />
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="f2" />
