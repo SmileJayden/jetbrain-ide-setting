@@ -5,6 +5,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 9" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="ChangesView.Rename" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl u" />
@@ -15,11 +18,15 @@
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindNext" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
@@ -40,6 +47,9 @@
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="PopupMenu-selectNext">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
@@ -57,10 +67,16 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename" />
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="Tree-selectNext">
+    <keyboard-shortcut first-keystroke="down" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="UsageFiltering.ReadAccess" />
