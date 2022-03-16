@@ -64,6 +64,7 @@
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CompareCells" />
   <action id="CopyElement" />
   <action id="Debug" />
   <action id="Diff.ShowDiff">
@@ -153,9 +154,6 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="Images.Thumbnails.UpFolder" />
-  <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="shift meta d" />
-  </action>
   <action id="Move" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta t" />
@@ -199,6 +197,10 @@
   </action>
   <action id="RecentFiles" />
   <action id="RecentLocations" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>

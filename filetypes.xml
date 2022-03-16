@@ -5,6 +5,7 @@
       <mapping pattern="count-commnet.svg" type="AUTO_DETECTED" />
       <mapping pattern="dept" type="AUTO_DETECTED" />
       <mapping pattern="325c8f456729b912b0d2134054eb7448-41ac79ddc5290d504ad69ef1fe8200a7" type="AUTO_DETECTED" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
