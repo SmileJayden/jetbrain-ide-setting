@@ -256,6 +256,9 @@
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="ToggleLineBreakpoint" />
+  <action id="Tool_External Tools_Black">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.EditSource" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
