@@ -1,5 +1,9 @@
 <application>
+  <component name="UsageFilteringRuleState">
+    <option value="com.intellij.usages.impl.rules.WriteAccessFilteringRule" />
+  </component>
   <component name="UsageViewSettings">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.47472745" />
   </component>
 </application>
