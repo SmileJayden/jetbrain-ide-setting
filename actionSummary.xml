@@ -1,16 +1,88 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="AtomFileIcons.Actions">
+      <i c="1" l="1697029373449" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2" l="1697028986359" />
+    </e>
+    <e n="EditorDown">
+      <i c="1" l="1697028960419" />
+    </e>
+    <e n="EditorPaste">
+      <i c="2" l="1697029014234" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="1" l="1697028992073" />
+    </e>
+    <e n="EditorUp">
+      <i c="14" l="1697028960415" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1697029038511" />
+    </e>
+    <e n="SelectInProjectView">
+      <i c="1" l="1697028979514" />
+    </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1697028655187" />
     </e>
+    <e n="com.intellij.collaboration.ui.codereview.diff.MutableDiffRequestChainProcessor$MyGoToChangePopupAction">
+      <i c="1" l="1697029233816" />
+    </e>
+    <e n="com.intellij.diff.actions.impl.SetEditorSettingsAction">
+      <i c="2" l="1697029200132" />
+    </e>
+    <e n="com.intellij.diff.editor.DisposeDiffEditorEscapeAction">
+      <i c="2" l="1697029208924" />
+    </e>
+    <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextChangeAction">
+      <i c="3" l="1697029289029" />
+    </e>
+    <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
+      <i c="13" l="1697029295622" />
+    </e>
+    <e n="com.intellij.diff.tools.simple.SimpleDiffViewer$MyToggleExpandByDefaultAction">
+      <i c="3" l="1697029237905" />
+    </e>
+    <e n="com.intellij.diff.tools.util.base.TextDiffViewerUtil$ComboBoxSettingAction$MyAction">
+      <i c="1" l="1697029227998" />
+    </e>
+    <e n="com.intellij.diff.tools.util.side.TwosideTextDiffViewer$MyToggleAutoScrollAction">
+      <i c="2" l="1697029190332" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1697029360340" />
+    </e>
+    <e n="com.intellij.notification.impl.NotificationComponent$MyActionGroup">
+      <i c="1" l="1697029363654" />
+    </e>
+    <e n="com.intellij.notification.impl.NotificationComponent$createPopupAction$4">
+      <i c="1" l="1697029366883" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="2" l="1697029317501" />
+    </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
       <i c="1" l="1697028887792" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1697029338113" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1697028918076" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="3" l="1697028902283" />
+      <i c="16" l="1697029404723" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1697029028903" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1697029368567" />
+    </e>
+    <e n="org.jetbrains.plugins.github.pullrequest.comment.action.GHPRDiffReviewThreadsToggleAction$ToggleOptionAction">
+      <i c="1" l="1697029206804" />
     </e>
   </component>
 </application>

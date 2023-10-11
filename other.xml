@@ -9,15 +9,18 @@
     "CWM_LOGGING_VERSION": "1",
     "GeneralSettings.initiallyConfigured": "true",
     "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
+    "Notification.DisplayName-DoNotAsk-Language Plugins Notifications": "Recommended language plugin available",
+    "Notification.DoNotAsk-Language Plugins Notifications": "true",
     "appcds.runOnSecondStart": "WS-232.9921.42-8cbc4acf1602844f071c1d19b13e51e5492f4eb5b72d7ae85dc1ec6c81033915",
     "bundled.plugins.list.saved.version": "WS-232.9921.42",
     "evlsprt3.232": "4",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9921.42",
-    "file.gist.reindex.count": "1",
+    "file.gist.reindex.count": "4",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.show.diff.in.editor": "1",
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_Dark",
     "registry.to.advanced.settings.migration.build": "WS-232.9921.42",
@@ -35,4 +38,11 @@
     ]
   }
 }]]></component>
+  <component name="YarnPnpDependencyTreeJsonFileManager">
+    <pnp-file-to-dependency-tree-file-map>
+      <map>
+        <entry key="$USER_HOME$/Development/frontend-e2e/.pnp.cjs" value="$USER_HOME$/Library/Caches/JetBrains/WebStorm2023.2/javascript/yarn-pnp-dependency-tree/frontend-e2e-dependency-tree8" />
+      </map>
+    </pnp-file-to-dependency-tree-file-map>
+  </component>
 </application>
