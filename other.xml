@@ -12,18 +12,18 @@
     "Notification.DisplayName-DoNotAsk-Language Plugins Notifications": "Recommended language plugin available",
     "Notification.DoNotAsk-Language Plugins Notifications": "true",
     "PluginConfigurable.selectionTab": "1",
-    "appcds.runOnSecondStart": "WS-232.9921.42-f450179197a70689591c7865c39120a7d4e2f61172bed1491ba81335a91d41e7",
+    "appcds.runOnSecondStart": "WS-232.9921.42-4ae5c050bbd9600c763fcf549706a9ad5f0e5beb7ec6553e10c4981d1acf54ee",
     "bundled.plugins.list.saved.version": "WS-232.9921.42",
     "evlsprt3.232": "4",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9921.42",
-    "file.gist.reindex.count": "9",
+    "file.gist.reindex.count": "10",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
     "got.it.tooltip.show.diff.in.editor": "1",
     "migrated.non.roamable.values.from.general.settings": "true",
-    "previousColorScheme": "_@user_Dark",
+    "previousColorScheme": "_@user_Visual Studio Code Dark Plus",
     "registry.to.advanced.settings.migration.build": "WS-232.9921.42",
     "tasks.pass.word.conversion.enforced": "true",
     "ts.lib.d.ts.version": "5.1.3"
@@ -42,6 +42,7 @@
   <component name="YarnPnpDependencyTreeJsonFileManager">
     <pnp-file-to-dependency-tree-file-map>
       <map>
+        <entry key="$USER_HOME$/Development/fintech/.pnp.cjs" value="$USER_HOME$/Library/Caches/JetBrains/WebStorm2023.2/javascript/yarn-pnp-dependency-tree/fintech-dependency-tree9" />
         <entry key="$USER_HOME$/Development/frontend-e2e/.pnp.cjs" value="$USER_HOME$/Library/Caches/JetBrains/WebStorm2023.2/javascript/yarn-pnp-dependency-tree/frontend-e2e-dependency-tree8" />
       </map>
     </pnp-file-to-dependency-tree-file-map>

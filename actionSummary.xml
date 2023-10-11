@@ -10,7 +10,13 @@
       <i c="2" l="1697028986359" />
     </e>
     <e n="EditorDown">
-      <i c="50" l="1697029668457" />
+      <i c="99" l="1697029999928" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1697030001144" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1697030001298" />
     </e>
     <e n="EditorPaste">
       <i c="2" l="1697029014234" />
@@ -22,7 +28,7 @@
       <i c="25" l="1697029664374" />
     </e>
     <e n="EditorUp">
-      <i c="47" l="1697029669997" />
+      <i c="64" l="1697030001006" />
     </e>
     <e n="Github.PullRequest.Timeline.Show">
       <i c="1" l="1697029473639" />
@@ -30,8 +36,17 @@
     <e n="OpenFile">
       <i c="1" l="1697029038511" />
     </e>
+    <e n="SaveAll">
+      <i c="2" l="1697030001761" />
+    </e>
     <e n="SelectInProjectView">
-      <i c="1" l="1697028979514" />
+      <i c="2" l="1697029996629" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="1" l="1697029997113" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="7" l="1697029997706" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1697028655187" />
