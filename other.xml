@@ -7,8 +7,10 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
+    "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.59973925",
     "GeneralSettings.initiallyConfigured": "true",
     "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
+    "NonModalCommitPromotionState": "SHOWN",
     "Notification.DisplayName-DoNotAsk-Language Plugins Notifications": "Recommended language plugin available",
     "Notification.DoNotAsk-Language Plugins Notifications": "true",
     "PluginConfigurable.selectionTab": "1",
@@ -17,7 +19,7 @@
     "evlsprt3.232": "4",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9921.42",
-    "file.gist.reindex.count": "10",
+    "file.gist.reindex.count": "11",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
@@ -26,7 +28,8 @@
     "previousColorScheme": "_@user_Visual Studio Code Dark Plus",
     "registry.to.advanced.settings.migration.build": "WS-232.9921.42",
     "tasks.pass.word.conversion.enforced": "true",
-    "ts.lib.d.ts.version": "5.1.3"
+    "ts.lib.d.ts.version": "5.1.3",
+    "vcs.branch.view.splitter.proportion": "0.21894094"
   },
   "keyToStringList": {
     "fileTypeDetectors": [
