@@ -25,7 +25,7 @@
       <i c="1" l="1697030010305" />
     </e>
     <e n="EditorBackSpace">
-      <i c="128" l="1697166592999" />
+      <i c="140" l="1697167717004" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="14" l="1697098194866" />
@@ -58,19 +58,19 @@
       <i c="9" l="1697104740590" />
     </e>
     <e n="EditorLeft">
-      <i c="588" l="1697166583013" />
+      <i c="602" l="1697167722971" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="19" l="1697166395575" />
+      <i c="20" l="1697167690651" />
     </e>
     <e n="EditorLineEnd">
-      <i c="89" l="1697166582853" />
+      <i c="90" l="1697167725288" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="25" l="1697166601992" />
     </e>
     <e n="EditorLineStart">
-      <i c="97" l="1697166601786" />
+      <i c="99" l="1697167725359" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="16" l="1697158306251" />
@@ -79,19 +79,22 @@
       <i c="39" l="1697166553982" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="6" l="1697166546465" />
+      <i c="7" l="1697167720307" />
     </e>
     <e n="EditorPaste">
       <i c="53" l="1697166602199" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="37" l="1697166554553" />
+      <i c="38" l="1697167713285" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="23" l="1697166561117" />
     </e>
     <e n="EditorRight">
       <i c="857" l="1697166581260" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="2" l="1697167723357" />
     </e>
     <e n="EditorSelectWord">
       <i c="98" l="1697166548111" />
@@ -124,19 +127,19 @@
       <i c="1" l="1697029473639" />
     </e>
     <e n="GotoDeclaration">
-      <i c="46" l="1697166531416" />
+      <i c="49" l="1697167562511" />
     </e>
     <e n="HideAllWindows">
       <i c="1" l="1697089408724" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
-      <i c="222" l="1697166826574" />
+      <i c="232" l="1697167724462" />
     </e>
     <e n="MoveLineDown">
       <i c="13" l="1697098534327" />
     </e>
     <e n="MoveTabRight">
-      <i c="3" l="1697166265514" />
+      <i c="4" l="1697167542795" />
     </e>
     <e n="NewElement">
       <i c="2" l="1697098183700" />
@@ -151,7 +154,7 @@
       <i c="24" l="1697166579192" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="218" l="1697166826738" />
+      <i c="228" l="1697167724607" />
     </e>
     <e n="RenameElement">
       <i c="1" l="1697098178026" />
@@ -160,7 +163,7 @@
       <i c="1" l="1697089972933" />
     </e>
     <e n="SaveAll">
-      <i c="253" l="1697166840440" />
+      <i c="277" l="1697167725678" />
     </e>
     <e n="SelectInProjectView">
       <i c="38" l="1697166829505" />
@@ -240,6 +243,9 @@
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="1" l="1697104513528" />
     </e>
+    <e n="com.intellij.ide.ui.customization.CustomizationUtil$MyDumbAction">
+      <i c="1" l="1697167624707" />
+    </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
       <i c="1" l="1697029360340" />
     </e>
@@ -248,6 +254,9 @@
     </e>
     <e n="com.intellij.notification.impl.NotificationComponent$createPopupAction$4">
       <i c="1" l="1697029366883" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="1" l="1697167635373" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
       <i c="4" l="1697029484881" />
