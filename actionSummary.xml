@@ -7,10 +7,10 @@
       <i c="1" l="1697098288642" />
     </e>
     <e n="$Undo">
-      <i c="72" l="1697424925148" />
+      <i c="73" l="1697427905988" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="27" l="1697425002745" />
+      <i c="31" l="1697425257867" />
     </e>
     <e n="Annotate">
       <i c="14" l="1697422475967" />
@@ -37,7 +37,7 @@
       <i c="1" l="1697030010305" />
     </e>
     <e n="EditorBackSpace">
-      <i c="197" l="1697425094443" />
+      <i c="205" l="1697427932742" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="18" l="1697425026317" />
@@ -46,85 +46,85 @@
       <i c="9" l="1697424946643" />
     </e>
     <e n="EditorCopy">
-      <i c="114" l="1697425023523" />
+      <i c="115" l="1697427920579" />
     </e>
     <e n="EditorCut">
-      <i c="17" l="1697424883181" />
+      <i c="20" l="1697427925054" />
     </e>
     <e n="EditorDeleteLine">
-      <i c="75" l="1697425104546" />
+      <i c="77" l="1697427929395" />
     </e>
     <e n="EditorDeleteToWordStart">
       <i c="7" l="1697170391383" />
     </e>
     <e n="EditorDown">
-      <i c="2610" l="1697425104230" />
+      <i c="2662" l="1697427929026" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="80" l="1697423758953" />
+      <i c="83" l="1697425174093" />
     </e>
     <e n="EditorEnter">
       <i c="63" l="1697425078927" />
     </e>
     <e n="EditorEscape">
-      <i c="16" l="1697424672868" />
+      <i c="17" l="1697427144937" />
     </e>
     <e n="EditorLeft">
-      <i c="1358" l="1697425096119" />
+      <i c="1586" l="1697427925471" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="22" l="1697423235524" />
+      <i c="24" l="1697427908081" />
     </e>
     <e n="EditorLineEnd">
-      <i c="174" l="1697425015859" />
+      <i c="181" l="1697427925284" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="30" l="1697423239068" />
+      <i c="36" l="1697427924477" />
     </e>
     <e n="EditorLineStart">
-      <i c="151" l="1697425026640" />
+      <i c="154" l="1697427912987" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="42" l="1697424882925" />
+      <i c="43" l="1697427907880" />
     </e>
     <e n="EditorNextWord">
-      <i c="78" l="1697424689007" />
+      <i c="86" l="1697427931677" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="11" l="1697423311270" />
+      <i c="14" l="1697427932438" />
     </e>
     <e n="EditorPaste">
-      <i c="114" l="1697425024491" />
+      <i c="120" l="1697427927374" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="63" l="1697424670355" />
+      <i c="66" l="1697427928174" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="53" l="1697425025092" />
     </e>
     <e n="EditorRight">
-      <i c="1937" l="1697425023745" />
+      <i c="2062" l="1697427928515" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="4" l="1697423003795" />
     </e>
     <e n="EditorSelectWord">
-      <i c="226" l="1697425023352" />
+      <i c="242" l="1697427905212" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1697090905049" />
     </e>
     <e n="EditorUp">
-      <i c="2498" l="1697425014876" />
+      <i c="2577" l="1697427931247" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="135" l="1697424882739" />
     </e>
     <e n="Find">
-      <i c="53" l="1697425018417" />
+      <i c="56" l="1697427076615" />
     </e>
     <e n="FindInPath">
-      <i c="21" l="1697424432284" />
+      <i c="26" l="1697427220201" />
     </e>
     <e n="FindUsages">
       <i c="4" l="1697424990325" />
@@ -133,19 +133,19 @@
       <i c="7" l="1697422091779" />
     </e>
     <e n="Git.Squash.Commits">
-      <i c="6" l="1697423757968" />
+      <i c="7" l="1697425173168" />
     </e>
     <e n="Github.PullRequest.Timeline.Show">
       <i c="1" l="1697029473639" />
     </e>
     <e n="GotoDeclaration">
-      <i c="103" l="1697425015427" />
+      <i c="110" l="1697427865634" />
     </e>
     <e n="HideAllWindows">
       <i c="1" l="1697089408724" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
-      <i c="460" l="1697425105808" />
+      <i c="474" l="1697427941507" />
     </e>
     <e n="List-selectNextColumn">
       <i c="1" l="1697423299640" />
@@ -160,7 +160,7 @@
       <i c="31" l="1697422938375" />
     </e>
     <e n="MoveTabRight">
-      <i c="6" l="1697422762569" />
+      <i c="7" l="1697427072049" />
     </e>
     <e n="NewElement">
       <i c="2" l="1697098183700" />
@@ -175,10 +175,10 @@
       <i c="1" l="1697029038511" />
     </e>
     <e n="PrevSplitter">
-      <i c="40" l="1697424558350" />
+      <i c="44" l="1697427935010" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="453" l="1697425105956" />
+      <i c="466" l="1697427941629" />
     </e>
     <e n="RenameElement">
       <i c="2" l="1697423299420" />
@@ -187,7 +187,7 @@
       <i c="1" l="1697089972933" />
     </e>
     <e n="SaveAll">
-      <i c="390" l="1697425110153" />
+      <i c="400" l="1697427942592" />
     </e>
     <e n="SelectInProjectView">
       <i c="63" l="1697424558907" />
@@ -199,7 +199,7 @@
       <i c="2" l="1697170310487" />
     </e>
     <e n="ShowPopupMenu">
-      <i c="5" l="1697164888788" />
+      <i c="6" l="1697425252094" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="2" l="1697111801055" />
@@ -211,16 +211,16 @@
       <i c="14" l="1697422260157" />
     </e>
     <e n="Tree-selectNext">
-      <i c="802" l="1697424564115" />
+      <i c="813" l="1697425251567" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="2" l="1697158109266" />
     </e>
     <e n="Tree-selectParent">
-      <i c="16" l="1697170078866" />
+      <i c="17" l="1697425250622" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="746" l="1697424565024" />
+      <i c="751" l="1697425251869" />
     </e>
     <e n="Vcs.RollbackChangedLines">
       <i c="9" l="1697169727028" />
@@ -253,16 +253,16 @@
       <i c="2" l="1697029190332" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="52" l="1697425019996" />
+      <i c="55" l="1697427078469" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
-      <i c="137" l="1697425018917" />
+      <i c="142" l="1697427077052" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
-      <i c="96" l="1697425019300" />
+      <i c="100" l="1697427077799" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="17" l="1697424436877" />
+      <i c="22" l="1697427221825" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="1" l="1697104513528" />
@@ -289,7 +289,7 @@
       <i c="1" l="1697028887792" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="46" l="1697423096787" />
+      <i c="53" l="1697427869738" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="6" l="1697170253662" />
@@ -313,10 +313,10 @@
       <i c="2" l="1697423303672" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="122" l="1697424434933" />
+      <i c="142" l="1697427163521" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="30" l="1697424434574" />
+      <i c="42" l="1697427163779" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
       <i c="3" l="1697170070255" />
@@ -332,6 +332,9 @@
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="1" l="1697088254729" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$CheckoutAsNewBranch">
+      <i c="1" l="1697425252786" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
       <i c="3" l="1697158118387" />
