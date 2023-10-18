@@ -7578,7 +7578,7 @@
         "dataSet": [
           {
             "pluginIdString": "co.anbora.labs.firebase-syntax-highlighting",
-            "nullablePluginName": "Firebase Rules Syntax Highlighter"
+            "nullablePluginName": "Firebase Rules"
           }
         ]
       },
@@ -11043,6 +11043,14 @@
           }
         ]
       },
+      "*.npl": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.noumenadigital.npl.idea",
+            "nullablePluginName": "Noumena Protocol Language (NPL)"
+          }
+        ]
+      },
       "*.npmignore": {
         "dataSet": [
           {
@@ -11108,6 +11116,14 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          }
+        ]
+      },
+      "*.nu": {
+        "dataSet": [
+          {
+            "pluginIdString": "co.anbora.labs.nushell.community",
+            "nullablePluginName": "NuShell Community"
           }
         ]
       },
@@ -13798,7 +13814,7 @@
           },
           {
             "pluginIdString": "co.anbora.labs.firebase-syntax-highlighting",
-            "nullablePluginName": "Firebase Rules Syntax Highlighter"
+            "nullablePluginName": "Firebase Rules"
           }
         ]
       },
@@ -13806,7 +13822,7 @@
         "dataSet": [
           {
             "pluginIdString": "co.anbora.labs.firebase-syntax-highlighting",
-            "nullablePluginName": "Firebase Rules Syntax Highlighter"
+            "nullablePluginName": "Firebase Rules"
           }
         ]
       },
@@ -19648,7 +19664,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697521040167
+    "lastUpdateTime": 1697619545034
   },
   "dependencies": {
     "featureMap": {
@@ -21221,7 +21237,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697521040233
+    "lastUpdateTime": 1697619545089
   }
 }]]></component>
   <component name="PluginFeatureService">{
