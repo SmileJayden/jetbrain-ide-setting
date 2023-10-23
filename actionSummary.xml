@@ -4,13 +4,13 @@
       <i c="2" l="1697423671549" />
     </e>
     <e n="$SelectAll">
-      <i c="3" l="1697550047130" />
+      <i c="4" l="1698055430730" />
     </e>
     <e n="$Undo">
       <i c="206" l="1698045506880" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="141" l="1698049521885" />
+      <i c="142" l="1698055383658" />
     </e>
     <e n="Annotate">
       <i c="42" l="1698043114100" />
@@ -37,7 +37,7 @@
       <i c="1" l="1697030010305" />
     </e>
     <e n="EditorBackSpace">
-      <i c="953" l="1698050510936" />
+      <i c="966" l="1698055453397" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="112" l="1698048596089" />
@@ -76,7 +76,7 @@
       <i c="79" l="1698045758218" />
     </e>
     <e n="EditorLineEnd">
-      <i c="785" l="1698049524412" />
+      <i c="786" l="1698055456075" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="115" l="1698048668077" />
@@ -97,7 +97,7 @@
       <i c="581" l="1698048664730" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="304" l="1698049318630" />
+      <i c="305" l="1698055454688" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="153" l="1698048541281" />
@@ -142,7 +142,10 @@
       <i c="1" l="1697619680404" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
-      <i c="16" l="1697619708645" />
+      <i c="17" l="1698055426718" />
+    </e>
+    <e n="Git.Reword.Commit">
+      <i c="1" l="1698055430057" />
     </e>
     <e n="Git.Squash.Commits">
       <i c="12" l="1697619712028" />
@@ -160,7 +163,7 @@
       <i c="1" l="1697548436206" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
-      <i c="1529" l="1698051811091" />
+      <i c="1531" l="1698051813565" />
     </e>
     <e n="List-selectNextColumn">
       <i c="1" l="1697423299640" />
@@ -202,7 +205,7 @@
       <i c="1" l="1697440341201" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="1538" l="1698051811239" />
+      <i c="1540" l="1698051813751" />
     </e>
     <e n="RenameElement">
       <i c="2" l="1697423299420" />
@@ -226,7 +229,7 @@
       <i c="23" l="1698048592596" />
     </e>
     <e n="ShowPopupMenu">
-      <i c="20" l="1698045490694" />
+      <i c="21" l="1698055389595" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="2" l="1697111801055" />
@@ -394,7 +397,7 @@
       <i c="8" l="1698045491386" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
-      <i c="13" l="1697618885768" />
+      <i c="14" l="1698055389989" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutWithRebaseAction">
       <i c="1" l="1697611363183" />
@@ -406,7 +409,7 @@
       <i c="5" l="1698045486058" />
     </e>
     <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$UpdateSelectedBranchAction">
-      <i c="16" l="1698049507158" />
+      <i c="17" l="1698055405633" />
     </e>
     <e n="org.jetbrains.plugins.github.pullrequest.comment.action.GHPRDiffReviewThreadsToggleAction$ToggleOptionAction">
       <i c="1" l="1697029206804" />
