@@ -46,7 +46,7 @@
       <i c="38" l="1698045723673" />
     </e>
     <e n="EditorCopy">
-      <i c="536" l="1698066313115" />
+      <i c="537" l="1698066382563" />
     </e>
     <e n="EditorCut">
       <i c="87" l="1698066197410" />
@@ -58,7 +58,7 @@
       <i c="83" l="1698066127347" />
     </e>
     <e n="EditorDown">
-      <i c="8939" l="1698066310988" />
+      <i c="8952" l="1698066927622" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="198" l="1698048667666" />
@@ -70,7 +70,7 @@
       <i c="84" l="1698066376669" />
     </e>
     <e n="EditorLeft">
-      <i c="5668" l="1698066360122" />
+      <i c="5670" l="1698066392106" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="79" l="1698045758218" />
@@ -88,28 +88,28 @@
       <i c="141" l="1698049310151" />
     </e>
     <e n="EditorNextWord">
-      <i c="504" l="1698066366188" />
+      <i c="505" l="1698066392278" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="91" l="1698066264616" />
+      <i c="94" l="1698066393081" />
     </e>
     <e n="EditorPaste">
       <i c="585" l="1698066232386" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="310" l="1698066355905" />
+      <i c="311" l="1698066392646" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="161" l="1698066366868" />
     </e>
     <e n="EditorRight">
-      <i c="8157" l="1698066377649" />
+      <i c="8158" l="1698066382049" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="46" l="1698066356915" />
     </e>
     <e n="EditorSelectWord">
-      <i c="1029" l="1698066378192" />
+      <i c="1034" l="1698066382293" />
     </e>
     <e n="EditorStartNewLine">
       <i c="2" l="1697585496446" />
@@ -118,7 +118,7 @@
       <i c="3" l="1697591021470" />
     </e>
     <e n="EditorUp">
-      <i c="9304" l="1698066311210" />
+      <i c="9319" l="1698066927015" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="428" l="1698046080923" />
@@ -133,7 +133,7 @@
       <i c="281" l="1698051794874" />
     </e>
     <e n="FindInPath">
-      <i c="225" l="1698066367396" />
+      <i c="226" l="1698066393320" />
     </e>
     <e n="FindUsages">
       <i c="21" l="1698041745084" />
@@ -163,7 +163,7 @@
       <i c="1" l="1697548436206" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
-      <i c="1548" l="1698066358838" />
+      <i c="1550" l="1698066380688" />
     </e>
     <e n="List-selectNextColumn">
       <i c="1" l="1697423299640" />
@@ -196,7 +196,7 @@
       <i c="1" l="1697423306086" />
     </e>
     <e n="OpenFile">
-      <i c="6" l="1698065952464" />
+      <i c="7" l="1698066915166" />
     </e>
     <e n="PrevSplitter">
       <i c="98" l="1698049523113" />
@@ -205,7 +205,7 @@
       <i c="1" l="1697440341201" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="1557" l="1698066358976" />
+      <i c="1559" l="1698066380814" />
     </e>
     <e n="RenameElement">
       <i c="2" l="1697423299420" />
@@ -346,7 +346,7 @@
       <i c="234" l="1698051782562" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="65" l="1698066376538" />
+      <i c="66" l="1698066395563" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="1" l="1697604923399" />
@@ -361,7 +361,7 @@
       <i c="1" l="1697029028903" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="28" l="1698066052263" />
+      <i c="29" l="1698066931798" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1697620029782" />
@@ -373,10 +373,10 @@
       <i c="2" l="1697423303672" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="1473" l="1698066375245" />
+      <i c="1476" l="1698066394158" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="595" l="1698066375793" />
+      <i c="597" l="1698066394696" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
       <i c="12" l="1698066071020" />
