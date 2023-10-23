@@ -10,7 +10,7 @@
       <i c="203" l="1697623071989" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="124" l="1697622975715" />
+      <i c="125" l="1698021741263" />
     </e>
     <e n="Annotate">
       <i c="33" l="1697622846625" />
@@ -37,7 +37,7 @@
       <i c="1" l="1697030010305" />
     </e>
     <e n="EditorBackSpace">
-      <i c="891" l="1697622840462" />
+      <i c="895" l="1698021314995" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="105" l="1697622504838" />
@@ -46,7 +46,7 @@
       <i c="37" l="1697621704913" />
     </e>
     <e n="EditorCopy">
-      <i c="496" l="1697623200142" />
+      <i c="497" l="1698021322415" />
     </e>
     <e n="EditorCut">
       <i c="79" l="1697622236954" />
@@ -133,7 +133,7 @@
       <i c="262" l="1697623204010" />
     </e>
     <e n="FindInPath">
-      <i c="201" l="1697623100386" />
+      <i c="202" l="1698021313574" />
     </e>
     <e n="FindUsages">
       <i c="19" l="1697614577899" />
@@ -151,7 +151,7 @@
       <i c="1" l="1697029473639" />
     </e>
     <e n="GotoDeclaration">
-      <i c="357" l="1697623177448" />
+      <i c="358" l="1697623580163" />
     </e>
     <e n="HideAllWindows">
       <i c="1" l="1697089408724" />
@@ -343,7 +343,7 @@
       <i c="199" l="1697622548155" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="57" l="1697622990603" />
+      <i c="58" l="1698021322852" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="1" l="1697604923399" />
@@ -370,10 +370,10 @@
       <i c="2" l="1697423303672" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="1207" l="1697623106452" />
+      <i c="1240" l="1698021319174" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="479" l="1697623106813" />
+      <i c="488" l="1698021320157" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
       <i c="10" l="1697619667336" />
@@ -406,7 +406,7 @@
       <i c="4" l="1697621546506" />
     </e>
     <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$UpdateSelectedBranchAction">
-      <i c="12" l="1697616284191" />
+      <i c="14" l="1698021765422" />
     </e>
     <e n="org.jetbrains.plugins.github.pullrequest.comment.action.GHPRDiffReviewThreadsToggleAction$ToggleOptionAction">
       <i c="1" l="1697029206804" />
