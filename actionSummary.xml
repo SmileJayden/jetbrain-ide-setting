@@ -10,7 +10,7 @@
       <i c="213" l="1698067494675" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="144" l="1698066104984" />
+      <i c="147" l="1698124043567" />
     </e>
     <e n="Annotate">
       <i c="42" l="1698043114100" />
@@ -229,7 +229,7 @@
       <i c="23" l="1698048592596" />
     </e>
     <e n="ShowPopupMenu">
-      <i c="23" l="1698066097691" />
+      <i c="26" l="1698124044683" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="2" l="1697111801055" />
@@ -244,7 +244,7 @@
       <i c="2226" l="1698067447367" />
     </e>
     <e n="Tree-selectNextExtendSelection">
-      <i c="4" l="1698066080597" />
+      <i c="7" l="1698124044499" />
     </e>
     <e n="Tree-selectParent">
       <i c="101" l="1698066114556" />
@@ -325,7 +325,7 @@
       <i c="1" l="1697167624707" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="1" l="1697029360340" />
+      <i c="3" l="1698114166670" />
     </e>
     <e n="com.intellij.notification.impl.NotificationComponent$MyActionGroup">
       <i c="1" l="1697029363654" />
@@ -397,7 +397,7 @@
       <i c="9" l="1698066098932" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
-      <i c="14" l="1698055389989" />
+      <i c="15" l="1698124060568" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutWithRebaseAction">
       <i c="1" l="1697611363183" />
@@ -408,8 +408,11 @@
     <e n="git4idea.ui.branch.GitBranchPopupActions$UpdateSelectedBranchAction">
       <i c="5" l="1698045486058" />
     </e>
+    <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$DeleteBranchAction">
+      <i c="1" l="1698114159838" />
+    </e>
     <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$UpdateSelectedBranchAction">
-      <i c="18" l="1698066081901" />
+      <i c="20" l="1698124045604" />
     </e>
     <e n="org.jetbrains.plugins.github.pullrequest.comment.action.GHPRDiffReviewThreadsToggleAction$ToggleOptionAction">
       <i c="1" l="1697029206804" />
