@@ -38,7 +38,7 @@
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.breakpoint.non.suspending" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.context.actions" count="46" last-shown="0" last-used="1698280773108" shown-count="0" />
+    <feature id="codeassists.context.actions" count="47" last-shown="0" last-used="1698285652722" shown-count="0" />
     <feature id="ui.open.last.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.reformat.code" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -101,7 +101,7 @@
       <option name="lastDate" value="1698246000000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="42" />
+      <option name="invocations" value="43" />
       <option name="startDate" value="1697036400000" />
       <option name="dayCount" value="8" />
       <option name="lastDate" value="1698246000000" />
