@@ -2,13 +2,13 @@
   <component name="DimensionService">
     <location key="find.popup.0.0.2160.3840@192dpi" x="44" y="240" />
     <location key="find.popup.0.0.3024.1964@192dpi" x="126" y="170" />
-    <location key="find.popup.2160.800.3840.2160@192dpi" x="2240" y="964" />
+    <location key="find.popup.2160.800.3840.2160@192dpi" x="2240" y="956" />
     <location key="find.popup.2160.524.3840.2160@192dpi" x="2298" y="704" />
     <location key="find.popup.0.0.3840.2160@192dpi" x="80" y="156" />
     <location key="find.popup.5184.-148.3840.2160@192dpi" x="5264" y="16" />
     <size key="find.popup.0.0.2160.3840@192dpi" width="2116" height="3188" />
     <size key="find.popup.0.0.3024.1964@192dpi" width="2472" height="1584" />
-    <size key="find.popup.2160.800.3840.2160@192dpi" width="3760" height="1724" />
+    <size key="find.popup.2160.800.3840.2160@192dpi" width="3760" height="1774" />
     <size key="find.popup.2160.524.3840.2160@192dpi" width="3280" height="1776" />
     <size key="find.popup.0.0.3840.2160@192dpi" width="3760" height="1774" />
     <size key="GridCell.Tab.0.left.0.0.3840.2160@192dpi" width="3708" height="1024" />
@@ -29,11 +29,12 @@
     <frame x="0" y="615" width="1080" height="715" />
   </component>
   <component name="WindowStateApplicationService">
-    <state width="1069" height="140" key="ShowUsagesActions.dimensionServiceKey" timestamp="1698632295236">
+    <state width="1069" height="206" key="ShowUsagesActions.dimensionServiceKey" timestamp="1698887669038">
       <screen x="0" y="25" width="1080" height="1895" />
     </state>
     <state width="1465" height="140" key="ShowUsagesActions.dimensionServiceKey/-1080.-248.1080.1895/0.25.1920.1055" timestamp="1697598491902" />
     <state width="1069" height="140" key="ShowUsagesActions.dimensionServiceKey/0.25.1080.1895/1080.287.1920.1055" timestamp="1698632295236" />
+    <state width="1069" height="206" key="ShowUsagesActions.dimensionServiceKey/0.25.1080.1895/1080.425.1920.1055" timestamp="1698887669038" />
     <state width="824" height="162" key="ShowUsagesActions.dimensionServiceKey/1080.425.1920.1055/0.25.1080.1895" timestamp="1698155443106" />
   </component>
 </application>
