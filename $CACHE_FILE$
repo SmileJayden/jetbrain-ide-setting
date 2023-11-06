@@ -983,6 +983,14 @@
   <component name="PluginFeatureCacheService"><![CDATA[{
   "extensions": {
     "featureMap": {
+      "_clang-format": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.aarcangeli.ideaclangformat",
+            "nullablePluginName": "Clang-Format Tools"
+          }
+        ]
+      },
       "_cq_*.xml": {
         "dataSet": [
           {
@@ -1128,6 +1136,14 @@
           {
             "pluginIdString": "intellij.buck.plugin",
             "nullablePluginName": "Buck for IDEA"
+          }
+        ]
+      },
+      ".clang-format": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.aarcangeli.ideaclangformat",
+            "nullablePluginName": "Clang-Format Tools"
           }
         ]
       },
@@ -2236,6 +2252,22 @@
           }
         ]
       },
+      "*.asd": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.en_circle.slt.plugin",
+            "nullablePluginName": "Slt"
+          }
+        ]
+      },
+      "*.asdf": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.en_circle.slt.plugin",
+            "nullablePluginName": "Slt"
+          }
+        ]
+      },
       "*.ase": {
         "dataSet": [
           {
@@ -2566,6 +2598,14 @@
           }
         ]
       },
+      "*.awl": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.github.deepakchethan.aribaweblanguage",
+            "nullablePluginName": "Ariba Web Language"
+          }
+        ]
+      },
       "*.awsl": {
         "dataSet": [
           {
@@ -2767,6 +2807,10 @@
           {
             "pluginIdString": "com.microsoft.tooling.msservices.intellij.azure",
             "nullablePluginName": "Azure Toolkit for IntelliJ"
+          },
+          {
+            "pluginIdString": "com.intellij.bicep",
+            "nullablePluginName": "Bicep"
           }
         ]
       },
@@ -2919,11 +2963,23 @@
           {
             "pluginIdString": "com.github.pvoid.androidbp",
             "nullablePluginName": "AOSP Blue Prints Support"
+          },
+          {
+            "pluginIdString": "com.framework.plugin.yisingle",
+            "nullablePluginName": "AndroidSupportFramework"
           }
         ]
       },
       "*.bpmn": {
         "dataSet": [
+          {
+            "pluginIdString": "com.intellij.jbpm",
+            "nullablePluginName": "JBoss jBPM"
+          },
+          {
+            "pluginIdString": "activiti-bpmn-visualizer",
+            "nullablePluginName": "Activiti BPMN visualizer"
+          },
           {
             "pluginIdString": "camunda-bpmn-visualizer",
             "nullablePluginName": "Camunda BPMN visualizer"
@@ -2931,6 +2987,10 @@
           {
             "pluginIdString": "polybpmn-intellij-visualizer",
             "nullablePluginName": "PolyBPMN visualizer"
+          },
+          {
+            "pluginIdString": "com.github.shlaikov.intellijbpmn2plugin",
+            "nullablePluginName": "BPMN Viewer - Free and OpenSource"
           },
           {
             "pluginIdString": "actiBPM",
@@ -2941,12 +3001,28 @@
             "nullablePluginName": "Yaoqiang BPMN Editor"
           },
           {
-            "pluginIdString": "io.jmix.studio",
-            "nullablePluginName": "Jmix"
+            "pluginIdString": "flowable-bpmn-visualizer",
+            "nullablePluginName": "Flowable BPMN visualizer"
           },
           {
-            "pluginIdString": "com.intellij.jbpm",
-            "nullablePluginName": "JBoss jBPM"
+            "pluginIdString": "io.jmix.studio",
+            "nullablePluginName": "Jmix"
+          }
+        ]
+      },
+      "*.bpmn.xml": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.shlaikov.intellijbpmn2plugin",
+            "nullablePluginName": "BPMN Viewer - Free and OpenSource"
+          }
+        ]
+      },
+      "*.bpmn2": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.shlaikov.intellijbpmn2plugin",
+            "nullablePluginName": "BPMN Viewer - Free and OpenSource"
           }
         ]
       },
@@ -3430,6 +3506,14 @@
       "*.cfg": {
         "dataSet": [
           {
+            "pluginIdString": "com.jetbrains.nim",
+            "nullablePluginName": "Nim"
+          },
+          {
+            "pluginIdString": "com.jetbrains.writerside",
+            "nullablePluginName": "Writerside"
+          },
+          {
             "pluginIdString": "com.jetbrains.plugins.ini4idea",
             "nullablePluginName": "Ini"
           },
@@ -3448,14 +3532,6 @@
           {
             "pluginIdString": "gdscript",
             "nullablePluginName": "GDScript"
-          },
-          {
-            "pluginIdString": "com.jetbrains.nim",
-            "nullablePluginName": "Nim"
-          },
-          {
-            "pluginIdString": "com.jetbrains.writerside",
-            "nullablePluginName": "Writerside"
           }
         ]
       },
@@ -3492,12 +3568,20 @@
         "dataSet": [
           {
             "pluginIdString": "CFML Support",
-            "nullablePluginName": "CFML Support",
-            "isBundled": true
+            "nullablePluginName": "CFML"
           },
           {
             "pluginIdString": "CFML Support",
-            "nullablePluginName": "CFML"
+            "nullablePluginName": "CFML Support",
+            "isBundled": true
+          }
+        ]
+      },
+      "*.cfrule": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.serce.cfrules",
+            "nullablePluginName": "Cloudflare Rules"
           }
         ]
       },
@@ -3606,6 +3690,10 @@
           {
             "pluginIdString": "ai.expert.studio",
             "nullablePluginName": "Expert.ai Studio Core"
+          },
+          {
+            "pluginIdString": "com.en_circle.slt.plugin",
+            "nullablePluginName": "Slt"
           }
         ]
       },
@@ -4268,6 +4356,14 @@
           }
         ]
       },
+      "*.cspec": {
+        "dataSet": [
+          {
+            "pluginIdString": "software.alicloud.cloudspec.plugin",
+            "nullablePluginName": "CloudSpec"
+          }
+        ]
+      },
       "*.cspTrustedSite": {
         "dataSet": [
           {
@@ -4787,15 +4883,23 @@
           }
         ]
       },
+      "*.devmate-license-service-file": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.ast.devmate.intellij",
+            "nullablePluginName": "devmate UTST"
+          }
+        ]
+      },
       "*.dex": {
         "dataSet": [
           {
-            "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
-          },
-          {
             "pluginIdString": "org.jetbrains.android",
             "nullablePluginName": "Android"
+          },
+          {
+            "pluginIdString": "com.jetbrains.rider.android",
+            "nullablePluginName": "Rider Xamarin Android Support"
           }
         ]
       },
@@ -4911,6 +5015,14 @@
           }
         ]
       },
+      "*.dml": {
+        "dataSet": [
+          {
+            "pluginIdString": "pt.ist.fenixframework.plugin",
+            "nullablePluginName": "Fenix Framework Developer Support"
+          }
+        ]
+      },
       "*.dmn": {
         "dataSet": [
           {
@@ -4959,15 +5071,23 @@
           }
         ]
       },
+      "*.dog": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.seedwing.policy.seedwing-dogma",
+            "nullablePluginName": "Seedwing Dogma Language"
+          }
+        ]
+      },
       "*.dot": {
         "dataSet": [
           {
-            "pluginIdString": "org.plugin.dot.id",
-            "nullablePluginName": "DOT Language"
-          },
-          {
             "pluginIdString": "com.voc.ide.plugin.tools",
             "nullablePluginName": "DevTools"
+          },
+          {
+            "pluginIdString": "org.plugin.dot.id",
+            "nullablePluginName": "DOT Language"
           }
         ]
       },
@@ -5047,6 +5167,10 @@
             "nullablePluginName": "Structurizr DSL Language Support"
           },
           {
+            "pluginIdString": "io.github.ambalashov.structurizr-idea-plugin",
+            "nullablePluginName": "Structurizr DSL Support"
+          },
+          {
             "pluginIdString": "com.dslplatform.ideaplugin",
             "nullablePluginName": "DSL Platform"
           }
@@ -5109,6 +5233,14 @@
           {
             "pluginIdString": "com.github.vilinfield.dust",
             "nullablePluginName": "Dust.js"
+          }
+        ]
+      },
+      "*.dvignore": {
+        "dataSet": [
+          {
+            "pluginIdString": "dev.diversion.plugin.dvidea",
+            "nullablePluginName": "Diversion"
           }
         ]
       },
@@ -6010,6 +6142,22 @@
           }
         ]
       },
+      "*.fit5": {
+        "dataSet": [
+          {
+            "pluginIdString": "FitLang",
+            "nullablePluginName": "FitLang"
+          }
+        ]
+      },
+      "*.fixlog": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.netreq.fix.plugin",
+            "nullablePluginName": "FIX Protocol"
+          }
+        ]
+      },
       "*.fkl": {
         "dataSet": [
           {
@@ -6184,6 +6332,14 @@
           {
             "pluginIdString": "com.pricefx.studio",
             "nullablePluginName": "Pricefx Studio"
+          }
+        ]
+      },
+      "*.fql": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.camile.checker",
+            "nullablePluginName": "Flink SQL Checker"
           }
         ]
       },
@@ -6640,6 +6796,14 @@
           {
             "pluginIdString": "com.emberjs.experimental",
             "nullablePluginName": "Ember Experimental.js"
+          }
+        ]
+      },
+      "*.glb": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.issaloubani.glbviewer",
+            "nullablePluginName": "GLB Viewer"
           }
         ]
       },
@@ -8504,6 +8668,10 @@
           {
             "pluginIdString": "org.dochub.idea.arch",
             "nullablePluginName": "DocHub Architecture as code"
+          },
+          {
+            "pluginIdString": "org.dochub.idea.test",
+            "nullablePluginName": "Kotan Kotlin code"
           }
         ]
       },
@@ -8652,6 +8820,14 @@
           {
             "pluginIdString": "lu.ewen.minijvm.language",
             "nullablePluginName": "MiniJVM Syntax Highlighter"
+          }
+        ]
+      },
+      "*.jxl": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.meimingle.jetbrains-jpegxl",
+            "nullablePluginName": "JPEGXL Support"
           }
         ]
       },
@@ -9012,6 +9188,14 @@
           {
             "pluginIdString": "kos-ksp.idea-plugin",
             "nullablePluginName": "KerboScript(kOS)"
+          }
+        ]
+      },
+      "*.kscr": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.comroid.kscr.intellij",
+            "nullablePluginName": "KScr Language Support"
           }
         ]
       },
@@ -9573,6 +9757,14 @@
           }
         ]
       },
+      "*.lisp": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.en_circle.slt.plugin",
+            "nullablePluginName": "Slt"
+          }
+        ]
+      },
       "*.list": {
         "dataSet": [
           {
@@ -9586,6 +9778,14 @@
           {
             "pluginIdString": "org.coffeescript",
             "nullablePluginName": "CoffeeScript"
+          }
+        ]
+      },
+      "*.liv2": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.eric-li.layout-inspector-v2",
+            "nullablePluginName": "LayoutInspectorV2-Pro"
           }
         ]
       },
@@ -9737,6 +9937,14 @@
           }
         ]
       },
+      "*.lsl": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.github.riej.lsl",
+            "nullablePluginName": "Linden Script (LSL)"
+          }
+        ]
+      },
       "*.lson": {
         "dataSet": [
           {
@@ -9846,6 +10054,10 @@
           {
             "pluginIdString": "MatlabSupport",
             "nullablePluginName": "Matlab Support"
+          },
+          {
+            "pluginIdString": "dev.adnathanail.mirandaintellijplugin",
+            "nullablePluginName": "Miranda Language Support"
           }
         ]
       },
@@ -10018,6 +10230,14 @@
         ]
       },
       "*.mcfunction": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.jaffe2718.devkit",
+            "nullablePluginName": "Minecraft Command DevKit"
+          }
+        ]
+      },
+      "*.mcmeta": {
         "dataSet": [
           {
             "pluginIdString": "me.jaffe2718.devkit",
@@ -10290,6 +10510,10 @@
           {
             "pluginIdString": "com.intuit.intellij.makefile",
             "nullablePluginName": "DockDockBuild"
+          },
+          {
+            "pluginIdString": "com.framework.plugin.yisingle",
+            "nullablePluginName": "AndroidSupportFramework"
           }
         ]
       },
@@ -10438,6 +10662,14 @@
           {
             "pluginIdString": "info.kwarc.mmt.intellij.MMTPlugin",
             "nullablePluginName": "MMT"
+          }
+        ]
+      },
+      "*.mo": {
+        "dataSet": [
+          {
+            "pluginIdString": "cn.catarc.modelica",
+            "nullablePluginName": "Modelica"
           }
         ]
       },
@@ -10991,6 +11223,14 @@
           }
         ]
       },
+      "*.ngql": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.tony.nebula-highlight",
+            "nullablePluginName": "Nebula-highlight"
+          }
+        ]
+      },
       "*.nim": {
         "dataSet": [
           {
@@ -11272,6 +11512,14 @@
           }
         ]
       },
+      "*.odin": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.lasagnerd.odin",
+            "nullablePluginName": "Odin Lang Support"
+          }
+        ]
+      },
       "*.odpsql": {
         "dataSet": [
           {
@@ -11293,6 +11541,14 @@
           {
             "pluginIdString": "com.soywiz.korge.korge-intellij-plugin",
             "nullablePluginName": "Korge"
+          }
+        ]
+      },
+      "*.oip": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.illuminatedcloud2.intellij",
+            "nullablePluginName": "Illuminated Cloud 2"
           }
         ]
       },
@@ -11373,6 +11629,14 @@
           {
             "pluginIdString": "com.aiwan.gorm",
             "nullablePluginName": "Gorm"
+          }
+        ]
+      },
+      "*.os": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.illuminatedcloud2.intellij",
+            "nullablePluginName": "Illuminated Cloud 2"
           }
         ]
       },
@@ -12102,6 +12366,10 @@
           {
             "pluginIdString": "tech.phosphorus.intellij-prolog",
             "nullablePluginName": "Prolog"
+          },
+          {
+            "pluginIdString": "ch.heiafr.intelliprolog",
+            "nullablePluginName": "PrologCode"
           }
         ]
       },
@@ -12320,6 +12588,10 @@
       "*.postman_collection": {
         "dataSet": [
           {
+            "pluginIdString": "com.jetbrains.restClient",
+            "nullablePluginName": "HTTP Client"
+          },
+          {
             "pluginIdString": "com.intellij.restClient.postmanConverter",
             "nullablePluginName": "Import from Postman Collections"
           }
@@ -12330,11 +12602,19 @@
           {
             "pluginIdString": "com.intellij.restClient.postmanConverter",
             "nullablePluginName": "Import from Postman Collections"
+          },
+          {
+            "pluginIdString": "com.jetbrains.restClient",
+            "nullablePluginName": "HTTP Client"
           }
         ]
       },
       "*.postman_environment": {
         "dataSet": [
+          {
+            "pluginIdString": "com.jetbrains.restClient",
+            "nullablePluginName": "HTTP Client"
+          },
           {
             "pluginIdString": "com.intellij.restClient.postmanConverter",
             "nullablePluginName": "Import from Postman Collections"
@@ -12346,6 +12626,10 @@
           {
             "pluginIdString": "com.intellij.restClient.postmanConverter",
             "nullablePluginName": "Import from Postman Collections"
+          },
+          {
+            "pluginIdString": "com.jetbrains.restClient",
+            "nullablePluginName": "HTTP Client"
           }
         ]
       },
@@ -12610,6 +12894,14 @@
           {
             "pluginIdString": "org.jodd.idea.props",
             "nullablePluginName": "Jodd Props Support"
+          }
+        ]
+      },
+      "*.propswitch": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.nizienko.properties_switcher",
+            "nullablePluginName": "Property Switcher"
           }
         ]
       },
@@ -12945,6 +13237,14 @@
           }
         ]
       },
+      "*.qd": {
+        "dataSet": [
+          {
+            "pluginIdString": "vip.testops.qa_design",
+            "nullablePluginName": "QA Designer"
+          }
+        ]
+      },
       "*.qianim": {
         "dataSet": [
           {
@@ -12963,6 +13263,14 @@
           {
             "pluginIdString": "com.q-ide",
             "nullablePluginName": "Qlang"
+          }
+        ]
+      },
+      "*.Qmd": {
+        "dataSet": [
+          {
+            "pluginIdString": "R4Intellij",
+            "nullablePluginName": "R Language for IntelliJ"
           }
         ]
       },
@@ -13502,6 +13810,10 @@
           {
             "pluginIdString": "com.millennialmedia.intellibot@lte2000",
             "nullablePluginName": "IntelliBot #patched"
+          },
+          {
+            "pluginIdString": "com.github.nghiatm.robotframeworkplugin",
+            "nullablePluginName": "RobotFramework Helper"
           }
         ]
       },
@@ -13658,6 +13970,10 @@
           {
             "pluginIdString": "com.millennialmedia.intellibot@lte2000",
             "nullablePluginName": "IntelliBot #patched"
+          },
+          {
+            "pluginIdString": "com.github.nghiatm.robotframeworkplugin",
+            "nullablePluginName": "RobotFramework Helper"
           }
         ]
       },
@@ -13783,6 +14099,10 @@
           {
             "pluginIdString": "com.jetbrains.rust",
             "nullablePluginName": "Rust"
+          },
+          {
+            "pluginIdString": "org.jetbrains.android",
+            "nullablePluginName": "Android"
           },
           {
             "pluginIdString": "org.jetbrains.android",
@@ -14676,6 +14996,10 @@
             "nullablePluginName": "Rider Xamarin Android Support"
           },
           {
+            "pluginIdString": "com.th.smali",
+            "nullablePluginName": "Smalitool"
+          },
+          {
             "pluginIdString": "com.android.tools.idea.smali",
             "nullablePluginName": "Smali Support"
           }
@@ -14973,6 +15297,14 @@
           {
             "pluginIdString": "me.danwi.sqlex",
             "nullablePluginName": "SqlEx"
+          }
+        ]
+      },
+      "*.sqlpp": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.couchbase.couchbase-intellij-plugin",
+            "nullablePluginName": "Couchbase"
           }
         ]
       },
@@ -15551,6 +15883,10 @@
           {
             "pluginIdString": "com.tabnine.TabNine",
             "nullablePluginName": "Tabnine: AI Code Completion & Chat in Java JS/TS Python & More"
+          },
+          {
+            "pluginIdString": "com.tabnine.TabNine-Enterprise",
+            "nullablePluginName": "Tabnine Enterprise (Self-Hosted)"
           }
         ]
       },
@@ -16126,12 +16462,12 @@
         "dataSet": [
           {
             "pluginIdString": "com.intellij.tapestry",
-            "nullablePluginName": "Tapestry support",
-            "isBundled": true
+            "nullablePluginName": "Tapestry"
           },
           {
             "pluginIdString": "com.intellij.tapestry",
-            "nullablePluginName": "Tapestry"
+            "nullablePluginName": "Tapestry support",
+            "isBundled": true
           }
         ]
       },
@@ -16843,6 +17179,14 @@
           {
             "pluginIdString": "com.intellij.resharper.unity",
             "nullablePluginName": "Unity Support"
+          }
+        ]
+      },
+      "*.unocss": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.rerere.unocss-intellij",
+            "nullablePluginName": "Unocss"
           }
         ]
       },
@@ -17627,8 +17971,20 @@
           }
         ]
       },
+      "*.xdecision": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.xrosstools.xdecision.editor",
+            "nullablePluginName": "Xross Decision Tree Edtitor"
+          }
+        ]
+      },
       "*.xjb": {
         "dataSet": [
+          {
+            "pluginIdString": "com.jetbrains.jax.ws",
+            "nullablePluginName": "Jakarta EE: Web Services (JAX-WS)"
+          },
           {
             "pluginIdString": "WebServicesPlugin",
             "nullablePluginName": "WebServicesPlugin",
@@ -17638,10 +17994,6 @@
             "pluginIdString": "Java EE: Web Services (JAX-WS)",
             "nullablePluginName": "Java EE: Web Services (JAX-WS)",
             "isBundled": true
-          },
-          {
-            "pluginIdString": "com.jetbrains.jax.ws",
-            "nullablePluginName": "Jakarta EE: Web Services (JAX-WS)"
           }
         ]
       },
@@ -17914,6 +18266,14 @@
           }
         ]
       },
+      "*.xstate": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.xrosstools.xstate.editor",
+            "nullablePluginName": "Xross State Machine Edtitor"
+          }
+        ]
+      },
       "*.xtend": {
         "dataSet": [
           {
@@ -17931,6 +18291,14 @@
           {
             "pluginIdString": "org.eclipse.xtext.xtext.idea",
             "nullablePluginName": "Xtext"
+          }
+        ]
+      },
+      "*.xunit": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.xrosstools.xunit.editor",
+            "nullablePluginName": "Xross Unit Editor"
           }
         ]
       },
@@ -18023,6 +18391,14 @@
           }
         ]
       },
+      "*.yggdrasil": {
+        "dataSet": [
+          {
+            "pluginIdString": "Yggdrasil",
+            "nullablePluginName": "Yggdrasil Language"
+          }
+        ]
+      },
       "*.yml": {
         "dataSet": [
           {
@@ -18086,6 +18462,14 @@
           {
             "pluginIdString": "com.zenuml.jetbrains",
             "nullablePluginName": "ZenUML Support"
+          }
+        ]
+      },
+      "*.zdl": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.zenwave360.platform.zdl",
+            "nullablePluginName": "ZenWave Domain Model Editor for ZDL"
           }
         ]
       },
@@ -19122,6 +19506,14 @@
           }
         ]
       },
+      "metadata.apimap": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.apimap.intellij",
+            "nullablePluginName": "Apimap.io"
+          }
+        ]
+      },
       "microprofile-config-?*.properties": {
         "dataSet": [
           {
@@ -19614,6 +20006,14 @@
           }
         ]
       },
+      "taxonomy.apimap": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.apimap.intellij",
+            "nullablePluginName": "Apimap.io"
+          }
+        ]
+      },
       "trantor.yaml": {
         "dataSet": [
           {
@@ -19792,7 +20192,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698720459511
+    "lastUpdateTime": 1699250068880
   },
   "dependencies": {
     "featureMap": {
@@ -20116,6 +20516,14 @@
           }
         ]
       },
+      "java:com.google.android.studio:android-studio": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
       "java:com.google.cloud:google-cloud-storage": {
         "dataSet": [
           {
@@ -20140,6 +20548,38 @@
           }
         ]
       },
+      "java:com.jetbrains:android-studio": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains:clion": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains:fleetBackend": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains:goland": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
       "java:com.jetbrains:ideaIC": {
         "dataSet": [
           {
@@ -20149,6 +20589,126 @@
         ]
       },
       "java:com.jetbrains:ideaIU": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains:JetBrainsGateway": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains:phpstorm": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains:pycharmPC": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains:pycharmPY": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains:riderRD": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains.intellij.clion:clion": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains.intellij.fleetBackend:fleetBackend": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains.intellij.gateway:gateway": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains.intellij.goland:goland": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains.intellij.idea:ideaIC": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains.intellij.idea:ideaIU": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains.intellij.phpstorm:phpstorm": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains.intellij.pycharm:pycharmPC": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains.intellij.pycharm:pycharmPY": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains.intellij.rider:riderRD": {
         "dataSet": [
           {
             "pluginIdString": "DevKit",
@@ -20792,6 +21352,14 @@
           }
         ]
       },
+      "java:org.jenkins-ci.main:jenkins-core": {
+        "dataSet": [
+          {
+            "pluginIdString": "Stapler plugin for IntelliJ IDEA",
+            "nullablePluginName": "Jenkins Development Support"
+          }
+        ]
+      },
       "java:org.omnifaces:omnifaces": {
         "dataSet": [
           {
@@ -21053,6 +21621,14 @@
           {
             "pluginIdString": "com.intellij.bigdatatools.rfs",
             "nullablePluginName": "Remote File Systems"
+          }
+        ]
+      },
+      "javascript:npm:@cerner/terra-functional-testing": {
+        "dataSet": [
+          {
+            "pluginIdString": "terra.support",
+            "nullablePluginName": "Terra Support"
           }
         ]
       },
@@ -21381,7 +21957,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698720459876
+    "lastUpdateTime": 1699250068928
   }
 }]]></component>
   <component name="PluginFeatureService">{
