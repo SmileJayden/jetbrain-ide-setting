@@ -13,22 +13,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Development/frontend-e2e">
-          <value>
-            <RecentProjectMetaInfo frameTitle="frontend-e2e – trade.ts" projectWorkspaceId="2SrvhRBkuEbWMG1wDVYXPUby1PV">
-              <option name="activationTimestamp" value="1698757259735" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9921.42" />
-              <option name="buildTimestamp" value="1694512407389" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="1080" y="425" width="1920" height="1055" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1698756210825" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Development/fe-interview-assingment">
           <value>
             <RecentProjectMetaInfo frameTitle="fe-interview-assingment – useOrderDetail.ts" projectWorkspaceId="2OjYHdJ1fom4x1WRgfoq56erx1l">
@@ -48,7 +32,7 @@
         <entry key="$USER_HOME$/Development/fintech">
           <value>
             <RecentProjectMetaInfo frameTitle="fintech – code-freeze.yml" opened="true" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
-              <option name="activationTimestamp" value="1699333011123" />
+              <option name="activationTimestamp" value="1699334416786" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512393417" />
@@ -61,8 +45,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Development/frontend-e2e">
+          <value>
+            <RecentProjectMetaInfo frameTitle="frontend-e2e – trade.ts" opened="true" projectWorkspaceId="2SrvhRBkuEbWMG1wDVYXPUby1PV">
+              <option name="activationTimestamp" value="1699334421410" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9921.42" />
+              <option name="buildTimestamp" value="1694512419524" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="1080" y="425" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1699334421988" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/fintech" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/frontend-e2e" />
   </component>
 </application>
