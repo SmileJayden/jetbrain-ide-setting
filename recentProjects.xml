@@ -32,7 +32,7 @@
         <entry key="$USER_HOME$/Development/fintech">
           <value>
             <RecentProjectMetaInfo frameTitle="fintech – useLoggedInQuery.ts" opened="true" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
-              <option name="activationTimestamp" value="1699409538361" />
+              <option name="activationTimestamp" value="1699410719343" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512393417" />
@@ -63,11 +63,15 @@
         </entry>
         <entry key="$USER_HOME$/Development/query">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2RVAZIRBWCfOtQ8XZ1U5q7Kn1kw">
-              <option name="activationTimestamp" value="1699409752444" />
+            <RecentProjectMetaInfo frameTitle="query – queryCache.ts" projectWorkspaceId="2RVAZIRBWCfOtQ8XZ1U5q7Kn1kw">
+              <option name="activationTimestamp" value="1699410492513" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512410157" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="10" y="472" width="1060" height="1000" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1699409548835" />
             </RecentProjectMetaInfo>
@@ -75,6 +79,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/query" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/fintech" />
   </component>
 </application>
