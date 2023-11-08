@@ -5344,6 +5344,14 @@
           }
         ]
       },
+      "*.edge": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.stouder.adonis",
+            "nullablePluginName": "Adonis"
+          }
+        ]
+      },
       "*.edn": {
         "dataSet": [
           {
@@ -10189,6 +10197,14 @@
           }
         ]
       },
+      "*.mbms": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.nosqlnavigator.mongo",
+            "nullablePluginName": "NoSQL Navigator For MongoDB"
+          }
+        ]
+      },
       "*.mbsp": {
         "dataSet": [
           {
@@ -10891,6 +10907,14 @@
           {
             "pluginIdString": "ru.investflow.mql",
             "nullablePluginName": "MQL Idea"
+          }
+        ]
+      },
+      "*.ms": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.nosqlnavigator.mongo",
+            "nullablePluginName": "NoSQL Navigator For MongoDB"
           }
         ]
       },
@@ -14970,6 +14994,14 @@
           {
             "pluginIdString": "org.jetbrains.plugins.slim",
             "nullablePluginName": "Slim"
+          }
+        ]
+      },
+      "*.slint": {
+        "dataSet": [
+          {
+            "pluginIdString": "dev.slint.ideaplugin",
+            "nullablePluginName": "Slint"
           }
         ]
       },
@@ -20192,7 +20224,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1699250068880
+    "lastUpdateTime": 1699406926209
   },
   "dependencies": {
     "featureMap": {
@@ -21957,7 +21989,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1699250068928
+    "lastUpdateTime": 1699406926238
   }
 }]]></component>
   <component name="PluginFeatureService">{
