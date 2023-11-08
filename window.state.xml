@@ -4,13 +4,13 @@
     <location key="find.popup.0.0.3024.1964@192dpi" x="126" y="170" />
     <location key="find.popup.2160.800.3840.2160@192dpi" x="2240" y="964" />
     <location key="find.popup.2160.524.3840.2160@192dpi" x="2298" y="704" />
-    <location key="find.popup.0.0.3840.2160@192dpi" x="80" y="156" />
+    <location key="find.popup.0.0.3840.2160@192dpi" x="138" y="180" />
     <location key="find.popup.5184.-148.3840.2160@192dpi" x="5264" y="16" />
     <size key="find.popup.0.0.2160.3840@192dpi" width="1766" height="3180" />
     <size key="find.popup.0.0.3024.1964@192dpi" width="2472" height="1584" />
     <size key="find.popup.2160.800.3840.2160@192dpi" width="3760" height="1724" />
     <size key="find.popup.2160.524.3840.2160@192dpi" width="1284" height="956" />
-    <size key="find.popup.0.0.3840.2160@192dpi" width="3760" height="1774" />
+    <size key="find.popup.0.0.3840.2160@192dpi" width="1284" height="956" />
     <size key="GridCell.Tab.0.left.0.0.3840.2160@192dpi" width="3708" height="1024" />
     <size key="GridCell.Tab.0.center.0.0.3840.2160@192dpi" width="3708" height="1024" />
     <size key="GridCell.Tab.0.right.0.0.3840.2160@192dpi" width="3708" height="1024" />
@@ -26,7 +26,7 @@
     <size key="find.popup.5184.-148.3840.2160@192dpi" width="3760" height="1724" />
   </component>
   <component name="WindowManager">
-    <frame x="3042" y="423" width="3414" height="532" extendedState="6" />
+    <frame x="204" y="47" width="1104" height="910" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state width="1069" height="206" key="ShowUsagesActions.dimensionServiceKey" timestamp="1698887669038">
@@ -36,5 +36,9 @@
     <state width="1069" height="140" key="ShowUsagesActions.dimensionServiceKey/0.25.1080.1895/1080.287.1920.1055" timestamp="1698632295236" />
     <state width="1069" height="206" key="ShowUsagesActions.dimensionServiceKey/0.25.1080.1895/1080.425.1920.1055" timestamp="1698887669038" />
     <state width="824" height="162" key="ShowUsagesActions.dimensionServiceKey/1080.425.1920.1055/0.25.1080.1895" timestamp="1698155443106" />
+    <state x="756" y="461" width="800" height="650" key="WELCOME_SCREEN" timestamp="1699436108771">
+      <screen x="0" y="38" width="1512" height="944" />
+    </state>
+    <state x="756" y="461" width="800" height="650" key="WELCOME_SCREEN/0.38.1512.944" timestamp="1699436108771" />
   </component>
 </application>
