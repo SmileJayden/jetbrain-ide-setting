@@ -16,10 +16,10 @@
       <i c="1" l="1699410655461" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="367" l="1699584295606" />
+      <i c="368" l="1699585629412" />
     </e>
     <e n="Annotate">
-      <i c="99" l="1699450111537" />
+      <i c="101" l="1699585625336" />
     </e>
     <e n="AtomFileIcons.Actions">
       <i c="1" l="1697029373449" />
@@ -187,7 +187,7 @@
       <i c="1" l="1698623277789" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1211" l="1699581190033" />
+      <i c="1212" l="1699585609420" />
     </e>
     <e n="GotoImplementation">
       <i c="1" l="1698223336626" />
@@ -292,7 +292,7 @@
       <i c="3" l="1699543410289" />
     </e>
     <e n="SelectInProjectView">
-      <i c="519" l="1699580414850" />
+      <i c="520" l="1699585577757" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="68" l="1699542781255" />
@@ -301,7 +301,7 @@
       <i c="180" l="1699581149358" />
     </e>
     <e n="ShowPopupMenu">
-      <i c="59" l="1699584296880" />
+      <i c="61" l="1699585636754" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="2" l="1697111801055" />
@@ -313,13 +313,13 @@
       <i c="164" l="1699580255417" />
     </e>
     <e n="Tree-selectNext">
-      <i c="5840" l="1699584296601" />
+      <i c="5881" l="1699585977259" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="8" l="1699369010286" />
     </e>
     <e n="Tree-selectParent">
-      <i c="399" l="1699580254445" />
+      <i c="403" l="1699585973844" />
     </e>
     <e n="Tree-selectPrevious">
       <i c="5557" l="1699584296397" />
@@ -421,7 +421,7 @@
       <i c="2" l="1697611761603" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="582" l="1699579906706" />
+      <i c="599" l="1699585646264" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="227" l="1699581080762" />
@@ -442,7 +442,7 @@
       <i c="2" l="1698225244462" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="60" l="1699542147586" />
+      <i c="62" l="1699585644396" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="2" l="1698843676524" />
@@ -478,7 +478,7 @@
       <i c="20" l="1699579312198" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
-      <i c="37" l="1699496520630" />
+      <i c="38" l="1699585637700" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutWithRebaseAction">
       <i c="1" l="1697611363183" />
@@ -493,7 +493,7 @@
       <i c="3" l="1699491227071" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$UpdateSelectedBranchAction">
-      <i c="14" l="1699584298491" />
+      <i c="15" l="1699585631197" />
     </e>
     <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$DeleteBranchAction">
       <i c="2" l="1698286283777" />
