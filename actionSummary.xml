@@ -10,7 +10,7 @@
       <i c="38" l="1699863979725" />
     </e>
     <e n="$Undo">
-      <i c="895" l="1699886474735" />
+      <i c="896" l="1699886561739" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="1" l="1699410655461" />
@@ -85,7 +85,7 @@
       <i c="342" l="1699884554876" />
     </e>
     <e n="EditorDown">
-      <i c="31484" l="1699886415348" />
+      <i c="31493" l="1699887679317" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="928" l="1699876237290" />
@@ -97,19 +97,19 @@
       <i c="261" l="1699880710117" />
     </e>
     <e n="EditorLeft">
-      <i c="23259" l="1699886473039" />
+      <i c="23302" l="1699887678277" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="358" l="1699876237394" />
     </e>
     <e n="EditorLineEnd">
-      <i c="2737" l="1699886472349" />
+      <i c="2739" l="1699887670635" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="353" l="1699881320745" />
     </e>
     <e n="EditorLineStart">
-      <i c="1874" l="1699886426614" />
+      <i c="1875" l="1699886584027" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="513" l="1699885354158" />
@@ -121,7 +121,7 @@
       <i c="498" l="1699884465953" />
     </e>
     <e n="EditorPaste">
-      <i c="2099" l="1699886423569" />
+      <i c="2104" l="1699887666532" />
     </e>
     <e n="EditorPreviousWord">
       <i c="1416" l="1699885353516" />
@@ -130,13 +130,13 @@
       <i c="907" l="1699884466430" />
     </e>
     <e n="EditorRight">
-      <i c="29497" l="1699886470934" />
+      <i c="29514" l="1699887675269" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="307" l="1699886470341" />
     </e>
     <e n="EditorSelectWord">
-      <i c="3491" l="1699886423343" />
+      <i c="3497" l="1699886583180" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1699843617071" />
@@ -154,7 +154,7 @@
       <i c="7" l="1699884425994" />
     </e>
     <e n="EditorUp">
-      <i c="31119" l="1699886413474" />
+      <i c="31135" l="1699887676489" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="1701" l="1699881377805" />
@@ -172,7 +172,7 @@
       <i c="665" l="1699884486410" />
     </e>
     <e n="FindInPath">
-      <i c="666" l="1699886405932" />
+      <i c="667" l="1699887666186" />
     </e>
     <e n="FindUsages">
       <i c="34" l="1699880625415" />
@@ -199,7 +199,7 @@
       <i c="1" l="1698623277789" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1323" l="1699885758478" />
+      <i c="1325" l="1699887673335" />
     </e>
     <e n="GotoImplementation">
       <i c="1" l="1698223336626" />
@@ -220,7 +220,7 @@
       <i c="4" l="1698650699971" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
-      <i c="5441" l="1699886427570" />
+      <i c="5442" l="1699886584571" />
     </e>
     <e n="JumpToLastChange">
       <i c="3" l="1699857795376" />
@@ -283,7 +283,7 @@
       <i c="1" l="1697440341201" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="5387" l="1699886427710" />
+      <i c="5388" l="1699886585835" />
     </e>
     <e n="RenameElement">
       <i c="11" l="1699581029210" />
@@ -397,7 +397,7 @@
       <i c="988" l="1699884484572" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="399" l="1699885358700" />
+      <i c="400" l="1699887668318" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="59" l="1699869547704" />
@@ -433,7 +433,7 @@
       <i c="2" l="1697611761603" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="648" l="1699884159034" />
+      <i c="651" l="1699887690001" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="258" l="1699886412189" />
@@ -469,7 +469,7 @@
       <i c="7" l="1699410541356" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="5577" l="1699886409031" />
+      <i c="5578" l="1699887667462" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="2023" l="1699885358398" />
