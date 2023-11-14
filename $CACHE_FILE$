@@ -15189,6 +15189,10 @@
             "nullablePluginName": "Illuminated Cloud"
           },
           {
+            "pluginIdString": "com.jedide.apex",
+            "nullablePluginName": "JetForcer | The Smartest Force.com IDE"
+          },
+          {
             "pluginIdString": "com.illuminatedcloud2.intellij",
             "nullablePluginName": "Illuminated Cloud 2"
           }
@@ -16162,6 +16166,14 @@
           {
             "pluginIdString": "com.bloxbean.algodea",
             "nullablePluginName": "AlgoDEA Algorand Integration"
+          }
+        ]
+      },
+      "*.templ": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.templ.templ",
+            "nullablePluginName": "Templ"
           }
         ]
       },
@@ -20280,7 +20292,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1699840939511
+    "lastUpdateTime": 1699941315091
   },
   "dependencies": {
     "featureMap": {
@@ -22053,7 +22065,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1699840939551
+    "lastUpdateTime": 1699941315198
   }
 }]]></component>
   <component name="PluginFeatureService">{
