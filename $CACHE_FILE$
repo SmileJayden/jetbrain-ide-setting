@@ -14640,6 +14640,14 @@
           }
         ]
       },
+      "*.sduml": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.sequencediagram.ideplugin",
+            "nullablePluginName": "SequenceDiagram.org"
+          }
+        ]
+      },
       "*.searchCustomization": {
         "dataSet": [
           {
@@ -20292,7 +20300,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1699941315091
+    "lastUpdateTime": 1700096066866
   },
   "dependencies": {
     "featureMap": {
@@ -22065,7 +22073,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1699941315198
+    "lastUpdateTime": 1700096067226
   }
 }]]></component>
   <component name="PluginFeatureService">{
