@@ -16,7 +16,7 @@
       <i c="1" l="1699410655461" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="435" l="1700550861181" />
+      <i c="437" l="1700551609735" />
     </e>
     <e n="Annotate">
       <i c="111" l="1699880893475" />
@@ -67,7 +67,7 @@
       <i c="2" l="1700105387684" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5344" l="1700146691097" />
+      <i c="5350" l="1700551599713" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="667" l="1700146673957" />
@@ -100,7 +100,7 @@
       <i c="276" l="1700146579285" />
     </e>
     <e n="EditorLeft">
-      <i c="25216" l="1700550862846" />
+      <i c="25218" l="1700551596405" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="371" l="1700121350960" />
@@ -121,7 +121,7 @@
       <i c="2022" l="1700146670424" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="524" l="1700121366693" />
+      <i c="525" l="1700551596596" />
     </e>
     <e n="EditorPaste">
       <i c="2248" l="1700550923029" />
@@ -133,7 +133,7 @@
       <i c="982" l="1700146693327" />
     </e>
     <e n="EditorRight">
-      <i c="31821" l="1700550863475" />
+      <i c="31825" l="1700551596044" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="359" l="1700121369326" />
@@ -316,7 +316,7 @@
       <i c="200" l="1700106858537" />
     </e>
     <e n="ShowPopupMenu">
-      <i c="96" l="1700147051460" />
+      <i c="98" l="1700551594647" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="2" l="1697111801055" />
@@ -328,7 +328,7 @@
       <i c="184" l="1700115688973" />
     </e>
     <e n="Tree-selectNext">
-      <i c="6603" l="1700147049778" />
+      <i c="6604" l="1700551593417" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="15" l="1700120063970" />
@@ -337,7 +337,7 @@
       <i c="470" l="1700115683468" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="6264" l="1700147049588" />
+      <i c="6266" l="1700551594257" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="6" l="1700147051254" />
@@ -481,10 +481,10 @@
       <i c="2152" l="1700550091082" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
-      <i c="42" l="1700109073574" />
+      <i c="43" l="1700551584807" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyPreviousTabAction">
-      <i c="16" l="1700104701244" />
+      <i c="18" l="1700551584504" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
       <i c="966" l="1700550824548" />
@@ -496,7 +496,7 @@
       <i c="10" l="1700120513799" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$CheckoutAsNewBranch">
-      <i c="33" l="1700050558033" />
+      <i c="34" l="1700551595220" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
       <i c="43" l="1700052646196" />
@@ -520,7 +520,7 @@
       <i c="2" l="1698286283777" />
     </e>
     <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$UpdateSelectedBranchAction">
-      <i c="58" l="1700147052188" />
+      <i c="59" l="1700551586366" />
     </e>
     <e n="org.jetbrains.plugins.github.pullrequest.comment.action.GHPRDiffReviewThreadsToggleAction$ToggleOptionAction">
       <i c="1" l="1697029206804" />
