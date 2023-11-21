@@ -49,7 +49,7 @@
       <i c="1" l="1698620517896" />
     </e>
     <e n="CollapseSelection">
-      <i c="35" l="1700105903524" />
+      <i c="36" l="1700569658074" />
     </e>
     <e n="ColoredHeaderAction">
       <i c="2" l="1698225274794" />
@@ -76,7 +76,7 @@
       <i c="145" l="1700120539764" />
     </e>
     <e n="EditorCopy">
-      <i c="2061" l="1700556955566" />
+      <i c="2064" l="1700569677631" />
     </e>
     <e n="EditorCut">
       <i c="340" l="1700146664638" />
@@ -88,7 +88,7 @@
       <i c="361" l="1700557453520" />
     </e>
     <e n="EditorDown">
-      <i c="34158" l="1700567418946" />
+      <i c="34332" l="1700569675745" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="992" l="1700146620740" />
@@ -97,22 +97,22 @@
       <i c="1824" l="1700146633572" />
     </e>
     <e n="EditorEscape">
-      <i c="279" l="1700556917636" />
+      <i c="280" l="1700569969210" />
     </e>
     <e n="EditorLeft">
-      <i c="25263" l="1700556946998" />
+      <i c="25312" l="1700569670053" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="371" l="1700121350960" />
     </e>
     <e n="EditorLineEnd">
-      <i c="2945" l="1700556953517" />
+      <i c="2951" l="1700569657662" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="372" l="1700146690763" />
     </e>
     <e n="EditorLineStart">
-      <i c="1997" l="1700556957173" />
+      <i c="2002" l="1700569638667" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="555" l="1700557443927" />
@@ -121,28 +121,28 @@
       <i c="2037" l="1700556919791" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="527" l="1700551648043" />
+      <i c="528" l="1700569622513" />
     </e>
     <e n="EditorPageDown">
       <i c="1" l="1700556786088" />
     </e>
     <e n="EditorPaste">
-      <i c="2253" l="1700557452005" />
+      <i c="2255" l="1700569699201" />
     </e>
     <e n="EditorPreviousWord">
       <i c="1481" l="1700557442870" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="987" l="1700556920634" />
+      <i c="988" l="1700569620793" />
     </e>
     <e n="EditorRight">
-      <i c="31883" l="1700556958394" />
+      <i c="31895" l="1700569622057" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="359" l="1700121369326" />
     </e>
     <e n="EditorSelectWord">
-      <i c="3797" l="1700556958462" />
+      <i c="3800" l="1700569676792" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1699843617071" />
@@ -156,11 +156,14 @@
     <e n="EditorTabsEntryPoint">
       <i c="1" l="1698225402044" />
     </e>
+    <e n="EditorTextStart">
+      <i c="2" l="1700569612820" />
+    </e>
     <e n="EditorToggleCase">
       <i c="7" l="1699884425994" />
     </e>
     <e n="EditorUp">
-      <i c="33767" l="1700567417974" />
+      <i c="33838" l="1700569675180" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="1872" l="1700551643775" />
@@ -175,10 +178,10 @@
       <i c="6" l="1700050710355" />
     </e>
     <e n="Find">
-      <i c="742" l="1700567411596" />
+      <i c="743" l="1700569699057" />
     </e>
     <e n="FindInPath">
-      <i c="732" l="1700557441100" />
+      <i c="733" l="1700567497703" />
     </e>
     <e n="FindUsages">
       <i c="37" l="1700550863793" />
@@ -304,7 +307,7 @@
       <i c="1" l="1697621419934" />
     </e>
     <e n="SaveAll">
-      <i c="3147" l="1700146696494" />
+      <i c="3151" l="1700569624008" />
     </e>
     <e n="SaveAs">
       <i c="2" l="1698851298841" />
@@ -313,7 +316,7 @@
       <i c="6" l="1700051698356" />
     </e>
     <e n="SelectInProjectView">
-      <i c="599" l="1700567408884" />
+      <i c="606" l="1700569662929" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="68" l="1699542781255" />
@@ -334,7 +337,7 @@
       <i c="185" l="1700552853761" />
     </e>
     <e n="Tree-selectNext">
-      <i c="6695" l="1700567409999" />
+      <i c="6742" l="1700569665654" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="15" l="1700120063970" />
@@ -343,7 +346,7 @@
       <i c="483" l="1700567212246" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="6339" l="1700567211830" />
+      <i c="6376" l="1700569665938" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="6" l="1700147051254" />
@@ -448,10 +451,10 @@
       <i c="2" l="1697611761603" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="709" l="1700556852186" />
+      <i c="710" l="1700569972236" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="291" l="1700557457212" />
+      <i c="292" l="1700567498763" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="3" l="1700106566938" />
