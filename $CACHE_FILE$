@@ -1478,11 +1478,27 @@
           }
         ]
       },
+      "*-ave.fif": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.anbara.mneiconsjetbrains",
+            "nullablePluginName": "MNE Icons"
+          }
+        ]
+      },
       "*-CONF": {
         "dataSet": [
           {
             "pluginIdString": "pl.jakubchmura.snmp.mib",
             "nullablePluginName": "MIB Support"
+          }
+        ]
+      },
+      "*-epo.fif": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.anbara.mneiconsjetbrains",
+            "nullablePluginName": "MNE Icons"
           }
         ]
       },
@@ -1518,6 +1534,14 @@
           }
         ]
       },
+      "*-raw.fif": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.anbara.mneiconsjetbrains",
+            "nullablePluginName": "MNE Icons"
+          }
+        ]
+      },
       "*-SMI": {
         "dataSet": [
           {
@@ -1531,6 +1555,14 @@
           {
             "pluginIdString": "pl.jakubchmura.snmp.mib",
             "nullablePluginName": "MIB Support"
+          }
+        ]
+      },
+      "*-tfr.h5": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.anbara.mneiconsjetbrains",
+            "nullablePluginName": "MNE Icons"
           }
         ]
       },
@@ -5218,10 +5250,6 @@
       },
       "*.dto": {
         "dataSet": [
-          {
-            "pluginIdString": "dev.huyaro.lang",
-            "nullablePluginName": "Jimmer Dto Lang"
-          },
           {
             "pluginIdString": "net.fallingangel.jimmer-dto",
             "nullablePluginName": "JimmerDTO"
@@ -19971,6 +19999,14 @@
           }
         ]
       },
+      "rescript.json": {
+        "dataSet": [
+          {
+            "pluginIdString": "reasonml",
+            "nullablePluginName": "ReasonML"
+          }
+        ]
+      },
       "routes": {
         "dataSet": [
           {
@@ -20300,7 +20336,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1700096066866
+    "lastUpdateTime": 1700567201348
   },
   "dependencies": {
     "featureMap": {
@@ -22073,7 +22109,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1700096067226
+    "lastUpdateTime": 1700567201433
   }
 }]]></component>
   <component name="PluginFeatureService">{

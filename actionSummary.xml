@@ -88,7 +88,7 @@
       <i c="361" l="1700557453520" />
     </e>
     <e n="EditorDown">
-      <i c="34137" l="1700556963717" />
+      <i c="34158" l="1700567418946" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="992" l="1700146620740" />
@@ -160,7 +160,7 @@
       <i c="7" l="1699884425994" />
     </e>
     <e n="EditorUp">
-      <i c="33752" l="1700556968454" />
+      <i c="33767" l="1700567417974" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="1872" l="1700551643775" />
@@ -175,7 +175,7 @@
       <i c="6" l="1700050710355" />
     </e>
     <e n="Find">
-      <i c="741" l="1700556958503" />
+      <i c="742" l="1700567411596" />
     </e>
     <e n="FindInPath">
       <i c="732" l="1700557441100" />
@@ -274,10 +274,13 @@
       <i c="7" l="1699581033114" />
     </e>
     <e n="OpenFile">
-      <i c="21" l="1699846424349" />
+      <i c="22" l="1700567189477" />
     </e>
     <e n="PasteMultiple">
       <i c="1" l="1698761217082" />
+    </e>
+    <e n="PrettierImportCodeStyleAction">
+      <i c="1" l="1700567421498" />
     </e>
     <e n="PrevSplitter">
       <i c="343" l="1700557067679" />
@@ -310,7 +313,7 @@
       <i c="6" l="1700051698356" />
     </e>
     <e n="SelectInProjectView">
-      <i c="597" l="1700557062638" />
+      <i c="599" l="1700567408884" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="68" l="1699542781255" />
@@ -331,16 +334,16 @@
       <i c="185" l="1700552853761" />
     </e>
     <e n="Tree-selectNext">
-      <i c="6658" l="1700557064331" />
+      <i c="6695" l="1700567409999" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="15" l="1700120063970" />
     </e>
     <e n="Tree-selectParent">
-      <i c="479" l="1700552861079" />
+      <i c="483" l="1700567212246" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="6322" l="1700557064894" />
+      <i c="6339" l="1700567211830" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="6" l="1700147051254" />
@@ -385,7 +388,7 @@
       <i c="1" l="1697619988383" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="683" l="1700556946222" />
+      <i c="684" l="1700567413188" />
     </e>
     <e n="com.intellij.find.SearchTextArea$ClearAction">
       <i c="2" l="1698904569928" />
@@ -397,10 +400,10 @@
       <i c="1" l="1697450059132" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
-      <i c="1625" l="1700556958890" />
+      <i c="1626" l="1700567412366" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
-      <i c="1093" l="1700556945801" />
+      <i c="1094" l="1700567412845" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.SwitchToFind">
       <i c="1" l="1700120355572" />
