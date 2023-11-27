@@ -157,25 +157,9 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Development/fintech">
-          <value>
-            <RecentProjectMetaInfo frameTitle="fintech – AmountRightLabel.tsx" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
-              <option name="activationTimestamp" value="1700748642719" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9921.42" />
-              <option name="buildTimestamp" value="1694512391144" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" />
-              </option>
-              <frame x="0" y="17" width="1024" height="752" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1700672376599" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Downloads/토스증권_박남준_과제">
           <value>
-            <RecentProjectMetaInfo frameTitle="토스증권_박남준_과제 – TradePage.tsx" opened="true" projectWorkspaceId="2YYbafjxnDPpiyUcKhpCPmS7220">
+            <RecentProjectMetaInfo frameTitle="토스증권_박남준_과제 – TradePage.tsx" projectWorkspaceId="2YYbafjxnDPpiyUcKhpCPmS7220">
               <option name="activationTimestamp" value="1701043430987" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
@@ -183,7 +167,7 @@
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
-              <frame x="189" y="139" width="1134" height="721" extendedState="6" />
+              <frame x="0" y="38" width="1512" height="944" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1700705525063" />
             </RecentProjectMetaInfo>
@@ -191,21 +175,38 @@
         </entry>
         <entry key="$USER_HOME$/Downloads/toss-stock-trading-feature">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2YjYtj27Gwqt7URf8p8lM5MJfRM">
-              <option name="activationTimestamp" value="1701043059185" />
+            <RecentProjectMetaInfo frameTitle="toss-stock-trading-feature – 3__TradePage.spec.tsx" projectWorkspaceId="2YjYtj27Gwqt7URf8p8lM5MJfRM">
+              <option name="activationTimestamp" value="1701052546825" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512404865" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="4" />
               </option>
+              <frame x="56" y="58" width="1400" height="904" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1701040673074" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Development/fintech">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fintech – AmountRightLabel.tsx" opened="true" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
+              <option name="activationTimestamp" value="1701065526798" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9921.42" />
+              <option name="buildTimestamp" value="1694512418746" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="25" width="1920" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1701053976011" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Downloads/토스증권_박남준_과제" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/fintech" />
   </component>
 </application>
