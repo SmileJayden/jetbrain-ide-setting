@@ -29,22 +29,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Development/query">
-          <value>
-            <RecentProjectMetaInfo frameTitle="query – queryCache.ts" projectWorkspaceId="2RVAZIRBWCfOtQ8XZ1U5q7Kn1kw">
-              <option name="activationTimestamp" value="1699410492513" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9921.42" />
-              <option name="buildTimestamp" value="1694512410157" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
-              </option>
-              <frame x="10" y="472" width="1060" height="1000" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1699409548835" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Development/assginment/shinkj11/toss-stock-trading">
           <value>
             <RecentProjectMetaInfo frameTitle="toss-stock-trading – OrderDetailPage.tsx" projectWorkspaceId="2Y6L9n7wrP3gtueWBYdZWaGuApk">
@@ -191,22 +175,38 @@
         </entry>
         <entry key="$USER_HOME$/Development/fintech">
           <value>
-            <RecentProjectMetaInfo frameTitle="fintech – useSwitchAccessoryButton.tsx" opened="true" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
-              <option name="activationTimestamp" value="1701333693613" />
+            <RecentProjectMetaInfo frameTitle="fintech – useStockContext.tsx" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
+              <option name="activationTimestamp" value="1701336023962" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512418746" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
-              <frame x="1080" y="425" width="1080" height="1055" extendedState="6" />
+              <frame x="56" y="58" width="1400" height="904" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1701053976011" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Development/query">
+          <value>
+            <RecentProjectMetaInfo frameTitle="query – queryCache.ts" opened="true" projectWorkspaceId="2RVAZIRBWCfOtQ8XZ1U5q7Kn1kw">
+              <option name="activationTimestamp" value="1701336181179" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9921.42" />
+              <option name="buildTimestamp" value="1694512392988" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="10" y="472" width="1060" height="1000" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1701336031710" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/fintech" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/query" />
   </component>
 </application>
