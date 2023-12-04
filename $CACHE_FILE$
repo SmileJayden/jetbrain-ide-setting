@@ -2858,7 +2858,7 @@
         "dataSet": [
           {
             "pluginIdString": "org.exbin.deltahex.intellij",
-            "nullablePluginName": "BinEd - Binary/Hexadecimal Editor"
+            "nullablePluginName": "BinEd - Binary/Hex Editor"
           }
         ]
       },
@@ -6351,10 +6351,6 @@
           {
             "pluginIdString": "com.intellij.database",
             "nullablePluginName": "Database Tools and SQL for WebStorm"
-          },
-          {
-            "pluginIdString": "com.brucege.DatabaseHelper",
-            "nullablePluginName": "DatabaseHelper"
           }
         ]
       },
@@ -12394,10 +12390,6 @@
           {
             "pluginIdString": "com.intellij.database",
             "nullablePluginName": "Database Tools and SQL for WebStorm"
-          },
-          {
-            "pluginIdString": "com.brucege.DatabaseHelper",
-            "nullablePluginName": "DatabaseHelper"
           }
         ]
       },
@@ -12411,10 +12403,6 @@
       },
       "*.pkg": {
         "dataSet": [
-          {
-            "pluginIdString": "com.brucege.DatabaseHelper",
-            "nullablePluginName": "DatabaseHelper"
-          },
           {
             "pluginIdString": "DBN",
             "nullablePluginName": "Database Navigator"
@@ -12431,10 +12419,6 @@
       },
       "*.pks": {
         "dataSet": [
-          {
-            "pluginIdString": "com.brucege.DatabaseHelper",
-            "nullablePluginName": "DatabaseHelper"
-          },
           {
             "pluginIdString": "DBN",
             "nullablePluginName": "Database Navigator"
@@ -12564,10 +12548,6 @@
           {
             "pluginIdString": "DBN",
             "nullablePluginName": "Database Navigator"
-          },
-          {
-            "pluginIdString": "com.brucege.DatabaseHelper",
-            "nullablePluginName": "DatabaseHelper"
           }
         ]
       },
@@ -12793,10 +12773,6 @@
       },
       "*.prc": {
         "dataSet": [
-          {
-            "pluginIdString": "com.brucege.DatabaseHelper",
-            "nullablePluginName": "DatabaseHelper"
-          },
           {
             "pluginIdString": "DBN",
             "nullablePluginName": "Database Navigator"
@@ -13086,10 +13062,6 @@
           {
             "pluginIdString": "DBN",
             "nullablePluginName": "Database Navigator"
-          },
-          {
-            "pluginIdString": "com.brucege.DatabaseHelper",
-            "nullablePluginName": "DatabaseHelper"
           }
         ]
       },
@@ -15401,10 +15373,6 @@
           {
             "pluginIdString": "com.db.database.tool",
             "nullablePluginName": "Database Tool"
-          },
-          {
-            "pluginIdString": "com.brucege.DatabaseHelper",
-            "nullablePluginName": "DatabaseHelper"
           }
         ]
       },
@@ -16706,10 +16674,6 @@
       "*.tpb": {
         "dataSet": [
           {
-            "pluginIdString": "com.brucege.DatabaseHelper",
-            "nullablePluginName": "DatabaseHelper"
-          },
-          {
             "pluginIdString": "DBN",
             "nullablePluginName": "Database Navigator"
           },
@@ -16724,19 +16688,11 @@
           {
             "pluginIdString": "DBN",
             "nullablePluginName": "Database Navigator"
-          },
-          {
-            "pluginIdString": "com.brucege.DatabaseHelper",
-            "nullablePluginName": "DatabaseHelper"
           }
         ]
       },
       "*.tpl": {
         "dataSet": [
-          {
-            "pluginIdString": "com.voc.ide.plugin.tools",
-            "nullablePluginName": "DevTools"
-          },
           {
             "pluginIdString": "com.jetbrains.php",
             "nullablePluginName": "PHP",
@@ -16749,6 +16705,10 @@
           {
             "pluginIdString": "idea.plugins.prado",
             "nullablePluginName": "PRADO Plugin"
+          },
+          {
+            "pluginIdString": "com.voc.ide.plugin.tools",
+            "nullablePluginName": "DevTools"
           }
         ]
       },
@@ -16761,10 +16721,6 @@
           {
             "pluginIdString": "com.intellij.database",
             "nullablePluginName": "Database Tools and SQL for WebStorm"
-          },
-          {
-            "pluginIdString": "com.brucege.DatabaseHelper",
-            "nullablePluginName": "DatabaseHelper"
           }
         ]
       },
@@ -16881,10 +16837,6 @@
           {
             "pluginIdString": "com.intellij.database",
             "nullablePluginName": "Database Tools and SQL for WebStorm"
-          },
-          {
-            "pluginIdString": "com.brucege.DatabaseHelper",
-            "nullablePluginName": "DatabaseHelper"
           }
         ]
       },
@@ -17645,10 +17597,6 @@
           {
             "pluginIdString": "com.intellij.database",
             "nullablePluginName": "Database Tools and SQL for WebStorm"
-          },
-          {
-            "pluginIdString": "com.brucege.DatabaseHelper",
-            "nullablePluginName": "DatabaseHelper"
           }
         ]
       },
@@ -20336,7 +20284,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1701332206480
+    "lastUpdateTime": 1701675216078
   },
   "dependencies": {
     "featureMap": {
@@ -22109,7 +22057,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1701332206572
+    "lastUpdateTime": 1701675216127
   }
 }]]></component>
   <component name="PluginFeatureService">{
