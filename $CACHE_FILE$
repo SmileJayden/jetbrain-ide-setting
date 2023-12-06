@@ -3931,6 +3931,10 @@
           {
             "pluginIdString": "reasonml",
             "nullablePluginName": "ReasonML"
+          },
+          {
+            "pluginIdString": "com.kozhun.commit-message-template",
+            "nullablePluginName": "Commit Message Template"
           }
         ]
       },
@@ -10018,6 +10022,10 @@
           {
             "pluginIdString": "io.github.riej.lsl",
             "nullablePluginName": "Linden Script (LSL)"
+          },
+          {
+            "pluginIdString": "com.github.kechinvv.libslpluginij",
+            "nullablePluginName": "LibSL Support"
           }
         ]
       },
@@ -11435,7 +11443,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.noumenadigital.npl.idea",
-            "nullablePluginName": "Noumena Protocol Language (NPL)"
+            "nullablePluginName": "NPL-Dev"
           }
         ]
       },
@@ -15393,6 +15401,14 @@
         ]
       },
       "*.sqlpp": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.couchbase.couchbase-intellij-plugin",
+            "nullablePluginName": "Couchbase"
+          }
+        ]
+      },
+      "*.sqlppl": {
         "dataSet": [
           {
             "pluginIdString": "com.couchbase.couchbase-intellij-plugin",
@@ -20284,7 +20300,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1701675216078
+    "lastUpdateTime": 1701823528358
   },
   "dependencies": {
     "featureMap": {
@@ -20572,7 +20588,7 @@
         "dataSet": [
           {
             "pluginIdString": "aws.toolkit",
-            "nullablePluginName": "AWS Toolkit"
+            "nullablePluginName": "AWS Toolkit - Amazon Q, CodeWhisperer, and more"
           }
         ]
       },
@@ -21704,7 +21720,7 @@
         "dataSet": [
           {
             "pluginIdString": "aws.toolkit",
-            "nullablePluginName": "AWS Toolkit"
+            "nullablePluginName": "AWS Toolkit - Amazon Q, CodeWhisperer, and more"
           }
         ]
       },
@@ -22057,7 +22073,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1701675216127
+    "lastUpdateTime": 1701823528644
   }
 }]]></component>
   <component name="PluginFeatureService">{
