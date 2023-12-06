@@ -22,7 +22,7 @@
       <i c="3" l="1700640721794" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="639" l="1701856362899" />
+      <i c="641" l="1701874331583" />
     </e>
     <e n="Annotate">
       <i c="121" l="1701853168415" />
@@ -238,7 +238,7 @@
       <i c="4" l="1698650699971" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
-      <i c="7129" l="1701856567101" />
+      <i c="7131" l="1701856599791" />
     </e>
     <e n="JumpToLastChange">
       <i c="4" l="1701849692201" />
@@ -304,7 +304,7 @@
       <i c="1" l="1697440341201" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="6970" l="1701856567243" />
+      <i c="6972" l="1701856599926" />
     </e>
     <e n="RenameElement">
       <i c="33" l="1701855925698" />
@@ -334,7 +334,7 @@
       <i c="239" l="1701856461883" />
     </e>
     <e n="ShowPopupMenu">
-      <i c="151" l="1701855855962" />
+      <i c="152" l="1701874329382" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="2" l="1697111801055" />
@@ -349,7 +349,7 @@
       <i c="252" l="1701853015458" />
     </e>
     <e n="Tree-selectNext">
-      <i c="8165" l="1701856459327" />
+      <i c="8166" l="1701874328816" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="41" l="1701824097771" />
@@ -361,7 +361,7 @@
       <i c="7589" l="1701856459760" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
-      <i c="11" l="1701855822828" />
+      <i c="12" l="1701874329087" />
     </e>
     <e n="Vcs.Log.GoToRef">
       <i c="1" l="1698636632512" />
@@ -508,10 +508,10 @@
       <i c="2785" l="1701856481067" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
-      <i c="63" l="1701824096807" />
+      <i c="65" l="1701874327915" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyPreviousTabAction">
-      <i c="26" l="1701824096454" />
+      <i c="28" l="1701874331010" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
       <i c="1235" l="1701856491681" />
@@ -547,7 +547,7 @@
       <i c="2" l="1698286283777" />
     </e>
     <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$UpdateSelectedBranchAction">
-      <i c="71" l="1701855823937" />
+      <i c="72" l="1701874330459" />
     </e>
     <e n="org.jetbrains.plugins.github.pullrequest.comment.action.GHPRDiffReviewThreadsToggleAction$ToggleOptionAction">
       <i c="1" l="1697029206804" />
