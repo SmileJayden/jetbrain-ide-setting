@@ -4811,6 +4811,22 @@
           }
         ]
       },
+      "*.decisionMatrixDefinition": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.illuminatedcloud2.intellij",
+            "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
+      "*.decisionMatrixVersion": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.illuminatedcloud2.intellij",
+            "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
       "*.decode": {
         "dataSet": [
           {
@@ -5982,6 +5998,30 @@
         ]
       },
       "*.experiencePropertyTypeBundle": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.illuminatedcloud2.intellij",
+            "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
+      "*.expressionSetDefinition": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.illuminatedcloud2.intellij",
+            "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
+      "*.expressionSetObjectAlias": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.illuminatedcloud2.intellij",
+            "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
+      "*.expressionSetVersion": {
         "dataSet": [
           {
             "pluginIdString": "com.illuminatedcloud2.intellij",
@@ -11334,6 +11374,10 @@
       "*.nim": {
         "dataSet": [
           {
+            "pluginIdString": "com.tiepy.nimatron",
+            "nullablePluginName": "Nimatron"
+          },
+          {
             "pluginIdString": "com.jetbrains.nim",
             "nullablePluginName": "Nim"
           },
@@ -11344,10 +11388,6 @@
           {
             "pluginIdString": "com.deflatedpickle.nim",
             "nullablePluginName": "Nim Language Support"
-          },
-          {
-            "pluginIdString": "com.tiepy.nimatron",
-            "nullablePluginName": "Nimatron"
           }
         ]
       },
@@ -15845,12 +15885,12 @@
       "*.swift": {
         "dataSet": [
           {
-            "pluginIdString": "com.intellij.clion-swift",
-            "nullablePluginName": "Swift"
-          },
-          {
             "pluginIdString": "dev.j-a.swift",
             "nullablePluginName": "Swift Support"
+          },
+          {
+            "pluginIdString": "com.intellij.clion-swift",
+            "nullablePluginName": "Swift"
           }
         ]
       },
@@ -20300,7 +20340,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1701823528358
+    "lastUpdateTime": 1701937246397
   },
   "dependencies": {
     "featureMap": {
@@ -22073,7 +22113,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1701823528644
+    "lastUpdateTime": 1701937246455
   }
 }]]></component>
   <component name="PluginFeatureService">{
