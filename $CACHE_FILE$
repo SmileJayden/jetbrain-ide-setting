@@ -1155,6 +1155,14 @@
           }
         ]
       },
+      ".courseignore": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.jetbrains.edu",
+            "nullablePluginName": "JetBrains Academy"
+          }
+        ]
+      },
       ".editorconfig": {
         "dataSet": [
           {
@@ -20340,7 +20348,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1701937246397
+    "lastUpdateTime": 1702269659468
   },
   "dependencies": {
     "featureMap": {
@@ -22113,7 +22121,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1701937246455
+    "lastUpdateTime": 1702269659518
   }
 }]]></component>
   <component name="PluginFeatureService">{
