@@ -22,7 +22,7 @@
       <i c="3" l="1700640721794" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="751" l="1702406644935" />
+      <i c="752" l="1702451919928" />
     </e>
     <e n="Annotate">
       <i c="138" l="1702433234212" />
@@ -337,7 +337,7 @@
       <i c="254" l="1702404305396" />
     </e>
     <e n="ShowPopupMenu">
-      <i c="181" l="1702404609869" />
+      <i c="184" l="1702451929711" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="3" l="1702404486464" />
@@ -352,19 +352,19 @@
       <i c="341" l="1702433365698" />
     </e>
     <e n="Tree-selectNext">
-      <i c="9014" l="1702443231871" />
+      <i c="9023" l="1702451926576" />
     </e>
     <e n="Tree-selectNextExtendSelection">
-      <i c="43" l="1702394445334" />
+      <i c="45" l="1702451928806" />
     </e>
     <e n="Tree-selectParent">
       <i c="696" l="1702444968317" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="8171" l="1702444968828" />
+      <i c="8172" l="1702451926416" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
-      <i c="13" l="1701998070175" />
+      <i c="15" l="1702451929372" />
     </e>
     <e n="Vcs.Log.GoToRef">
       <i c="1" l="1698636632512" />
@@ -496,7 +496,7 @@
       <i c="2" l="1698225244462" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="100" l="1702404139244" />
+      <i c="101" l="1702452120206" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="6" l="1700706305454" />
@@ -514,7 +514,7 @@
       <i c="3201" l="1702406630510" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
-      <i c="71" l="1702394443760" />
+      <i c="73" l="1702451922277" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyPreviousTabAction">
       <i c="38" l="1702368229814" />
@@ -556,7 +556,7 @@
       <i c="2" l="1698286283777" />
     </e>
     <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$UpdateSelectedBranchAction">
-      <i c="76" l="1702394446556" />
+      <i c="77" l="1702451930523" />
     </e>
     <e n="org.jetbrains.plugins.github.pullrequest.comment.action.GHPRDiffReviewThreadsToggleAction$ToggleOptionAction">
       <i c="1" l="1697029206804" />
