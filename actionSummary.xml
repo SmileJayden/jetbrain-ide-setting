@@ -88,13 +88,13 @@
       <i c="462" l="1702533244365" />
     </e>
     <e n="EditorDeleteLine">
-      <i c="734" l="1702533311220" />
+      <i c="736" l="1702542883837" />
     </e>
     <e n="EditorDeleteToWordStart">
       <i c="567" l="1702455896200" />
     </e>
     <e n="EditorDown">
-      <i c="51827" l="1702533332461" />
+      <i c="51848" l="1702542883120" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="1986" l="1702533142969" />
@@ -172,7 +172,7 @@
       <i c="11" l="1702008311543" />
     </e>
     <e n="EditorUp">
-      <i c="49751" l="1702533335081" />
+      <i c="49752" l="1702542883528" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="3277" l="1702533143367" />
@@ -217,7 +217,7 @@
       <i c="1" l="1698623277789" />
     </e>
     <e n="GotoDeclaration">
-      <i c="2037" l="1702534291538" />
+      <i c="2038" l="1702542752669" />
     </e>
     <e n="GotoImplementation">
       <i c="3" l="1701879697634" />
@@ -268,7 +268,7 @@
       <i c="9" l="1701877559758" />
     </e>
     <e n="MoveTabRight">
-      <i c="85" l="1702457256634" />
+      <i c="87" l="1702542733133" />
     </e>
     <e n="NewDir">
       <i c="12" l="1702368278430" />
@@ -319,7 +319,7 @@
       <i c="1" l="1697621419934" />
     </e>
     <e n="SaveAll">
-      <i c="4385" l="1702533342404" />
+      <i c="4387" l="1702542884127" />
     </e>
     <e n="SaveAs">
       <i c="2" l="1698851298841" />
@@ -328,7 +328,7 @@
       <i c="21" l="1702445216745" />
     </e>
     <e n="SelectInProjectView">
-      <i c="936" l="1702534286307" />
+      <i c="937" l="1702542724091" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="292" l="1702457704441" />
@@ -349,10 +349,10 @@
       <i c="18" l="1702369991674" />
     </e>
     <e n="Tree-selectChild">
-      <i c="353" l="1702534301158" />
+      <i c="354" l="1702542727119" />
     </e>
     <e n="Tree-selectNext">
-      <i c="9161" l="1702534301803" />
+      <i c="9166" l="1702542727470" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="45" l="1702451928806" />
@@ -469,7 +469,7 @@
       <i c="2" l="1697611761603" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1004" l="1702516356883" />
+      <i c="1009" l="1702542722531" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="426" l="1702460459599" />
