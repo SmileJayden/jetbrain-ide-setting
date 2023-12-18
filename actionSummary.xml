@@ -22,7 +22,7 @@
       <i c="3" l="1700640721794" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="793" l="1702888307675" />
+      <i c="794" l="1702906166590" />
     </e>
     <e n="Annotate">
       <i c="154" l="1702893732817" />
@@ -82,7 +82,7 @@
       <i c="184" l="1702460066960" />
     </e>
     <e n="EditorCopy">
-      <i c="2988" l="1702894425864" />
+      <i c="2990" l="1702894533206" />
     </e>
     <e n="EditorCut">
       <i c="472" l="1702877178557" />
@@ -97,7 +97,7 @@
       <i c="54641" l="1702894446888" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="2018" l="1702572044812" />
+      <i c="2132" l="1702894496527" />
     </e>
     <e n="EditorEnter">
       <i c="2595" l="1702877175275" />
@@ -115,10 +115,10 @@
       <i c="4368" l="1702894425174" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="566" l="1702891250907" />
+      <i c="568" l="1702894498142" />
     </e>
     <e n="EditorLineStart">
-      <i c="3047" l="1702894383620" />
+      <i c="3048" l="1702894492368" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="834" l="1702886916254" />
@@ -151,7 +151,7 @@
       <i c="542" l="1702888720365" />
     </e>
     <e n="EditorSelectWord">
-      <i c="5561" l="1702894425733" />
+      <i c="5562" l="1702894533056" />
     </e>
     <e n="EditorSplitLine">
       <i c="6" l="1702402587862" />
@@ -172,10 +172,10 @@
       <i c="11" l="1702008311543" />
     </e>
     <e n="EditorUp">
-      <i c="52353" l="1702894442748" />
+      <i c="52354" l="1702894491833" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="3303" l="1702649069147" />
+      <i c="3316" l="1702894497964" />
     </e>
     <e n="EmojiAndSymbols">
       <i c="4" l="1702399294020" />
@@ -270,6 +270,9 @@
     <e n="MoveTabRight">
       <i c="92" l="1702889100676" />
     </e>
+    <e n="NavBar-selectUp">
+      <i c="1" l="1702894490094" />
+    </e>
     <e n="NewDir">
       <i c="12" l="1702368278430" />
     </e>
@@ -337,7 +340,7 @@
       <i c="263" l="1702617309327" />
     </e>
     <e n="ShowPopupMenu">
-      <i c="202" l="1702888296912" />
+      <i c="203" l="1702906168772" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="6" l="1702552680866" />
@@ -352,7 +355,7 @@
       <i c="380" l="1702888391318" />
     </e>
     <e n="Tree-selectNext">
-      <i c="9798" l="1702891607420" />
+      <i c="9799" l="1702906168190" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="46" l="1702888292361" />
@@ -361,7 +364,7 @@
       <i c="755" l="1702888290913" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="8762" l="1702888391207" />
+      <i c="8763" l="1702906168404" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="16" l="1702868228113" />
@@ -504,8 +507,11 @@
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
       <i c="28" l="1702399933361" />
     </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveHomeAction">
+      <i c="1" l="1702894490327" />
+    </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
-      <i c="16" l="1702403277114" />
+      <i c="17" l="1702894490614" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="10156" l="1702893459238" />
@@ -550,7 +556,7 @@
       <i c="3" l="1699491227071" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$UpdateSelectedBranchAction">
-      <i c="51" l="1702878140594" />
+      <i c="52" l="1702906169818" />
     </e>
     <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$DeleteBranchAction">
       <i c="2" l="1698286283777" />
