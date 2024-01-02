@@ -1667,6 +1667,10 @@
           {
             "pluginIdString": "com.github.camork.fix.fileExpander",
             "nullablePluginName": "File Expander2"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -2243,16 +2247,15 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
       "*.as": {
         "dataSet": [
-          {
-            "pluginIdString": "JavaScript",
-            "nullablePluginName": "JavaScript Support",
-            "isBundled": true
-          },
           {
             "pluginIdString": "com.angelscript-intellij",
             "nullablePluginName": "AngelScript Language Support"
@@ -2260,6 +2263,11 @@
           {
             "pluginIdString": "JavaScript",
             "nullablePluginName": "JavaScript and TypeScript"
+          },
+          {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript Support",
+            "isBundled": true
           }
         ]
       },
@@ -2973,7 +2981,7 @@
       "*.boc": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.andreypfau.intellij-ton",
+            "pluginIdString": "org.ton.intellij-ton",
             "nullablePluginName": "TON"
           }
         ]
@@ -3211,6 +3219,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -3280,6 +3292,10 @@
       },
       "*.cab": {
         "dataSet": [
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
@@ -3673,6 +3689,14 @@
           }
         ]
       },
+      "*.ch.hcl": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.ariga.atlas.hcl",
+            "nullablePluginName": "Atlas HCL"
+          }
+        ]
+      },
       "*.channelLayout": {
         "dataSet": [
           {
@@ -3706,6 +3730,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -4305,6 +4333,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -4790,6 +4822,10 @@
       "*.deb": {
         "dataSet": [
           {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
+          {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
           }
@@ -5080,6 +5116,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -6050,6 +6090,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -6142,6 +6186,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -6156,7 +6204,7 @@
       "*.fc": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.andreypfau.intellij-ton",
+            "pluginIdString": "org.ton.intellij-ton",
             "nullablePluginName": "TON"
           }
         ]
@@ -6249,7 +6297,7 @@
       "*.fif": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.andreypfau.intellij-ton",
+            "pluginIdString": "org.ton.intellij-ton",
             "nullablePluginName": "TON"
           }
         ]
@@ -6597,7 +6645,7 @@
       "*.func": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.andreypfau.intellij-ton",
+            "pluginIdString": "org.ton.intellij-ton",
             "nullablePluginName": "TON"
           }
         ]
@@ -6807,6 +6855,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -7401,6 +7453,10 @@
           {
             "pluginIdString": "com.github.camork.fix.fileExpander",
             "nullablePluginName": "File Expander2"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -7498,6 +7554,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -8136,6 +8196,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -10166,11 +10230,19 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
       "*.lzma": {
         "dataSet": [
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
@@ -10222,6 +10294,14 @@
           {
             "pluginIdString": "com.illuminatedcloud2.intellij",
             "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
+      "*.mantis": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.tecknobit.mantisplugin",
+            "nullablePluginName": "Mantis"
           }
         ]
       },
@@ -10882,6 +10962,14 @@
           }
         ]
       },
+      "*.mojo": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.kishmakov.mojo",
+            "nullablePluginName": "Mojo"
+          }
+        ]
+      },
       "*.monkey": {
         "dataSet": [
           {
@@ -11042,6 +11130,14 @@
           }
         ]
       },
+      "*.ms.hcl": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.ariga.atlas.hcl",
+            "nullablePluginName": "Atlas HCL"
+          }
+        ]
+      },
       "*.msc": {
         "dataSet": [
           {
@@ -11075,6 +11171,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -11560,6 +11660,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -11664,7 +11768,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.lasagnerd.odin",
-            "nullablePluginName": "Odin Lang Support"
+            "nullablePluginName": "Odin Support"
           }
         ]
       },
@@ -13638,6 +13742,10 @@
       "*.rar": {
         "dataSet": [
           {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
+          {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
           }
@@ -14171,6 +14279,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -14865,6 +14977,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -15481,6 +15597,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -16057,7 +16177,7 @@
       "*.tact": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.andreypfau.intellij-ton",
+            "pluginIdString": "org.ton.intellij-ton",
             "nullablePluginName": "TON"
           }
         ]
@@ -16120,6 +16240,10 @@
             "nullablePluginName": "File Expander2"
           },
           {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
+          {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
           },
@@ -16177,8 +16301,20 @@
           }
         ]
       },
+      "*.taZ": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          }
+        ]
+      },
       "*.tb2": {
         "dataSet": [
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
@@ -16198,11 +16334,19 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
       "*.tbz2": {
         "dataSet": [
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
@@ -16462,6 +16606,10 @@
           {
             "pluginIdString": "com.github.camork.fix.fileExpander",
             "nullablePluginName": "File Expander2"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -16601,13 +16749,17 @@
       "*.tlb": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.andreypfau.intellij-ton",
+            "pluginIdString": "org.ton.intellij-ton",
             "nullablePluginName": "TON"
           }
         ]
       },
       "*.tlz": {
         "dataSet": [
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
@@ -17210,11 +17362,19 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
       "*.typoscript": {
         "dataSet": [
+          {
+            "pluginIdString": "com.cedricziel.idea.typoscript",
+            "nullablePluginName": "TypoScript FOSS Support"
+          },
           {
             "pluginIdString": "de.sgalinski.typoscript.plugin.id",
             "nullablePluginName": "TypoScript - Old Version"
@@ -17222,10 +17382,6 @@
           {
             "pluginIdString": "de.sgalinski.typoscript.enterprise.plugin.id",
             "nullablePluginName": "TYPO3 TypoScript - Enterprise"
-          },
-          {
-            "pluginIdString": "com.cedricziel.idea.typoscript",
-            "nullablePluginName": "TypoScript FOSS Support"
           }
         ]
       },
@@ -17234,6 +17390,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -17248,6 +17408,10 @@
       "*.tz2": {
         "dataSet": [
           {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
+          {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
           }
@@ -17258,6 +17422,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -17271,6 +17439,10 @@
       },
       "*.udf": {
         "dataSet": [
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
@@ -17287,6 +17459,10 @@
       },
       "*.uefi": {
         "dataSet": [
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
@@ -17473,6 +17649,10 @@
       "*.vdi": {
         "dataSet": [
           {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
+          {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
           }
@@ -17539,6 +17719,10 @@
           {
             "pluginIdString": "se.ohol.driver",
             "nullablePluginName": "Driver"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -17601,6 +17785,10 @@
       },
       "*.vmdk": {
         "dataSet": [
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
@@ -17898,6 +18086,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -18120,6 +18312,10 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
@@ -18467,18 +18663,22 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          },
+          {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
           }
         ]
       },
       "*.y": {
         "dataSet": [
           {
-            "pluginIdString": "idea.goyacc",
-            "nullablePluginName": "GoYacc Support"
-          },
-          {
             "pluginIdString": "info.fluffos.idea_bison",
             "nullablePluginName": "Bison Language Support"
+          },
+          {
+            "pluginIdString": "idea.goyacc",
+            "nullablePluginName": "GoYacc Support"
           }
         ]
       },
@@ -18608,6 +18808,10 @@
       "*.z": {
         "dataSet": [
           {
+            "pluginIdString": "com.github.dixtdf.archive.manager",
+            "nullablePluginName": "ArchiveManager"
+          },
+          {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
           },
@@ -18677,6 +18881,14 @@
           }
         ]
       },
+      "*.zmodel": {
+        "dataSet": [
+          {
+            "pluginIdString": "dev.zenstack.zenstack",
+            "nullablePluginName": "ZenStack Language Tools"
+          }
+        ]
+      },
       "*.zon": {
         "dataSet": [
           {
@@ -18722,6 +18934,14 @@
           {
             "pluginIdString": "org.zkoss.zkidea",
             "nullablePluginName": "ZK"
+          }
+        ]
+      },
+      "*.🔥": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.kishmakov.mojo",
+            "nullablePluginName": "Mojo"
           }
         ]
       },
@@ -20352,7 +20572,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1703057389378
+    "lastUpdateTime": 1704158050393
   },
   "dependencies": {
     "featureMap": {
@@ -20361,6 +20581,14 @@
           {
             "pluginIdString": "org.jetbrains.plugins.astro",
             "nullablePluginName": "Astro"
+          }
+        ]
+      },
+      "dotnet:Aspire.Hosting": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.rafaelldi.aspire",
+            "nullablePluginName": ".NET Aspire"
           }
         ]
       },
@@ -22125,7 +22353,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1703057389415
+    "lastUpdateTime": 1704158050471
   }
 }]]></component>
   <component name="PluginFeatureService">{
