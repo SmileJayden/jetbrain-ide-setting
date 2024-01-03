@@ -1278,12 +1278,16 @@
           }
         ]
       },
-      ".lcv": {
+      ".justfile": {
         "dataSet": [
           {
-            "pluginIdString": "leetcode-editor",
-            "nullablePluginName": "LeetCode Editor"
-          },
+            "pluginIdString": "org.mvnsearch.plugins.justPlugin",
+            "nullablePluginName": "Just"
+          }
+        ]
+      },
+      ".lcv": {
+        "dataSet": [
           {
             "pluginIdString": "leetcode-helper",
             "nullablePluginName": "LeetCode with labuladong"
@@ -1291,6 +1295,10 @@
           {
             "pluginIdString": "com.berserk-112.nowcoder-editor",
             "nullablePluginName": "Nowcoder Editor"
+          },
+          {
+            "pluginIdString": "leetcode-editor",
+            "nullablePluginName": "LeetCode Editor"
           }
         ]
       },
@@ -9000,6 +9008,14 @@
           {
             "pluginIdString": "org.jetbrains.plugins.kotlin.jupyter",
             "nullablePluginName": "Kotlin Notebook"
+          }
+        ]
+      },
+      "*.just": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.mvnsearch.plugins.justPlugin",
+            "nullablePluginName": "Just"
           }
         ]
       },
@@ -20572,7 +20588,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1704158050393
+    "lastUpdateTime": 1704256783737
   },
   "dependencies": {
     "featureMap": {
@@ -22353,7 +22369,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1704158050471
+    "lastUpdateTime": 1704256784092
   }
 }]]></component>
   <component name="PluginFeatureService">{
