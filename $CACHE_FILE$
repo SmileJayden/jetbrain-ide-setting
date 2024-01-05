@@ -2157,6 +2157,14 @@
           }
         ]
       },
+      "*.app.src": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.jetbrains.erlang",
+            "nullablePluginName": "Erlang"
+          }
+        ]
+      },
       "*.applejs": {
         "dataSet": [
           {
@@ -11007,6 +11015,10 @@
           {
             "pluginIdString": "org.move.lang",
             "nullablePluginName": "Move Language"
+          },
+          {
+            "pluginIdString": "org.sui.lang",
+            "nullablePluginName": "Sui Move Language"
           }
         ]
       },
@@ -20518,6 +20530,38 @@
           }
         ]
       },
+      "uno.config.js": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.rerere.unocss-intellij",
+            "nullablePluginName": "Unocss"
+          }
+        ]
+      },
+      "uno.config.ts": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.rerere.unocss-intellij",
+            "nullablePluginName": "Unocss"
+          }
+        ]
+      },
+      "unocss.config.js": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.rerere.unocss-intellij",
+            "nullablePluginName": "Unocss"
+          }
+        ]
+      },
+      "unocss.config.ts": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.rerere.unocss-intellij",
+            "nullablePluginName": "Unocss"
+          }
+        ]
+      },
       "v.mod": {
         "dataSet": [
           {
@@ -20588,7 +20632,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1704256783737
+    "lastUpdateTime": 1704353236454
   },
   "dependencies": {
     "featureMap": {
@@ -22369,7 +22413,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1704256784092
+    "lastUpdateTime": 1704353236685
   }
 }]]></component>
   <component name="PluginFeatureService">{
