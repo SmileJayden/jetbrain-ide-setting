@@ -22,7 +22,7 @@
       <i c="3" l="1700640721794" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="1019" l="1704470164523" />
+      <i c="1020" l="1704678870336" />
     </e>
     <e n="Annotate">
       <i c="235" l="1704438970110" />
@@ -361,7 +361,7 @@
       <i c="273" l="1704281174094" />
     </e>
     <e n="ShowPopupMenu">
-      <i c="263" l="1704470163023" />
+      <i c="264" l="1704678875306" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="7" l="1702958337232" />
@@ -376,13 +376,13 @@
       <i c="456" l="1704470158246" />
     </e>
     <e n="Tree-selectNext">
-      <i c="11149" l="1704470158901" />
+      <i c="11159" l="1704678874618" />
     </e>
     <e n="Tree-selectNextExtendSelection">
-      <i c="56" l="1704416129258" />
+      <i c="57" l="1704678875025" />
     </e>
     <e n="Tree-selectParent">
-      <i c="846" l="1704470154572" />
+      <i c="848" l="1704678873643" />
     </e>
     <e n="Tree-selectPrevious">
       <i c="9695" l="1704470158160" />
@@ -529,7 +529,7 @@
       <i c="2" l="1698225244462" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="150" l="1704439386047" />
+      <i c="151" l="1704678889931" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="6" l="1700706305454" />
@@ -550,7 +550,7 @@
       <i c="3836" l="1704440403013" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
-      <i c="101" l="1704470152235" />
+      <i c="103" l="1704678872326" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyPreviousTabAction">
       <i c="54" l="1704281468376" />
@@ -592,7 +592,7 @@
       <i c="2" l="1698286283777" />
     </e>
     <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$UpdateSelectedBranchAction">
-      <i c="97" l="1704438543086" />
+      <i c="99" l="1704678883070" />
     </e>
     <e n="org.jetbrains.plugins.github.pullrequest.comment.action.GHPRDiffReviewThreadsToggleAction$ToggleOptionAction">
       <i c="1" l="1697029206804" />
