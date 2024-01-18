@@ -4614,6 +4614,10 @@
           {
             "pluginIdString": "com.jetbrains.performancePlugin",
             "nullablePluginName": "Performance Testing"
+          },
+          {
+            "pluginIdString": "com.intellij.cvp",
+            "nullablePluginName": "Cache-Value Profiler"
           }
         ]
       },
@@ -6756,7 +6760,7 @@
           },
           {
             "pluginIdString": "com.my.antlr.tool",
-            "nullablePluginName": "ANTLR v4(New)"
+            "nullablePluginName": "ANTLR v4-Tool"
           }
         ]
       },
@@ -8607,7 +8611,7 @@
           },
           {
             "pluginIdString": "co.anbora.labs.jmeter.jmeter-intellij",
-            "nullablePluginName": "Jmeter Viewer"
+            "nullablePluginName": "JMeter Viewer"
           }
         ]
       },
@@ -10335,6 +10339,10 @@
       },
       "*.map": {
         "dataSet": [
+          {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger"
+          },
           {
             "pluginIdString": "org.dnltsk.mapfileplugin",
             "nullablePluginName": "Mapfile"
@@ -14420,8 +14428,16 @@
             "isBundled": true
           },
           {
+            "pluginIdString": "Pythonid",
+            "nullablePluginName": "Python"
+          },
+          {
             "pluginIdString": "org.jetbrains.plugins.rest",
             "nullablePluginName": "ReStructuredText"
+          },
+          {
+            "pluginIdString": "PythonCore",
+            "nullablePluginName": "Python Community Edition"
           }
         ]
       },
@@ -20340,6 +20356,14 @@
           }
         ]
       },
+      "spel-extension.json": {
+        "dataSet": [
+          {
+            "pluginIdString": "kim.nzxy.spel.kit",
+            "nullablePluginName": "SpEL Assistant"
+          }
+        ]
+      },
       "spork": {
         "dataSet": [
           {
@@ -20652,7 +20676,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1705416062129
+    "lastUpdateTime": 1705564852108
   },
   "dependencies": {
     "featureMap": {
@@ -22233,7 +22257,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1705416062204
+    "lastUpdateTime": 1705564852141
   }
 }]]></component>
   <component name="PluginFeatureService">{
