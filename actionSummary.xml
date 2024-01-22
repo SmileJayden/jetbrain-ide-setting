@@ -22,7 +22,7 @@
       <i c="3" l="1700640721794" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="1233" l="1705902598176" />
+      <i c="1235" l="1705909473173" />
     </e>
     <e n="Annotate">
       <i c="301" l="1705893879330" />
@@ -349,7 +349,7 @@
       <i c="1" l="1697621419934" />
     </e>
     <e n="RunAnything">
-      <i c="1" l="1704257891261" />
+      <i c="2" l="1705909471682" />
     </e>
     <e n="SaveAll">
       <i c="5224" l="1705895395897" />
@@ -523,7 +523,7 @@
       <i c="6" l="1704211989891" />
     </e>
     <e n="com.intellij.openapi.vcs.changes.EditorTabPreviewEscapeAction">
-      <i c="119" l="1705902614140" />
+      <i c="120" l="1705909481684" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="47" l="1703064754313" />
@@ -569,6 +569,9 @@
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
       <i c="2641" l="1705895343065" />
+    </e>
+    <e n="com.intellij.vcs.log.ui.filter.MultipleValueFilterPopupComponent$SelectMultipleValuesAction">
+      <i c="1" l="1705909477160" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="12" l="1705565007835" />
