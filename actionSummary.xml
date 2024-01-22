@@ -22,7 +22,7 @@
       <i c="3" l="1700640721794" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="1235" l="1705909473173" />
+      <i c="1237" l="1705909501874" />
     </e>
     <e n="Annotate">
       <i c="301" l="1705893879330" />
@@ -214,7 +214,7 @@
       <i c="2" l="1704333800994" />
     </e>
     <e n="Git.Drop.Commits">
-      <i c="2" l="1698755600417" />
+      <i c="3" l="1705909486029" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
       <i c="172" l="1705902600600" />
@@ -319,7 +319,7 @@
       <i c="26" l="1704216424251" />
     </e>
     <e n="OpenFile">
-      <i c="38" l="1705288034154" />
+      <i c="39" l="1705911841091" />
     </e>
     <e n="PasteMultiple">
       <i c="1" l="1698761217082" />
@@ -361,7 +361,7 @@
       <i c="30" l="1705328110409" />
     </e>
     <e n="SelectInProjectView">
-      <i c="1219" l="1705895173894" />
+      <i c="1220" l="1705911848307" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="297" l="1704416519668" />
@@ -370,7 +370,7 @@
       <i c="291" l="1705895389991" />
     </e>
     <e n="ShowPopupMenu">
-      <i c="308" l="1705893696212" />
+      <i c="309" l="1705909504507" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="8" l="1705504376536" />
@@ -382,25 +382,25 @@
       <i c="26" l="1705664370383" />
     </e>
     <e n="Tree-selectChild">
-      <i c="574" l="1705895099536" />
+      <i c="575" l="1705911851166" />
     </e>
     <e n="Tree-selectNext">
-      <i c="12919" l="1705895178623" />
+      <i c="12941" l="1705911853273" />
     </e>
     <e n="Tree-selectNextExtendSelection">
-      <i c="68" l="1705565695418" />
+      <i c="75" l="1705911854448" />
     </e>
     <e n="Tree-selectParent">
-      <i c="1012" l="1705893846813" />
+      <i c="1018" l="1705911850673" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="10883" l="1705895180078" />
+      <i c="10893" l="1705911853033" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
-      <i c="29" l="1705659986529" />
+      <i c="34" l="1705911852572" />
     </e>
     <e n="Vcs.Log.GoToChild">
-      <i c="1" l="1703147890701" />
+      <i c="2" l="1705909499845" />
     </e>
     <e n="Vcs.Log.GoToRef">
       <i c="3" l="1704773595619" />
@@ -556,7 +556,7 @@
       <i c="12515" l="1705895117472" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="4580" l="1705895117934" />
+      <i c="4581" l="1705909499677" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
       <i c="121" l="1705565694148" />
@@ -604,7 +604,7 @@
       <i c="2" l="1698286283777" />
     </e>
     <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$UpdateSelectedBranchAction">
-      <i c="113" l="1705881213217" />
+      <i c="114" l="1705909505347" />
     </e>
     <e n="org.jetbrains.plugins.github.pullrequest.comment.action.GHPRDiffReviewThreadsToggleAction$ToggleOptionAction">
       <i c="1" l="1697029206804" />
