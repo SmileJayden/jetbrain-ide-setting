@@ -12052,14 +12052,6 @@
           }
         ]
       },
-      "*.pact": {
-        "dataSet": [
-          {
-            "pluginIdString": "io.kadena.pact.intellij",
-            "nullablePluginName": "Pact"
-          }
-        ]
-      },
       "*.page": {
         "dataSet": [
           {
@@ -20676,7 +20668,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1705661027153
+    "lastUpdateTime": 1705881206106
   },
   "dependencies": {
     "featureMap": {
@@ -22257,7 +22249,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1705661027232
+    "lastUpdateTime": 1705881206137
   }
 }]]></component>
   <component name="PluginFeatureService">{
