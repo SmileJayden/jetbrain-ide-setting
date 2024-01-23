@@ -6322,6 +6322,22 @@
           }
         ]
       },
+      "*.firestore": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.firebase4idea",
+            "nullablePluginName": "Firebase Firestore"
+          }
+        ]
+      },
+      "*.firestoredocument": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.firebase4idea",
+            "nullablePluginName": "Firebase Firestore"
+          }
+        ]
+      },
       "*.fit": {
         "dataSet": [
           {
@@ -6524,6 +6540,10 @@
           {
             "pluginIdString": "com.camile.checker",
             "nullablePluginName": "Flink SQL Checker"
+          },
+          {
+            "pluginIdString": "org.firebase4idea",
+            "nullablePluginName": "Firebase Firestore"
           }
         ]
       },
@@ -20668,7 +20688,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1705881206106
+    "lastUpdateTime": 1705995291106
   },
   "dependencies": {
     "featureMap": {
@@ -21408,75 +21428,11 @@
           }
         ]
       },
-      "java:java:com.typesafe.akka:akka-stream-kafka_3": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.bigdatatools.kafka",
-            "nullablePluginName": "Kafka"
-          }
-        ]
-      },
-      "java:java:io.confluent:kafka-schema-registry": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.bigdatatools.kafka",
-            "nullablePluginName": "Kafka"
-          }
-        ]
-      },
-      "java:java:io.confluent:kafka-schema-registry-client": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.bigdatatools.kafka",
-            "nullablePluginName": "Kafka"
-          }
-        ]
-      },
-      "java:java:io.micronaut.kafka:micronaut-kafka": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.bigdatatools.kafka",
-            "nullablePluginName": "Kafka"
-          }
-        ]
-      },
-      "java:java:org.apache.flink:flink-connector-kafka": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.bigdatatools.kafka",
-            "nullablePluginName": "Kafka"
-          }
-        ]
-      },
       "java:java:org.apache.flink:flink-streaming-java": {
         "dataSet": [
           {
             "pluginIdString": "com.intellij.bigdatatools.flink",
             "nullablePluginName": "Flink"
-          }
-        ]
-      },
-      "java:java:org.apache.kafka:kafka-streams": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.bigdatatools.kafka",
-            "nullablePluginName": "Kafka"
-          }
-        ]
-      },
-      "java:java:org.apache.spark:spark-sql-kafka-0-10_2.13": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.bigdatatools.kafka",
-            "nullablePluginName": "Kafka"
-          }
-        ]
-      },
-      "java:java:org.springframework.kafka:spring-kafka": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.bigdatatools.kafka",
-            "nullablePluginName": "Kafka"
           }
         ]
       },
@@ -22249,7 +22205,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1705881206137
+    "lastUpdateTime": 1705995291389
   }
 }]]></component>
   <component name="PluginFeatureService">{
