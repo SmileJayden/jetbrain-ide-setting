@@ -1462,6 +1462,22 @@
           }
         ]
       },
+      ".zprofile": {
+        "dataSet": [
+          {
+            "pluginIdString": "pro.bashsupport",
+            "nullablePluginName": "BashSupport Pro"
+          }
+        ]
+      },
+      ".zshrc": {
+        "dataSet": [
+          {
+            "pluginIdString": "pro.bashsupport",
+            "nullablePluginName": "BashSupport Pro"
+          }
+        ]
+      },
       "*_at.cfg": {
         "dataSet": [
           {
@@ -8123,6 +8139,14 @@
           }
         ]
       },
+      "*.ipc": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.mattco.serenityos-dsl",
+            "nullablePluginName": "SerenityOS-DSL"
+          }
+        ]
+      },
       "*.ipsenumcontent": {
         "dataSet": [
           {
@@ -11279,6 +11303,10 @@
           {
             "pluginIdString": "JavaScript",
             "nullablePluginName": "JavaScript and TypeScript"
+          },
+          {
+            "pluginIdString": "com.karsta26.VBScript",
+            "nullablePluginName": "VBScript"
           }
         ]
       },
@@ -11511,7 +11539,7 @@
         "dataSet": [
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS"
+            "nullablePluginName": "Angular"
           }
         ]
       },
@@ -12069,6 +12097,14 @@
           {
             "pluginIdString": "com.gmail.blueboxware.libgdxplugin",
             "nullablePluginName": "libGDX"
+          }
+        ]
+      },
+      "*.pact": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.kadena.pact",
+            "nullablePluginName": "Pact"
           }
         ]
       },
@@ -12796,7 +12832,7 @@
           },
           {
             "pluginIdString": "org.jetbrains.plugins.localization",
-            "nullablePluginName": "GNU GetText files support (*.po)"
+            "nullablePluginName": "GNU GetText Files Support (*.po)"
           }
         ]
       },
@@ -12942,7 +12978,7 @@
           },
           {
             "pluginIdString": "org.jetbrains.plugins.localization",
-            "nullablePluginName": "GNU GetText files support (*.po)"
+            "nullablePluginName": "GNU GetText Files Support (*.po)"
           }
         ]
       },
@@ -15522,6 +15558,14 @@
           }
         ]
       },
+      "*.spock": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.github.lobodpav.spock",
+            "nullablePluginName": "Spock framework support"
+          }
+        ]
+      },
       "*.spr": {
         "dataSet": [
           {
@@ -16594,14 +16638,6 @@
           {
             "pluginIdString": "nl.rubensten.texifyidea",
             "nullablePluginName": "TeXiFy IDEA"
-          }
-        ]
-      },
-      "*.textile": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.potniype4kin.intellij-textile",
-            "nullablePluginName": "Textile Markup Language Support"
           }
         ]
       },
@@ -17690,6 +17726,14 @@
           }
         ]
       },
+      "*.vbs": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.karsta26.VBScript",
+            "nullablePluginName": "VBScript"
+          }
+        ]
+      },
       "*.VCL": {
         "dataSet": [
           {
@@ -18395,6 +18439,14 @@
           }
         ]
       },
+      "*.xit": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.lomovtsev.xit-support",
+            "nullablePluginName": "Xit Support"
+          }
+        ]
+      },
       "*.xjb": {
         "dataSet": [
           {
@@ -19002,6 +19054,14 @@
           {
             "pluginIdString": "pro.bashsupport",
             "nullablePluginName": "BashSupport Pro"
+          }
+        ]
+      },
+      "*.zst": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.camork.fileExpander",
+            "nullablePluginName": "File Expander"
           }
         ]
       },
@@ -20510,7 +20570,7 @@
           },
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS"
+            "nullablePluginName": "Angular"
           }
         ]
       },
@@ -20518,7 +20578,7 @@
         "dataSet": [
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS"
+            "nullablePluginName": "Angular"
           },
           {
             "pluginIdString": "JavaScript",
@@ -20534,7 +20594,7 @@
           },
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS"
+            "nullablePluginName": "Angular"
           }
         ]
       },
@@ -20554,7 +20614,7 @@
           },
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS"
+            "nullablePluginName": "Angular"
           }
         ]
       },
@@ -20562,7 +20622,7 @@
         "dataSet": [
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS"
+            "nullablePluginName": "Angular"
           },
           {
             "pluginIdString": "JavaScript",
@@ -20688,7 +20748,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1705995291106
+    "lastUpdateTime": 1706598078710
   },
   "dependencies": {
     "featureMap": {
@@ -21532,6 +21592,14 @@
           }
         ]
       },
+      "java:net.neoforge:neoforge": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.demonwav.minecraft-dev",
+            "nullablePluginName": "Minecraft Development"
+          }
+        ]
+      },
       "java:org.apache.dubbo:dubbo": {
         "dataSet": [
           {
@@ -21948,6 +22016,14 @@
           }
         ]
       },
+      "javascript:npm:@unocss": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.rerere.unocss-intellij",
+            "nullablePluginName": "Unocss"
+          }
+        ]
+      },
       "javascript:npm:astro": {
         "dataSet": [
           {
@@ -22092,6 +22168,14 @@
           }
         ]
       },
+      "javascript:npm:unocss": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.rerere.unocss-intellij",
+            "nullablePluginName": "Unocss"
+          }
+        ]
+      },
       "javascript:npm:vite": {
         "dataSet": [
           {
@@ -22205,7 +22289,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1705995291389
+    "lastUpdateTime": 1706598078764
   }
 }]]></component>
   <component name="PluginFeatureService">{
