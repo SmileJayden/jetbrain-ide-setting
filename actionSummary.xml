@@ -16,13 +16,13 @@
       <i c="103" l="1706845227812" />
     </e>
     <e n="$Undo">
-      <i c="1922" l="1706845880531" />
+      <i c="1923" l="1706846310004" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="4" l="1705917948732" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="1427" l="1706846126308" />
+      <i c="1431" l="1707103629802" />
     </e>
     <e n="Annotate">
       <i c="341" l="1706777089718" />
@@ -76,7 +76,7 @@
       <i c="13" l="1706766479473" />
     </e>
     <e n="EditorBackSpace">
-      <i c="11093" l="1706845864773" />
+      <i c="11106" l="1706846208182" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1132" l="1706845814950" />
@@ -112,7 +112,7 @@
       <i c="1" l="1702954933196" />
     </e>
     <e n="EditorLeft">
-      <i c="54062" l="1706846133490" />
+      <i c="54063" l="1706846165040" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="758" l="1706845828704" />
@@ -133,7 +133,7 @@
       <i c="3814" l="1706845833813" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="1141" l="1706845879794" />
+      <i c="1142" l="1706846165752" />
     </e>
     <e n="EditorPageDown">
       <i c="1" l="1700556786088" />
@@ -151,7 +151,7 @@
       <i c="2021" l="1706845864335" />
     </e>
     <e n="EditorRight">
-      <i c="70407" l="1706845877579" />
+      <i c="70410" l="1706846165469" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="718" l="1706845827103" />
@@ -202,7 +202,7 @@
       <i c="1756" l="1706846134184" />
     </e>
     <e n="FindInPath">
-      <i c="1739" l="1706845663713" />
+      <i c="1740" l="1706846200895" />
     </e>
     <e n="FindUsages">
       <i c="219" l="1706844400128" />
@@ -370,7 +370,7 @@
       <i c="312" l="1706840412516" />
     </e>
     <e n="ShowPopupMenu">
-      <i c="373" l="1706845918365" />
+      <i c="376" l="1706846340533" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="8" l="1705504376536" />
@@ -382,10 +382,10 @@
       <i c="26" l="1705664370383" />
     </e>
     <e n="Tree-selectChild">
-      <i c="636" l="1706843175484" />
+      <i c="637" l="1706846335111" />
     </e>
     <e n="Tree-selectNext">
-      <i c="14019" l="1706845912687" />
+      <i c="14021" l="1706846335322" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="84" l="1706845918153" />
@@ -394,7 +394,7 @@
       <i c="1183" l="1706837798168" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="11774" l="1706845208869" />
+      <i c="11786" l="1706846335006" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="42" l="1706780460244" />
@@ -514,13 +514,13 @@
       <i c="1602" l="1706845261382" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="655" l="1706843256531" />
+      <i c="657" l="1706846253934" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="5" l="1701676387172" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
-      <i c="7" l="1706027960175" />
+      <i c="8" l="1706846338222" />
     </e>
     <e n="com.intellij.openapi.vcs.changes.EditorTabPreviewEscapeAction">
       <i c="150" l="1706691094618" />
@@ -553,10 +553,10 @@
       <i c="18" l="1704766146793" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="13699" l="1706845665105" />
+      <i c="13706" l="1706846219157" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="5085" l="1706845668156" />
+      <i c="5088" l="1706846221372" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
       <i c="136" l="1706845917377" />
@@ -577,7 +577,7 @@
       <i c="12" l="1705565007835" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$CheckoutAsNewBranch">
-      <i c="97" l="1706838243689" />
+      <i c="98" l="1706846164757" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
       <i c="100" l="1706775293596" />
@@ -589,7 +589,7 @@
       <i c="3" l="1706028011922" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$PushBranchAction">
-      <i c="24" l="1706628939675" />
+      <i c="26" l="1706846341542" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$RenameBranchAction">
       <i c="7" l="1706684868015" />
