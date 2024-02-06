@@ -20748,7 +20748,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1706801767288
+    "lastUpdateTime": 1707209552519
   },
   "dependencies": {
     "featureMap": {
@@ -21996,7 +21996,7 @@
         "dataSet": [
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS"
+            "nullablePluginName": "Angular"
           }
         ]
       },
@@ -22068,7 +22068,7 @@
         "dataSet": [
           {
             "pluginIdString": "intellij.nextjs",
-            "nullablePluginName": "Next.js Support"
+            "nullablePluginName": "Next.js"
           }
         ]
       },
@@ -22289,7 +22289,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1706801767359
+    "lastUpdateTime": 1707209552562
   }
 }]]></component>
   <component name="PluginFeatureService">{
