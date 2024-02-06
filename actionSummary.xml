@@ -13,7 +13,7 @@
       <i c="64" l="1702533112573" />
     </e>
     <e n="$SelectAll">
-      <i c="108" l="1707182707270" />
+      <i c="109" l="1707196421999" />
     </e>
     <e n="$Undo">
       <i c="1956" l="1707183253116" />
@@ -22,7 +22,7 @@
       <i c="4" l="1705917948732" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="1532" l="1707182994290" />
+      <i c="1536" l="1707196841622" />
     </e>
     <e n="Annotate">
       <i c="364" l="1707152262121" />
@@ -76,7 +76,7 @@
       <i c="13" l="1706766479473" />
     </e>
     <e n="EditorBackSpace">
-      <i c="11390" l="1707183327582" />
+      <i c="11396" l="1707196446544" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1162" l="1707183264546" />
@@ -97,7 +97,7 @@
       <i c="884" l="1707156816304" />
     </e>
     <e n="EditorDown">
-      <i c="83316" l="1707183331853" />
+      <i c="83317" l="1707196446070" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="2577" l="1707153548691" />
@@ -112,7 +112,7 @@
       <i c="1" l="1702954933196" />
     </e>
     <e n="EditorLeft">
-      <i c="55206" l="1707183298746" />
+      <i c="55208" l="1707196423865" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="777" l="1707182684627" />
@@ -151,7 +151,7 @@
       <i c="2127" l="1707183330651" />
     </e>
     <e n="EditorRight">
-      <i c="71855" l="1707183298938" />
+      <i c="71858" l="1707196425134" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="739" l="1707182685206" />
@@ -241,7 +241,7 @@
       <i c="1" l="1698623277789" />
     </e>
     <e n="GotoDeclaration">
-      <i c="3340" l="1707183233745" />
+      <i c="3341" l="1707183484212" />
     </e>
     <e n="GotoImplementation">
       <i c="7" l="1705890391987" />
@@ -265,7 +265,7 @@
       <i c="5" l="1702398068152" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
-      <i c="11755" l="1707183335319" />
+      <i c="11757" l="1707183337195" />
     </e>
     <e n="JumpToLastChange">
       <i c="6" l="1706028008572" />
@@ -337,7 +337,7 @@
       <i c="1" l="1697440341201" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="11475" l="1707183335442" />
+      <i c="11479" l="1707196447366" />
     </e>
     <e n="RenameElement">
       <i c="55" l="1707182706485" />
@@ -361,7 +361,7 @@
       <i c="32" l="1706777073411" />
     </e>
     <e n="SelectInProjectView">
-      <i c="1343" l="1707183002994" />
+      <i c="1344" l="1707196433105" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="328" l="1706845292999" />
@@ -370,7 +370,7 @@
       <i c="321" l="1707183219154" />
     </e>
     <e n="ShowPopupMenu">
-      <i c="427" l="1707182990978" />
+      <i c="430" l="1707196839580" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="8" l="1705504376536" />
@@ -382,19 +382,19 @@
       <i c="26" l="1705664370383" />
     </e>
     <e n="Tree-selectChild">
-      <i c="668" l="1707183007587" />
+      <i c="669" l="1707196442949" />
     </e>
     <e n="Tree-selectNext">
-      <i c="14840" l="1707183012961" />
+      <i c="14910" l="1707196444349" />
     </e>
     <e n="Tree-selectNextExtendSelection">
-      <i c="90" l="1707182234364" />
+      <i c="91" l="1707196379631" />
     </e>
     <e n="Tree-selectParent">
-      <i c="1284" l="1707182862565" />
+      <i c="1298" l="1707196442509" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="12413" l="1707183013075" />
+      <i c="12431" l="1707196839310" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="47" l="1707149261032" />
@@ -580,10 +580,10 @@
       <i c="12" l="1705565007835" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$CheckoutAsNewBranch">
-      <i c="103" l="1707182246464" />
+      <i c="104" l="1707196420917" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
-      <i c="109" l="1707152890435" />
+      <i c="110" l="1707196839945" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutWithRebaseAction">
       <i c="1" l="1697611363183" />
@@ -607,7 +607,7 @@
       <i c="2" l="1698286283777" />
     </e>
     <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$UpdateSelectedBranchAction">
-      <i c="140" l="1707182235354" />
+      <i c="141" l="1707196380490" />
     </e>
     <e n="org.jetbrains.plugins.github.pullrequest.comment.action.GHPRDiffReviewThreadsToggleAction$ToggleOptionAction">
       <i c="1" l="1697029206804" />
