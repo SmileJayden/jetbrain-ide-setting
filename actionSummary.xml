@@ -97,7 +97,7 @@
       <i c="892" l="1707276926235" />
     </e>
     <e n="EditorDown">
-      <i c="84467" l="1707282538873" />
+      <i c="84468" l="1707282831635" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="2599" l="1707277854274" />
@@ -142,7 +142,7 @@
       <i c="3" l="1700631230195" />
     </e>
     <e n="EditorPaste">
-      <i c="4544" l="1707282145786" />
+      <i c="4545" l="1707283613773" />
     </e>
     <e n="EditorPreviousWord">
       <i c="3500" l="1707279054084" />
@@ -184,7 +184,7 @@
       <i c="1" l="1705660799103" />
     </e>
     <e n="EditorUp">
-      <i c="80018" l="1707282540965" />
+      <i c="80019" l="1707282831818" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="4466" l="1707282396589" />
@@ -202,7 +202,7 @@
       <i c="1839" l="1707282153350" />
     </e>
     <e n="FindInPath">
-      <i c="1803" l="1707282145530" />
+      <i c="1807" l="1707283714829" />
     </e>
     <e n="FindUsages">
       <i c="227" l="1707275692807" />
@@ -412,7 +412,7 @@
       <i c="3" l="1704773595619" />
     </e>
     <e n="Vcs.RollbackChangedLines">
-      <i c="296" l="1707279142760" />
+      <i c="298" l="1707284200512" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="4" l="1704353479784" />
@@ -520,7 +520,7 @@
       <i c="1656" l="1707282155579" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="683" l="1707282113548" />
+      <i c="684" l="1707283723738" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="5" l="1701676387172" />
@@ -559,10 +559,10 @@
       <i c="19" l="1707277396565" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="14304" l="1707282146912" />
+      <i c="14352" l="1707283720428" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="5273" l="1707281542687" />
+      <i c="5274" l="1707283716965" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
       <i c="146" l="1707277927835" />
@@ -574,7 +574,7 @@
       <i c="2272" l="1707281569982" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
-      <i c="3249" l="1707282539347" />
+      <i c="3251" l="1707282832888" />
     </e>
     <e n="com.intellij.vcs.log.ui.filter.MultipleValueFilterPopupComponent$SelectMultipleValuesAction">
       <i c="1" l="1705909477160" />
