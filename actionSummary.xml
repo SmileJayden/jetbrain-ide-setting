@@ -85,7 +85,7 @@
       <i c="268" l="1708069407109" />
     </e>
     <e n="EditorCopy">
-      <i c="4382" l="1708069583714" />
+      <i c="4385" l="1708071804178" />
     </e>
     <e n="EditorCut">
       <i c="690" l="1708069580558" />
@@ -97,7 +97,7 @@
       <i c="972" l="1708069100405" />
     </e>
     <e n="EditorDown">
-      <i c="90102" l="1708071617591" />
+      <i c="90139" l="1708071654262" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="2800" l="1708069356882" />
@@ -112,7 +112,7 @@
       <i c="1" l="1702954933196" />
     </e>
     <e n="EditorLeft">
-      <i c="59712" l="1708071356459" />
+      <i c="59714" l="1708071651275" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="858" l="1708069364897" />
@@ -124,7 +124,7 @@
       <i c="867" l="1708069580281" />
     </e>
     <e n="EditorLineStart">
-      <i c="4783" l="1708071430048" />
+      <i c="4784" l="1708071651583" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="1316" l="1708069341232" />
@@ -151,13 +151,13 @@
       <i c="2309" l="1708069099317" />
     </e>
     <e n="EditorRight">
-      <i c="77778" l="1708071372823" />
+      <i c="77803" l="1708071803985" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="839" l="1708069363516" />
     </e>
     <e n="EditorSelectWord">
-      <i c="8605" l="1708071618042" />
+      <i c="8607" l="1708071804050" />
     </e>
     <e n="EditorSplitLine">
       <i c="10" l="1707323848653" />
@@ -184,7 +184,7 @@
       <i c="1" l="1705660799103" />
     </e>
     <e n="EditorUp">
-      <i c="85034" l="1708071617756" />
+      <i c="85065" l="1708071803277" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="4704" l="1708069340989" />
@@ -241,7 +241,7 @@
       <i c="1" l="1698623277789" />
     </e>
     <e n="GotoDeclaration">
-      <i c="3655" l="1708071632164" />
+      <i c="3657" l="1708071652593" />
     </e>
     <e n="GotoImplementation">
       <i c="7" l="1705890391987" />
@@ -322,7 +322,7 @@
       <i c="36" l="1707319444137" />
     </e>
     <e n="OpenFile">
-      <i c="50" l="1707994394143" />
+      <i c="51" l="1708305872455" />
     </e>
     <e n="PasteMultiple">
       <i c="1" l="1698761217082" />
@@ -571,10 +571,10 @@
       <i c="80" l="1707806986678" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
-      <i c="2485" l="1708071369689" />
+      <i c="2486" l="1708071688283" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
-      <i c="3557" l="1708071370017" />
+      <i c="3559" l="1708071687954" />
     </e>
     <e n="com.intellij.vcs.log.ui.filter.MultipleValueFilterPopupComponent$SelectMultipleValuesAction">
       <i c="1" l="1705909477160" />
