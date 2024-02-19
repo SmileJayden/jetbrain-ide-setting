@@ -11547,7 +11547,7 @@
         "dataSet": [
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular"
+            "nullablePluginName": "Angular and AngularJS"
           }
         ]
       },
@@ -20578,7 +20578,7 @@
           },
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular"
+            "nullablePluginName": "Angular and AngularJS"
           }
         ]
       },
@@ -20586,7 +20586,7 @@
         "dataSet": [
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular"
+            "nullablePluginName": "Angular and AngularJS"
           },
           {
             "pluginIdString": "JavaScript",
@@ -20602,7 +20602,7 @@
           },
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular"
+            "nullablePluginName": "Angular and AngularJS"
           }
         ]
       },
@@ -20622,7 +20622,7 @@
           },
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular"
+            "nullablePluginName": "Angular and AngularJS"
           }
         ]
       },
@@ -20630,7 +20630,7 @@
         "dataSet": [
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular"
+            "nullablePluginName": "Angular and AngularJS"
           },
           {
             "pluginIdString": "JavaScript",
@@ -20756,7 +20756,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1707983508084
+    "lastUpdateTime": 1708306698079
   },
   "dependencies": {
     "featureMap": {
@@ -22004,7 +22004,7 @@
         "dataSet": [
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular"
+            "nullablePluginName": "Angular and AngularJS"
           }
         ]
       },
@@ -22297,7 +22297,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1707983508121
+    "lastUpdateTime": 1708306698344
   }
 }]]></component>
   <component name="PluginFeatureService">{
