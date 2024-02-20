@@ -9231,14 +9231,6 @@
           }
         ]
       },
-      "*.km": {
-        "dataSet": [
-          {
-            "pluginIdString": "dev.kumachan.intellij-kumachan",
-            "nullablePluginName": "KumaChan"
-          }
-        ]
-      },
       "*.knm": {
         "dataSet": [
           {
@@ -11547,7 +11539,7 @@
         "dataSet": [
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS"
+            "nullablePluginName": "Angular"
           }
         ]
       },
@@ -20578,7 +20570,7 @@
           },
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS"
+            "nullablePluginName": "Angular"
           }
         ]
       },
@@ -20586,7 +20578,7 @@
         "dataSet": [
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS"
+            "nullablePluginName": "Angular"
           },
           {
             "pluginIdString": "JavaScript",
@@ -20602,7 +20594,7 @@
           },
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS"
+            "nullablePluginName": "Angular"
           }
         ]
       },
@@ -20622,7 +20614,7 @@
           },
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS"
+            "nullablePluginName": "Angular"
           }
         ]
       },
@@ -20630,7 +20622,7 @@
         "dataSet": [
           {
             "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS"
+            "nullablePluginName": "Angular"
           },
           {
             "pluginIdString": "JavaScript",
@@ -20756,7 +20748,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1708306698079
+    "lastUpdateTime": 1708418994179
   },
   "dependencies": {
     "featureMap": {
@@ -22297,7 +22289,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1708306698344
+    "lastUpdateTime": 1708418994220
   }
 }]]></component>
   <component name="PluginFeatureService">{
