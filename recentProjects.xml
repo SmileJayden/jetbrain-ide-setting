@@ -285,26 +285,10 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Development/fintech">
-          <value>
-            <RecentProjectMetaInfo frameTitle="fintech – UsCommission.tsx" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
-              <option name="activationTimestamp" value="1708511020600" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9921.42" />
-              <option name="buildTimestamp" value="1694512382962" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" />
-              </option>
-              <frame x="0" y="25" width="1920" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1708510130497" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Development/fe-interview-assingment">
           <value>
-            <RecentProjectMetaInfo frameTitle="fe-interview-assingment – OrdersPage.tsx" opened="true" projectWorkspaceId="2OjYHdJ1fom4x1WRgfoq56erx1l">
-              <option name="activationTimestamp" value="1708511409849" />
+            <RecentProjectMetaInfo frameTitle="fe-interview-assingment – Empty.tsx" projectWorkspaceId="2OjYHdJ1fom4x1WRgfoq56erx1l">
+              <option name="activationTimestamp" value="1708512636442" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512382962" />
@@ -319,21 +303,38 @@
         </entry>
         <entry key="$USER_HOME$/Downloads/stock-trading-typescript">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2cfmZBzgzPOOv8cufAlzxjy27nc">
-              <option name="activationTimestamp" value="1708511216412" />
+            <RecentProjectMetaInfo frameTitle="stock-trading-typescript – CompletePage.tsx" projectWorkspaceId="2cfmZBzgzPOOv8cufAlzxjy27nc">
+              <option name="activationTimestamp" value="1708512644672" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512382962" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
+              <frame x="0" y="0" width="1920" height="1055" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1708511060176" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Development/fintech">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fintech – UsCommission.tsx" opened="true" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
+              <option name="activationTimestamp" value="1708512746881" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9921.42" />
+              <option name="buildTimestamp" value="1694512382962" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="25" width="1920" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1708512651019" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/fe-interview-assingment" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/fintech" />
   </component>
 </application>
