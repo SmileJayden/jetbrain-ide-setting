@@ -285,40 +285,40 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Development/fintech">
-          <value>
-            <RecentProjectMetaInfo frameTitle="fintech – index.ts" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
-              <option name="activationTimestamp" value="1708443602664" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9921.42" />
-              <option name="buildTimestamp" value="1694512426168" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" />
-              </option>
-              <frame x="0" y="80" width="1080" height="944" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1708314721530" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Development/fe-interview-assingment">
           <value>
-            <RecentProjectMetaInfo frameTitle="fe-interview-assingment – ModalSkeloton.tsx" opened="true" projectWorkspaceId="2OjYHdJ1fom4x1WRgfoq56erx1l">
-              <option name="activationTimestamp" value="1708495817172" />
+            <RecentProjectMetaInfo frameTitle="fe-interview-assingment – QuotesList.tsx" projectWorkspaceId="2OjYHdJ1fom4x1WRgfoq56erx1l">
+              <option name="activationTimestamp" value="1708496165341" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512382962" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="4" />
               </option>
-              <frame x="0" y="38" width="1512" height="944" extendedState="6" />
+              <frame x="-1512" y="40" width="1512" height="484" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1708443614968" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Development/fintech">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fintech – index.ts" opened="true" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
+              <option name="activationTimestamp" value="1708443602664" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9921.42" />
+              <option name="buildTimestamp" value="1694512382962" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="80" width="1080" height="944" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1708496170625" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/fe-interview-assingment" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/fintech" />
   </component>
 </application>
