@@ -2021,6 +2021,14 @@
           }
         ]
       },
+      "*.amper": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.jetbrains.amper",
+            "nullablePluginName": "Amper"
+          }
+        ]
+      },
       "*.analyticsnapshot": {
         "dataSet": [
           {
@@ -2118,6 +2126,10 @@
           {
             "pluginIdString": "com.illuminatedcloud.intellij",
             "nullablePluginName": "Illuminated Cloud"
+          },
+          {
+            "pluginIdString": "com.jedide.apex",
+            "nullablePluginName": "JetForcer | The Smartest Force.com IDE"
           },
           {
             "pluginIdString": "com.illuminatedcloud2.intellij",
@@ -3738,6 +3750,14 @@
           {
             "pluginIdString": "com.illuminatedcloud2.intellij",
             "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
+      "*.chatInput": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.ml.llm",
+            "nullablePluginName": "AI Assistant"
           }
         ]
       },
@@ -6881,6 +6901,14 @@
           }
         ]
       },
+      "*.gdconf": {
+        "dataSet": [
+          {
+            "pluginIdString": "ice.explosive.gdscript",
+            "nullablePluginName": "GdScript"
+          }
+        ]
+      },
       "*.gdj": {
         "dataSet": [
           {
@@ -7180,6 +7208,14 @@
           {
             "pluginIdString": "ice.explosive.gdscript",
             "nullablePluginName": "GdScript"
+          }
+        ]
+      },
+      "*.goht": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.stackus.gohtjetbrains",
+            "nullablePluginName": "GoHT"
           }
         ]
       },
@@ -10365,6 +10401,14 @@
           }
         ]
       },
+      "*.managedEventSubscription": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.illuminatedcloud2.intellij",
+            "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
       "*.managedTopics": {
         "dataSet": [
           {
@@ -11524,6 +11568,10 @@
           {
             "pluginIdString": "de.sgalinski.typoscript.enterprise.plugin.id",
             "nullablePluginName": "TYPO3 TypoScript - Enterprise"
+          },
+          {
+            "pluginIdString": "neat-flutter",
+            "nullablePluginName": "NFlutter"
           }
         ]
       },
@@ -11805,6 +11853,14 @@
         ]
       },
       "*.oauthcustomscope": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.illuminatedcloud2.intellij",
+            "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
+      "*.oauthtokenexchangehandler": {
         "dataSet": [
           {
             "pluginIdString": "com.illuminatedcloud2.intellij",
@@ -16681,6 +16737,14 @@
           }
         ]
       },
+      "*.tftpl": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.intellij.plugins.hcl",
+            "nullablePluginName": "Terraform and HCL"
+          }
+        ]
+      },
       "*.tfvars": {
         "dataSet": [
           {
@@ -17130,6 +17194,10 @@
       },
       "*.tres": {
         "dataSet": [
+          {
+            "pluginIdString": "ice.explosive.gdscript",
+            "nullablePluginName": "GdScript"
+          },
           {
             "pluginIdString": "gdscript",
             "nullablePluginName": "GDScript"
@@ -20508,12 +20576,12 @@
         "dataSet": [
           {
             "pluginIdString": "com.intellij.swagger",
-            "nullablePluginName": "OpenAPI Specifications",
-            "isBundled": true
+            "nullablePluginName": "OpenAPI Specifications"
           },
           {
             "pluginIdString": "com.intellij.swagger",
-            "nullablePluginName": "OpenAPI Specifications"
+            "nullablePluginName": "OpenAPI Specifications",
+            "isBundled": true
           }
         ]
       },
@@ -20748,7 +20816,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1708597060337
+    "lastUpdateTime": 1709017214302
   },
   "dependencies": {
     "featureMap": {
@@ -22289,7 +22357,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1708597060391
+    "lastUpdateTime": 1709017214334
   }
 }]]></component>
   <component name="PluginFeatureService">{
