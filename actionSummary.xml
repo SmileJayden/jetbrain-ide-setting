@@ -88,7 +88,7 @@
       <i c="277" l="1709049866176" />
     </e>
     <e n="EditorCopy">
-      <i c="4788" l="1709080250816" />
+      <i c="4792" l="1709081919076" />
     </e>
     <e n="EditorCut">
       <i c="739" l="1709080182252" />
@@ -100,7 +100,7 @@
       <i c="1082" l="1709080074906" />
     </e>
     <e n="EditorDown">
-      <i c="102742" l="1709080283193" />
+      <i c="102754" l="1709081754221" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="3043" l="1709080013112" />
@@ -115,25 +115,25 @@
       <i c="1" l="1702954933196" />
     </e>
     <e n="EditorLeft">
-      <i c="67103" l="1709080255992" />
+      <i c="67139" l="1709081760675" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="942" l="1709080243586" />
     </e>
     <e n="EditorLineEnd">
-      <i c="7667" l="1709080240632" />
+      <i c="7668" l="1709081759790" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="994" l="1709080188832" />
     </e>
     <e n="EditorLineStart">
-      <i c="5291" l="1709080262558" />
+      <i c="5293" l="1709081765345" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="1488" l="1709080059872" />
     </e>
     <e n="EditorNextWord">
-      <i c="4533" l="1709080268143" />
+      <i c="4536" l="1709081916178" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="1626" l="1709080237072" />
@@ -151,10 +151,10 @@
       <i c="4043" l="1709080216517" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="2534" l="1709080018915" />
+      <i c="2542" l="1709081917684" />
     </e>
     <e n="EditorRight">
-      <i c="86999" l="1709080263878" />
+      <i c="87073" l="1709081766778" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="904" l="1709080042798" />
@@ -175,7 +175,7 @@
       <i c="8" l="1708510022570" />
     </e>
     <e n="EditorTab">
-      <i c="110" l="1708329493827" />
+      <i c="112" l="1709082476834" />
     </e>
     <e n="EditorTabsEntryPoint">
       <i c="1" l="1698225402044" />
@@ -193,7 +193,7 @@
       <i c="1" l="1705660799103" />
     </e>
     <e n="EditorUp">
-      <i c="95512" l="1709080270494" />
+      <i c="95513" l="1709081754684" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="5501" l="1709080170970" />
@@ -250,7 +250,7 @@
       <i c="1" l="1698623277789" />
     </e>
     <e n="GotoDeclaration">
-      <i c="4116" l="1709080260437" />
+      <i c="4122" l="1709081912304" />
     </e>
     <e n="GotoImplementation">
       <i c="9" l="1708520904119" />
@@ -274,7 +274,7 @@
       <i c="5" l="1702398068152" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
-      <i c="13880" l="1709080253518" />
+      <i c="13883" l="1709080288061" />
     </e>
     <e n="JumpToLastChange">
       <i c="7" l="1707279043790" />
@@ -352,7 +352,7 @@
       <i c="1" l="1697440341201" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="13520" l="1709080253662" />
+      <i c="13523" l="1709080288201" />
     </e>
     <e n="RenameElement">
       <i c="73" l="1709050426354" />
@@ -379,7 +379,7 @@
       <i c="38" l="1709027884687" />
     </e>
     <e n="SelectInProjectView">
-      <i c="1769" l="1709080094429" />
+      <i c="1770" l="1709081721607" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="358" l="1709079968902" />
@@ -403,19 +403,19 @@
       <i c="30" l="1708531537719" />
     </e>
     <e n="Tree-selectChild">
-      <i c="871" l="1709050478058" />
+      <i c="872" l="1709081739569" />
     </e>
     <e n="Tree-selectNext">
-      <i c="19192" l="1709080094523" />
+      <i c="19213" l="1709081740430" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="118" l="1709050707663" />
     </e>
     <e n="Tree-selectParent">
-      <i c="1572" l="1709050706695" />
+      <i c="1580" l="1709081738920" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="16206" l="1709079945350" />
+      <i c="16298" l="1709081739419" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="69" l="1709079820667" />
@@ -433,7 +433,7 @@
       <i c="3" l="1704773595619" />
     </e>
     <e n="Vcs.RollbackChangedLines">
-      <i c="364" l="1709080286137" />
+      <i c="365" l="1709082477736" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="4" l="1704353479784" />
@@ -538,7 +538,7 @@
       <i c="2" l="1697611761603" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1862" l="1709079899759" />
+      <i c="1864" l="1709081769640" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="807" l="1709080020719" />
