@@ -4,7 +4,7 @@
       <i c="24" l="1709227551225" />
     </e>
     <e n="$Delete">
-      <i c="69" l="1709228392930" />
+      <i c="70" l="1709507497135" />
     </e>
     <e n="$Paste">
       <i c="21" l="1709227551376" />
@@ -16,7 +16,7 @@
       <i c="162" l="1709225009044" />
     </e>
     <e n="$Undo">
-      <i c="2383" l="1709479884661" />
+      <i c="2384" l="1709507499276" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="7" l="1709224407710" />
@@ -103,7 +103,7 @@
       <i c="1119" l="1709477418936" />
     </e>
     <e n="EditorDown">
-      <i c="107742" l="1709481454095" />
+      <i c="107743" l="1709507503068" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="3263" l="1709226646885" />
@@ -337,7 +337,7 @@
       <i c="55" l="1709227740433" />
     </e>
     <e n="OpenFile">
-      <i c="76" l="1709477407729" />
+      <i c="77" l="1709507480047" />
     </e>
     <e n="PasteMultiple">
       <i c="1" l="1698761217082" />
@@ -382,7 +382,7 @@
       <i c="45" l="1709477594221" />
     </e>
     <e n="SelectInProjectView">
-      <i c="1940" l="1709481459456" />
+      <i c="1943" l="1709507505634" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="431" l="1709226467563" />
@@ -412,7 +412,7 @@
       <i c="898" l="1709481423868" />
     </e>
     <e n="Tree-selectNext">
-      <i c="19986" l="1709481424595" />
+      <i c="19996" l="1709507504556" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="124" l="1709228417495" />
@@ -421,7 +421,7 @@
       <i c="1614" l="1709478497416" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="16830" l="1709481425033" />
+      <i c="16832" l="1709507506394" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="73" l="1709135981165" />
@@ -556,7 +556,7 @@
       <i c="8" l="1709478999535" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
-      <i c="9" l="1708314843811" />
+      <i c="11" l="1709507500904" />
     </e>
     <e n="com.intellij.openapi.vcs.changes.EditorTabPreviewEscapeAction">
       <i c="164" l="1709481486729" />
