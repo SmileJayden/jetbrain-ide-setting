@@ -8026,6 +8026,10 @@
           {
             "pluginIdString": "gdscript",
             "nullablePluginName": "GDScript"
+          },
+          {
+            "pluginIdString": "ice.explosive.gdscript",
+            "nullablePluginName": "GdScript"
           }
         ]
       },
@@ -20816,7 +20820,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1709226119197
+    "lastUpdateTime": 1709477403484
   },
   "dependencies": {
     "featureMap": {
@@ -22357,7 +22361,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1709226119255
+    "lastUpdateTime": 1709477403547
   }
 }]]></component>
   <component name="PluginFeatureService">{
