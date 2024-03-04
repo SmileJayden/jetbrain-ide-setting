@@ -317,22 +317,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Development/wts">
-          <value>
-            <RecentProjectMetaInfo frameTitle="wts – index.tsx" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
-              <option name="activationTimestamp" value="1709507479201" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9921.42" />
-              <option name="buildTimestamp" value="1694512428546" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
-              </option>
-              <frame x="0" y="0" width="1512" height="944" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1709477413823" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Downloads/fe-interview-assingment-trading-typescript-jonghoon">
           <value>
             <RecentProjectMetaInfo frameTitle="fe-interview-assingment-trading-typescript-jonghoon – 2__d__CompleteModal.spec.tsx" projectWorkspaceId="2dD5wCUybJvjVzod4MeEaBmxnHw">
@@ -383,8 +367,8 @@
         </entry>
         <entry key="$USER_HOME$/Development/fe-interview-assingment">
           <value>
-            <RecentProjectMetaInfo frameTitle="fe-interview-assingment – 2__c__TradeModal__2.spec.tsx" opened="true" projectWorkspaceId="2OjYHdJ1fom4x1WRgfoq56erx1l">
-              <option name="activationTimestamp" value="1709547675162" />
+            <RecentProjectMetaInfo frameTitle="fe-interview-assingment – package.json" projectWorkspaceId="2OjYHdJ1fom4x1WRgfoq56erx1l">
+              <option name="activationTimestamp" value="1709555737994" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512433590" />
@@ -397,8 +381,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Development/wts">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wts – index.tsx" opened="true" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
+              <option name="activationTimestamp" value="1709507479201" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9921.42" />
+              <option name="buildTimestamp" value="1694512433590" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="0" y="0" width="1512" height="944" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1709555751780" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/fe-interview-assingment" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/wts" />
   </component>
 </application>
