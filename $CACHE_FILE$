@@ -20820,7 +20820,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1709477403484
+    "lastUpdateTime": 1709597966568
   },
   "dependencies": {
     "featureMap": {
@@ -21093,6 +21093,14 @@
           {
             "pluginIdString": "com.demonwav.minecraft-dev",
             "nullablePluginName": "Minecraft Development"
+          }
+        ]
+      },
+      "java:com.github.tomakehurst:wiremock": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.wiremock",
+            "nullablePluginName": "WireMock"
           }
         ]
       },
@@ -22064,6 +22072,14 @@
           }
         ]
       },
+      "java:org.wiremock:wiremock": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.wiremock",
+            "nullablePluginName": "WireMock"
+          }
+        ]
+      },
       "javascript:npm:@angular/core": {
         "dataSet": [
           {
@@ -22361,7 +22377,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1709477403547
+    "lastUpdateTime": 1709597966600
   }
 }]]></component>
   <component name="PluginFeatureService">{
