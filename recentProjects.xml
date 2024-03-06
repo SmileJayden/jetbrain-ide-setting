@@ -367,7 +367,7 @@
         </entry>
         <entry key="$USER_HOME$/Development/fintech">
           <value>
-            <RecentProjectMetaInfo frameTitle="fintech – Rows.tsx" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
+            <RecentProjectMetaInfo frameTitle="fintech – OrderToggle.tsx" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
               <option name="activationTimestamp" value="1709719397959" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
@@ -377,23 +377,39 @@
               </option>
               <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1709718470146" />
+              <option name="projectOpenTimestamp" value="1709725828794" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Development/tds">
+          <value>
+            <RecentProjectMetaInfo frameTitle="tds – package.json" projectWorkspaceId="2TD3F3MkcqGdtC1CProYHh0NMH6">
+              <option name="activationTimestamp" value="1709725967250" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9921.42" />
+              <option name="buildTimestamp" value="1694512383389" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1709725963279" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/Development/wts">
           <value>
-            <RecentProjectMetaInfo frameTitle="wts – price-fields-set.tsx" opened="true" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
-              <option name="activationTimestamp" value="1709725615237" />
+            <RecentProjectMetaInfo frameTitle="wts – quantity-trading.ts" opened="true" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
+              <option name="activationTimestamp" value="1709726070105" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512383389" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="5" />
               </option>
-              <frame x="1512" y="25" width="1920" height="1055" extendedState="6" />
+              <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1709719403379" />
+              <option name="projectOpenTimestamp" value="1709725975747" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
