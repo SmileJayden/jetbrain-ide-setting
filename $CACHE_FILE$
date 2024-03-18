@@ -11707,7 +11707,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.github.beansoft.iscratch",
-            "nullablePluginName": "Code Note"
+            "nullablePluginName": "Code Note: In IDE Note-Taking, Project Notes"
           }
         ]
       },
@@ -16741,14 +16741,6 @@
           }
         ]
       },
-      "*.tftpl": {
-        "dataSet": [
-          {
-            "pluginIdString": "org.intellij.plugins.hcl",
-            "nullablePluginName": "Terraform and HCL"
-          }
-        ]
-      },
       "*.tfvars": {
         "dataSet": [
           {
@@ -20820,7 +20812,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1710467119128
+    "lastUpdateTime": 1710719320122
   },
   "dependencies": {
     "featureMap": {
@@ -22377,7 +22369,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1710467119159
+    "lastUpdateTime": 1710719320155
   }
 }]]></component>
   <component name="PluginFeatureService">{
