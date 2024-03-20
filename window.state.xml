@@ -1,6 +1,6 @@
 <application>
   <component name="DimensionService">
-    <location key="find.popup.0.0.2160.3840@192dpi" x="90" y="238" />
+    <location key="find.popup.0.0.2160.3840@192dpi" x="0" y="2046" />
     <location key="find.popup.0.0.3024.1964@192dpi" x="132" y="170" />
     <location key="find.popup.2160.800.3840.2160@192dpi" x="2324" y="954" />
     <location key="find.popup.2160.524.3840.2160@192dpi" x="2240" y="680" />
@@ -11,7 +11,7 @@
     <location key="find.popup.3024.0.3840.2160@192dpi" x="3184" y="156" />
     <location key="find.popup.-2160.-602.2160.3840@192dpi" x="-2070" y="-362" />
     <location key="find.popup.2160.0.3840.2160@192dpi" x="2320" y="156" />
-    <size key="find.popup.0.0.2160.3840@192dpi" width="1766" height="3180" />
+    <size key="find.popup.0.0.2160.3840@192dpi" width="2160" height="1504" />
     <size key="find.popup.0.0.3024.1964@192dpi" width="2444" height="1504" />
     <size key="find.popup.2160.800.3840.2160@192dpi" width="3104" height="1682" />
     <size key="find.popup.2160.524.3840.2160@192dpi" width="3760" height="1774" />
@@ -51,8 +51,8 @@
     <frame x="1080" y="25" width="1920" height="1055" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
-    <state width="1787" height="183" key="ShowUsagesActions.dimensionServiceKey" timestamp="1710830671656">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state width="1005" height="139" key="ShowUsagesActions.dimensionServiceKey" timestamp="1710895515740">
+      <screen x="0" y="25" width="1080" height="1895" />
     </state>
     <state width="1920" height="141" key="ShowUsagesActions.dimensionServiceKey/-1080.-272.1080.1895/0.25.1920.1055" timestamp="1708328334442" />
     <state width="1920" height="764" key="ShowUsagesActions.dimensionServiceKey/-1080.-276.1080.1895/0.25.1920.1055" timestamp="1709889065742" />
@@ -65,11 +65,11 @@
     <state width="1901" height="119" key="ShowUsagesActions.dimensionServiceKey/0.25.1920.1055/-1080.-272.1080.1895" timestamp="1705322357349" />
     <state width="1920" height="95" key="ShowUsagesActions.dimensionServiceKey/0.25.1920.1055/-1080.-276.1080.1895" timestamp="1710218366166" />
     <state width="1406" height="141" key="ShowUsagesActions.dimensionServiceKey/0.38.1512.944" timestamp="1710741797048" />
-    <state width="1005" height="740" key="ShowUsagesActions.dimensionServiceKey/1080.25.1920.1055/0.25.1080.1895" timestamp="1710765700298" />
+    <state width="1005" height="139" key="ShowUsagesActions.dimensionServiceKey/1080.25.1920.1055/0.25.1080.1895" timestamp="1710895515740" />
     <state width="1465" height="119" key="ShowUsagesActions.dimensionServiceKey/1080.287.1920.1055/0.25.1080.1895" timestamp="1706622836067" />
     <state width="1080" height="95" key="ShowUsagesActions.dimensionServiceKey/1080.425.1920.1055/0.25.1080.1895" timestamp="1709967162609" />
     <state width="1787" height="117" key="ShowUsagesActions.dimensionServiceKey/161.1118.1512.944/0.25.1920.1055" timestamp="1710814888006" />
-    <state x="540" y="972" width="800" height="1895" key="WELCOME_SCREEN" timestamp="1710892813025">
+    <state x="540" y="972" width="800" height="1895" key="WELCOME_SCREEN" timestamp="1710892818044">
       <screen x="0" y="25" width="1080" height="1895" />
     </state>
     <state x="959" y="497" width="1423" height="727" key="WELCOME_SCREEN/-1080.-272.1080.1895/0.25.1920.1055" timestamp="1702279340837" />
@@ -78,7 +78,7 @@
     <state x="539" y="874" width="801" height="1306" key="WELCOME_SCREEN/0.25.1080.1895/1080.425.1920.1055" timestamp="1702347911468" />
     <state x="959" y="552" width="801" height="1055" key="WELCOME_SCREEN/0.25.1920.1055" timestamp="1709699885391" />
     <state x="960" y="498" width="1424" height="728" key="WELCOME_SCREEN/0.25.1920.1055/-1080.-157.1080.1895" timestamp="1703064501577" />
-    <state x="540" y="972" width="800" height="1895" key="WELCOME_SCREEN/1080.25.1920.1055/0.25.1080.1895" timestamp="1710892813025" />
+    <state x="540" y="972" width="800" height="1895" key="WELCOME_SCREEN/1080.25.1920.1055/0.25.1080.1895" timestamp="1710892818044" />
     <state x="2039" y="952" width="801" height="1055" key="WELCOME_SCREEN/1080.425.1920.1055/0.25.1080.1895" timestamp="1704415982934" />
   </component>
 </application>
