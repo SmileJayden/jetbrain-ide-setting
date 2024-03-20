@@ -1043,14 +1043,6 @@
           }
         ]
       },
-      ".angular-cli.json": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.github.iguissouma.nxconsole",
-            "nullablePluginName": "Nx Console Idea"
-          }
-        ]
-      },
       ".asciidoctorconfig": {
         "dataSet": [
           {
@@ -1715,7 +1707,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           }
         ]
       },
@@ -1727,7 +1719,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "org.jetbrains.android",
@@ -1751,7 +1743,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           }
         ]
       },
@@ -1956,7 +1948,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "org.jetbrains.android",
@@ -2009,7 +2001,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "com.jetbrains.appcode.android",
@@ -2041,7 +2033,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "org.jetbrains.android",
@@ -2157,7 +2149,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           }
         ]
       },
@@ -3829,7 +3821,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "com.intellij.kotlinNative.platformDeps",
@@ -5059,7 +5051,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           }
         ]
       },
@@ -6624,7 +6616,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "com.jetbrains.rider.fsharp",
@@ -7633,7 +7625,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "com.jetbrains.appcode.android",
@@ -7766,7 +7758,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           }
         ]
       },
@@ -8463,7 +8455,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "com.intellij.kotlinNative.platformDeps",
@@ -9771,7 +9763,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "rsdeditor",
@@ -9956,7 +9948,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "com.sw.FastLayoutInspector",
@@ -10689,7 +10681,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "com.intellij.kotlinNative.platformDeps",
@@ -12052,7 +12044,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "com.jetbrains.appcode.android",
@@ -12412,7 +12404,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           }
         ]
       },
@@ -12484,7 +12476,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           }
         ]
       },
@@ -13167,7 +13159,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "tech.phosphorus.intellij-prolog",
@@ -13333,7 +13325,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "org.jetbrains.android",
@@ -14491,7 +14483,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           }
         ]
       },
@@ -14512,7 +14504,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "org.jetbrains.android",
@@ -15409,7 +15401,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "com.th.smali",
@@ -15474,7 +15466,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "com.intellij.kotlinNative.platformDeps",
@@ -17112,7 +17104,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           }
         ]
       },
@@ -17397,7 +17389,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "com.jetbrains.appcode.android",
@@ -18209,7 +18201,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "intellij.webp",
@@ -19241,22 +19233,6 @@
           }
         ]
       },
-      "angular-cli.json": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.github.iguissouma.nxconsole",
-            "nullablePluginName": "Nx Console Idea"
-          }
-        ]
-      },
-      "angular.json": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.github.iguissouma.nxconsole",
-            "nullablePluginName": "Nx Console Idea"
-          }
-        ]
-      },
       "antora.yml": {
         "dataSet": [
           {
@@ -20114,7 +20090,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "org.jetbrains.android",
@@ -20299,7 +20275,7 @@
           },
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           }
         ]
       },
@@ -20307,7 +20283,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.jetbrains.rider.android",
-            "nullablePluginName": "Rider Xamarin Android Support"
+            "nullablePluginName": "Rider Android Support"
           },
           {
             "pluginIdString": "org.jetbrains.android",
@@ -20787,14 +20763,6 @@
           }
         ]
       },
-      "workspace.json": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.github.iguissouma.nxconsole",
-            "nullablePluginName": "Nx Console Idea"
-          }
-        ]
-      },
       "writerside.cfg": {
         "dataSet": [
           {
@@ -20812,7 +20780,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1710824024858
+    "lastUpdateTime": 1710922558305
   },
   "dependencies": {
     "featureMap": {
@@ -22369,7 +22337,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1710824024905
+    "lastUpdateTime": 1710922558334
   }
 }]]></component>
   <component name="PluginFeatureService">{
