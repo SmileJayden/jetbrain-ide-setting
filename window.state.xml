@@ -10,7 +10,7 @@
     <location key="find.popup.-2160.-594.2160.3840@192dpi" x="-2070" y="-356" />
     <location key="find.popup.3024.0.3840.2160@192dpi" x="3184" y="156" />
     <location key="find.popup.-2160.-602.2160.3840@192dpi" x="-2070" y="-362" />
-    <location key="find.popup.2160.0.3840.2160@192dpi" x="2320" y="156" />
+    <location key="find.popup.2160.0.3840.2160@192dpi" x="2320" y="154" />
     <location key="find.popup.0.0.3600.2338@192dpi" x="150" y="198" />
     <size key="find.popup.0.0.2160.3840@192dpi" width="1746" height="3022" />
     <size key="find.popup.0.0.3024.1964@192dpi" width="2472" height="1584" />
@@ -46,15 +46,15 @@
     <size key="GridCell.Tab.0.bottom.0.0.2160.3840@192dpi" width="1980" height="3288" />
     <size key="find.popup.3024.0.3840.2160@192dpi" width="3140" height="1772" />
     <size key="find.popup.-2160.-602.2160.3840@192dpi" width="1840" height="3184" />
-    <size key="find.popup.2160.0.3840.2160@192dpi" width="3104" height="1682" />
+    <size key="find.popup.2160.0.3840.2160@192dpi" width="3140" height="1772" />
     <size key="find.popup.0.0.3600.2338@192dpi" width="2944" height="1890" />
   </component>
   <component name="WindowManager">
     <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
-    <state width="1787" height="95" key="ShowUsagesActions.dimensionServiceKey" timestamp="1711094478633">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state width="1005" height="95" key="ShowUsagesActions.dimensionServiceKey" timestamp="1711329574206">
+      <screen x="0" y="25" width="1080" height="1895" />
     </state>
     <state width="1920" height="141" key="ShowUsagesActions.dimensionServiceKey/-1080.-272.1080.1895/0.25.1920.1055" timestamp="1708328334442" />
     <state width="1920" height="764" key="ShowUsagesActions.dimensionServiceKey/-1080.-276.1080.1895/0.25.1920.1055" timestamp="1709889065742" />
@@ -67,7 +67,7 @@
     <state width="1901" height="119" key="ShowUsagesActions.dimensionServiceKey/0.25.1920.1055/-1080.-272.1080.1895" timestamp="1705322357349" />
     <state width="1920" height="95" key="ShowUsagesActions.dimensionServiceKey/0.25.1920.1055/-1080.-276.1080.1895" timestamp="1710218366166" />
     <state width="1406" height="141" key="ShowUsagesActions.dimensionServiceKey/0.38.1512.944" timestamp="1710741797048" />
-    <state width="1005" height="117" key="ShowUsagesActions.dimensionServiceKey/1080.25.1920.1055/0.25.1080.1895" timestamp="1710926134989" />
+    <state width="1005" height="95" key="ShowUsagesActions.dimensionServiceKey/1080.25.1920.1055/0.25.1080.1895" timestamp="1711329574206" />
     <state width="1465" height="119" key="ShowUsagesActions.dimensionServiceKey/1080.287.1920.1055/0.25.1080.1895" timestamp="1706622836067" />
     <state width="1080" height="95" key="ShowUsagesActions.dimensionServiceKey/1080.425.1920.1055/0.25.1080.1895" timestamp="1709967162609" />
     <state width="1787" height="163" key="ShowUsagesActions.dimensionServiceKey/161.1118.1512.944/0.25.1920.1055" timestamp="1711008425537" />
