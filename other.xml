@@ -1,9 +1,9 @@
 <application>
-  <component name="FileEditorProviderManager"><![CDATA[{
-  "selectedProviders": {
-    "text-editor,sourcemapFileViewerProvider": "text-editor"
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,sourcemapFileViewerProvider&quot;: &quot;text-editor&quot;
   }
-}]]></component>
+}</component>
   <component name="NotRoamableUiSettings">
     <option name="fontFace" value="Inter" />
     <option name="fontSize" value="13.0" />
@@ -32,14 +32,14 @@
     "PluginConfigurable.selectionTab": "1",
     "SettingsSearchHistory": "toolbar\neslint\nappea\nfont\ntypogr",
     "Vcs.Log.Text.Filter.History": "548\nTRD-477\nba6ddc97\nOPTN-417\n17650",
-    "appcds.runOnSecondStart": "WS-232.9921.42-4ae5c050bbd9600c763fcf549706a9ad5f0e5beb7ec6553e10c4981d1acf54ee",
+    "appcds.runOnSecondStart": "WS-232.9921.42-b5a4be98cf4d922eff758751c932c1462ed244cbb085c056c794c33ce7d6fd57",
     "bundled.plugins.list.saved.version": "WS-232.9921.42",
     "evlsprt3.232": "4",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9921.42",
     "export.settings.path": "/Users/jaeyoung.jang/Desktop/settings.zip",
-    "file.gist.reindex.count": "775",
-    "fileTypeChangedCounter": "1",
+    "file.gist.reindex.count": "780",
+    "fileTypeChangedCounter": "2",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
     "got.it.tooltip.reader.mode.got.it": "1",
@@ -49,6 +49,7 @@
     "js.rename.search.in.comments": "false",
     "last_opened_file_path": "/Users/jaeyoung.jang/Development/fintech",
     "migrated.non.roamable.values.from.general.settings": "true",
+    "perl.last.update.timestamp": "1711430445705",
     "previousColorScheme": "_@user_Visual Studio Code Dark Plus",
     "registry.to.advanced.settings.migration.build": "WS-232.9921.42",
     "settings.code.style.selected.tab.JavaScript": "Imports",
@@ -62,6 +63,7 @@
   "keyToStringList": {
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.perl5.lang.perl.fileTypes.PerlFileTypeDetector",
       "com.intellij.docker.dockerFile.DockerFileTypeDetector",
       "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
       "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
