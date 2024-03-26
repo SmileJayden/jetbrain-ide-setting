@@ -28,10 +28,10 @@
       <i c="1" l="1709511530568" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="3347" l="1711430915759" />
+      <i c="3350" l="1711431647146" />
     </e>
     <e n="Annotate">
-      <i c="601" l="1711405610515" />
+      <i c="603" l="1711431647483" />
     </e>
     <e n="AtomFileIcons.Actions">
       <i c="1" l="1697029373449" />
@@ -112,10 +112,10 @@
       <i c="2502" l="1711414903955" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="2026" l="1711419422981" />
+      <i c="2031" l="1711433104821" />
     </e>
     <e n="EditorDown">
-      <i c="181147" l="1711430914488" />
+      <i c="181148" l="1711433099841" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="4561" l="1711413745264" />
@@ -214,7 +214,7 @@
       <i c="2" l="1710767863784" />
     </e>
     <e n="EditorUp">
-      <i c="166675" l="1711430916672" />
+      <i c="166678" l="1711433100290" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="10359" l="1711414659373" />
@@ -232,10 +232,10 @@
       <i c="1" l="1710147353273" />
     </e>
     <e n="Find">
-      <i c="4125" l="1711430933794" />
+      <i c="4126" l="1711431630387" />
     </e>
     <e n="FindInPath">
-      <i c="3592" l="1711430579868" />
+      <i c="3594" l="1711433101077" />
     </e>
     <e n="FindUsages">
       <i c="716" l="1711409159863" />
@@ -433,10 +433,10 @@
       <i c="5" l="1710467422737" />
     </e>
     <e n="SearchEverywhere">
-      <i c="165" l="1711430594191" />
+      <i c="166" l="1711433108008" />
     </e>
     <e n="SelectInProjectView">
-      <i c="2912" l="1711430928788" />
+      <i c="2914" l="1711433106115" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="760" l="1711414786318" />
@@ -466,7 +466,7 @@
       <i c="1544" l="1711430927401" />
     </e>
     <e n="Tree-selectNext">
-      <i c="26850" l="1711430928967" />
+      <i c="26851" l="1711431629474" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="141" l="1711010749700" />
@@ -475,7 +475,7 @@
       <i c="1939" l="1711430923287" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="22991" l="1711430923072" />
+      <i c="22997" l="1711433106955" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="80" l="1711338066508" />
@@ -541,7 +541,7 @@
       <i c="9" l="1709019382228" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="3838" l="1711430936308" />
+      <i c="3839" l="1711431633407" />
     </e>
     <e n="com.intellij.find.SearchTextArea$ClearAction">
       <i c="3" l="1704714756066" />
@@ -556,10 +556,10 @@
       <i c="1" l="1710409968161" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
-      <i c="9933" l="1711430934177" />
+      <i c="9941" l="1711431631901" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
-      <i c="5722" l="1711430935922" />
+      <i c="5723" l="1711431632204" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.SwitchToFind">
       <i c="25" l="1711325011087" />
@@ -571,7 +571,7 @@
       <i c="2102" l="1711430394794" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="325" l="1711418257499" />
+      <i c="326" l="1711433103661" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySwitchStateToggleAction">
       <i c="10" l="1708670820200" />
@@ -625,7 +625,7 @@
       <i c="3137" l="1711430917994" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="1574" l="1711430599308" />
+      <i c="1577" l="1711433115257" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="9" l="1710898627529" />
@@ -634,7 +634,7 @@
       <i c="15" l="1711420813744" />
     </e>
     <e n="com.intellij.openapi.vcs.changes.EditorTabPreviewEscapeAction">
-      <i c="187" l="1711335753596" />
+      <i c="188" l="1711431645726" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="48" l="1708527884678" />
@@ -658,7 +658,7 @@
       <i c="8" l="1711334944058" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="107" l="1711430597602" />
+      <i c="121" l="1711433115053" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveHomeAction">
       <i c="2" l="1710159707250" />
