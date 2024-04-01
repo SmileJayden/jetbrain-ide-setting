@@ -2646,7 +2646,7 @@
         "dataSet": [
           {
             "pluginIdString": "net.sf.opk.avro-schema-support",
-            "nullablePluginName": "Apache Avro IDL Schema Support"
+            "nullablePluginName": "Avro Schema Support"
           },
           {
             "pluginIdString": "claims.bold.intellij.avro",
@@ -2658,7 +2658,7 @@
         "dataSet": [
           {
             "pluginIdString": "net.sf.opk.avro-schema-support",
-            "nullablePluginName": "Apache Avro IDL Schema Support"
+            "nullablePluginName": "Avro Schema Support"
           }
         ]
       },
@@ -2690,7 +2690,7 @@
         "dataSet": [
           {
             "pluginIdString": "net.sf.opk.avro-schema-support",
-            "nullablePluginName": "Apache Avro IDL Schema Support"
+            "nullablePluginName": "Avro Schema Support"
           }
         ]
       },
@@ -3785,7 +3785,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.intellij.ml.llm",
-            "nullablePluginName": "AI Assistant"
+            "nullablePluginName": "JetBrains AI Assistant"
           }
         ]
       },
@@ -6327,6 +6327,10 @@
           {
             "pluginIdString": "io.karatelabs.intellij",
             "nullablePluginName": "Karate"
+          },
+          {
+            "pluginIdString": "net.reqnroll",
+            "nullablePluginName": "Reqnroll for Rider"
           }
         ]
       },
@@ -15650,7 +15654,7 @@
         "dataSet": [
           {
             "pluginIdString": "io.github.lobodpav.spock",
-            "nullablePluginName": "Spock framework support"
+            "nullablePluginName": "Spock Framework Support"
           }
         ]
       },
@@ -18302,6 +18306,18 @@
           {
             "pluginIdString": "com.github.linuxchina.jetbrains.wit",
             "nullablePluginName": "WIT"
+          },
+          {
+            "pluginIdString": "wit",
+            "nullablePluginName": "WIT IDL"
+          }
+        ]
+      },
+      "*.witx": {
+        "dataSet": [
+          {
+            "pluginIdString": "wit",
+            "nullablePluginName": "WIT IDL"
           }
         ]
       },
@@ -20816,7 +20832,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1711533235365
+    "lastUpdateTime": 1711932374358
   },
   "dependencies": {
     "featureMap": {
@@ -22373,7 +22389,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1711533235401
+    "lastUpdateTime": 1711932374399
   }
 }]]></component>
   <component name="PluginFeatureService">{
