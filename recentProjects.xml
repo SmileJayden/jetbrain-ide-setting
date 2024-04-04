@@ -4,7 +4,7 @@
       <map>
         <entry key="$APPLICATION_CONFIG_DIR$/light-edit">
           <value>
-            <RecentProjectMetaInfo frameTitle="LightEditProject" hidden="true" opened="true" projectWorkspaceId="2TS8vj1hjLJRgmEDZp1crz5XOBn">
+            <RecentProjectMetaInfo frameTitle="LightEditProject" hidden="true" projectWorkspaceId="2TS8vj1hjLJRgmEDZp1crz5XOBn">
               <option name="activationTimestamp" value="1712145234584" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
@@ -400,14 +400,14 @@
         <entry key="$USER_HOME$/Development/fintech">
           <value>
             <RecentProjectMetaInfo frameTitle="fintech – useInViewLog.spec.ts" opened="true" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
-              <option name="activationTimestamp" value="1712193496687" />
+              <option name="activationTimestamp" value="1712199876734" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512439745" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
-              <frame x="3672" y="25" width="1920" height="1055" extendedState="6" />
+              <frame x="204" y="80" width="1512" height="944" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1711934559417" />
             </RecentProjectMetaInfo>
@@ -415,15 +415,15 @@
         </entry>
         <entry key="$USER_HOME$/Development/wts">
           <value>
-            <RecentProjectMetaInfo frameTitle="wts – package.json" opened="true" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
-              <option name="activationTimestamp" value="1712199637657" />
+            <RecentProjectMetaInfo frameTitle="wts – factor-filter.tsx" opened="true" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
+              <option name="activationTimestamp" value="1712199651144" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512439745" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="5" />
               </option>
-              <frame x="3672" y="25" width="1920" height="1055" extendedState="6" />
+              <frame x="204" y="80" width="1512" height="944" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1711934571739" />
             </RecentProjectMetaInfo>
@@ -447,15 +447,15 @@
         </entry>
         <entry key="$USER_HOME$/Development/add-logging-dataset">
           <value>
-            <RecentProjectMetaInfo frameTitle="add-logging-dataset – README.md" opened="true" projectWorkspaceId="2eayOIEmbavqtatmzs3PeyABO8k">
-              <option name="activationTimestamp" value="1712195449339" />
+            <RecentProjectMetaInfo frameTitle="add-logging-dataset – .gitignore" projectWorkspaceId="2eayOIEmbavqtatmzs3PeyABO8k">
+              <option name="activationTimestamp" value="1712199643317" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512416039" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="3672" y="25" width="1920" height="1055" extendedState="6" />
+              <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1712156949343" />
             </RecentProjectMetaInfo>
@@ -463,14 +463,15 @@
         </entry>
         <entry key="$USER_HOME$/Development/libraries">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2ecAzPM5dKPgxeqCXfjLWcgJGlM">
-              <option name="activationTimestamp" value="1712194671371" />
+            <RecentProjectMetaInfo frameTitle="libraries – publish.yml" projectWorkspaceId="2ecAzPM5dKPgxeqCXfjLWcgJGlM">
+              <option name="activationTimestamp" value="1712199647848" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512414642" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
+              <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1712193754335" />
             </RecentProjectMetaInfo>
@@ -478,6 +479,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/wts" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/fintech" />
   </component>
 </application>
