@@ -397,22 +397,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Development/wts">
-          <value>
-            <RecentProjectMetaInfo frameTitle="wts – quantity-fields-set.tsx" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
-              <option name="activationTimestamp" value="1712646573843" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9921.42" />
-              <option name="buildTimestamp" value="1694512439745" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
-              </option>
-              <frame x="1808" y="25" width="1905" height="1055" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1711934571739" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Development/assginment/toss-stock-trading">
           <value>
             <RecentProjectMetaInfo frameTitle="toss-stock-trading – OrderModalContent.tsx" projectWorkspaceId="2eVDbGFGK5fbPrOtDa8iHa0L7FJ">
@@ -493,8 +477,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Development/wts">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wts – quantity-fields-set.tsx" opened="true" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
+              <option name="activationTimestamp" value="1712802470270" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9921.42" />
+              <option name="buildTimestamp" value="1694512395792" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="1808" y="25" width="1905" height="1055" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1712800949410" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/fintech" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/wts" />
   </component>
 </application>
