@@ -413,22 +413,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Development/add-logging-dataset">
-          <value>
-            <RecentProjectMetaInfo frameTitle="add-logging-dataset – .gitignore" projectWorkspaceId="2eayOIEmbavqtatmzs3PeyABO8k">
-              <option name="activationTimestamp" value="1712199643317" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9921.42" />
-              <option name="buildTimestamp" value="1694512416039" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1712156949343" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Development/libraries">
           <value>
             <RecentProjectMetaInfo frameTitle="libraries – publish.yml" projectWorkspaceId="2ecAzPM5dKPgxeqCXfjLWcgJGlM">
@@ -480,7 +464,7 @@
         <entry key="$USER_HOME$/Development/wts">
           <value>
             <RecentProjectMetaInfo frameTitle="wts – quantity-fields-set.tsx" opened="true" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
-              <option name="activationTimestamp" value="1712811266556" />
+              <option name="activationTimestamp" value="1712816494009" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512395792" />
@@ -493,8 +477,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Development/add-logging-dataset">
+          <value>
+            <RecentProjectMetaInfo frameTitle="add-logging-dataset – .gitignore" opened="true" projectWorkspaceId="2eayOIEmbavqtatmzs3PeyABO8k">
+              <option name="activationTimestamp" value="1712817969949" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9921.42" />
+              <option name="buildTimestamp" value="1694512395792" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1712815686250" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/wts" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/add-logging-dataset" />
   </component>
 </application>
