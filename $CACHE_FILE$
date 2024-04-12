@@ -1466,6 +1466,14 @@
           }
         ]
       },
+      ".ws-context": {
+        "dataSet": [
+          {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript"
+          }
+        ]
+      },
       ".xlf.*": {
         "dataSet": [
           {
@@ -2329,6 +2337,10 @@
       "*.as": {
         "dataSet": [
           {
+            "pluginIdString": "com.intellij.flex",
+            "nullablePluginName": "Flash/Flex"
+          },
+          {
             "pluginIdString": "com.angelscript-intellij",
             "nullablePluginName": "AngelScript Language Support"
           },
@@ -2482,6 +2494,14 @@
           }
         ]
       },
+      "*.ass": {
+        "dataSet": [
+          {
+            "pluginIdString": "JASS",
+            "nullablePluginName": "JASS"
+          }
+        ]
+      },
       "*.assert": {
         "dataSet": [
           {
@@ -2611,6 +2631,14 @@
           {
             "pluginIdString": "com.illuminatedcloud2.intellij",
             "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
+      "*.authz": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.contexts.authz-intellij.authz-intellij",
+            "nullablePluginName": "AuthZ"
           }
         ]
       },
@@ -3710,6 +3738,22 @@
             "pluginIdString": "CFML Support",
             "nullablePluginName": "CFML Support",
             "isBundled": true
+          }
+        ]
+      },
+      "*.cfpatch.yaml": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.cfa.api.sdk.intellij",
+            "nullablePluginName": "CFA API SDK"
+          }
+        ]
+      },
+      "*.cfpatch.yml": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.cfa.api.sdk.intellij",
+            "nullablePluginName": "CFA API SDK"
           }
         ]
       },
@@ -5175,15 +5219,23 @@
           }
         ]
       },
+      "*.distignore": {
+        "dataSet": [
+          {
+            "pluginIdString": "mobi.hsz.idea.gitignore",
+            "nullablePluginName": ".ignore"
+          }
+        ]
+      },
       "*.djinni": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.cross-language-cpp.djinni-intellij-plugin",
-            "nullablePluginName": "Djinni IDL File Support"
-          },
-          {
             "pluginIdString": "com.dropbox.djinni.ideaplugin",
             "nullablePluginName": "Djinni IDL file support"
+          },
+          {
+            "pluginIdString": "com.github.cross-language-cpp.djinni-intellij-plugin",
+            "nullablePluginName": "Djinni IDL File Support"
           }
         ]
       },
@@ -5882,6 +5934,10 @@
             "pluginIdString": "JavaScript",
             "nullablePluginName": "JavaScript Support",
             "isBundled": true
+          },
+          {
+            "pluginIdString": "com.intellij.flex",
+            "nullablePluginName": "Flash/Flex"
           },
           {
             "pluginIdString": "org.elasticsearch4idea",
@@ -6848,7 +6904,7 @@
           },
           {
             "pluginIdString": "com.my.antlr.tool",
-            "nullablePluginName": "ANTLR v4-Tool"
+            "nullablePluginName": "ANTLR V4-Tool"
           }
         ]
       },
@@ -6856,7 +6912,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.google.gct.core",
-            "nullablePluginName": "Google Cloud Code"
+            "nullablePluginName": "Gemini + Google Cloud Code"
           }
         ]
       },
@@ -6934,6 +6990,14 @@
         ]
       },
       "*.gdconf": {
+        "dataSet": [
+          {
+            "pluginIdString": "ice.explosive.gdscript",
+            "nullablePluginName": "GdScript"
+          }
+        ]
+      },
+      "*.gdf": {
         "dataSet": [
           {
             "pluginIdString": "ice.explosive.gdscript",
@@ -8844,6 +8908,10 @@
       "*.js2": {
         "dataSet": [
           {
+            "pluginIdString": "com.intellij.flex",
+            "nullablePluginName": "Flash/Flex"
+          },
+          {
             "pluginIdString": "JavaScript",
             "nullablePluginName": "JavaScript and TypeScript"
           },
@@ -10190,6 +10258,14 @@
           {
             "pluginIdString": "Twelf Plugin",
             "nullablePluginName": "Twelf Plugin"
+          }
+        ]
+      },
+      "*.lni": {
+        "dataSet": [
+          {
+            "pluginIdString": "JASS",
+            "nullablePluginName": "JASS"
           }
         ]
       },
@@ -11784,6 +11860,14 @@
           {
             "pluginIdString": "com.sharedvocabs.plugins.rdfandsparql",
             "nullablePluginName": "RDF and SPARQL"
+          }
+        ]
+      },
+      "*.nrql": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.codestream.jetbrains-codestream",
+            "nullablePluginName": "New Relic CodeStream"
           }
         ]
       },
@@ -14245,6 +14329,14 @@
           }
         ]
       },
+      "*.rest_tester": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.flop.RestTester",
+            "nullablePluginName": "Rest Tester"
+          }
+        ]
+      },
       "*.result": {
         "dataSet": [
           {
@@ -14524,6 +14616,14 @@
           {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Android Support"
+          }
+        ]
+      },
+      "*.rs.hcl": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.ariga.atlas.hcl",
+            "nullablePluginName": "Atlas HCL"
           }
         ]
       },
@@ -18439,22 +18539,30 @@
           }
         ]
       },
-      "*.wxml": {
+      "*.wts": {
         "dataSet": [
           {
-            "pluginIdString": "com.ytw88.weappsupport",
-            "nullablePluginName": "WeChat weapp Support"
-          },
-          {
-            "pluginIdString": "com.zxy.ijplugin.wechat-miniprogram",
-            "nullablePluginName": "Wechat mini program support"
-          },
+            "pluginIdString": "JASS",
+            "nullablePluginName": "JASS"
+          }
+        ]
+      },
+      "*.wxml": {
+        "dataSet": [
           {
             "pluginIdString": "miniApp",
             "nullablePluginName": "MiniApp"
           },
           {
             "pluginIdString": "com.zxy.ijplugin.wechat-miniprogram2023",
+            "nullablePluginName": "Wechat mini program support"
+          },
+          {
+            "pluginIdString": "com.ytw88.weappsupport",
+            "nullablePluginName": "WeChat weapp Support"
+          },
+          {
+            "pluginIdString": "com.zxy.ijplugin.wechat-miniprogram",
             "nullablePluginName": "Wechat mini program support"
           }
         ]
@@ -18462,35 +18570,35 @@
       "*.wxs": {
         "dataSet": [
           {
+            "pluginIdString": "com.zxy.ijplugin.wechat-miniprogram",
+            "nullablePluginName": "Wechat mini program support"
+          },
+          {
             "pluginIdString": "miniApp",
             "nullablePluginName": "MiniApp"
           },
           {
             "pluginIdString": "com.hxz.mpxjs",
             "nullablePluginName": "Mpx"
-          },
-          {
-            "pluginIdString": "com.zxy.ijplugin.wechat-miniprogram",
-            "nullablePluginName": "Wechat mini program support"
           }
         ]
       },
       "*.wxss": {
         "dataSet": [
           {
-            "pluginIdString": "com.ytw88.weappsupport",
-            "nullablePluginName": "WeChat weapp Support"
-          },
-          {
-            "pluginIdString": "com.zxy.ijplugin.wechat-miniprogram",
-            "nullablePluginName": "Wechat mini program support"
-          },
-          {
             "pluginIdString": "miniApp",
             "nullablePluginName": "MiniApp"
           },
           {
             "pluginIdString": "com.zxy.ijplugin.wechat-miniprogram2023",
+            "nullablePluginName": "Wechat mini program support"
+          },
+          {
+            "pluginIdString": "com.ytw88.weappsupport",
+            "nullablePluginName": "WeChat weapp Support"
+          },
+          {
+            "pluginIdString": "com.zxy.ijplugin.wechat-miniprogram",
             "nullablePluginName": "Wechat mini program support"
           }
         ]
@@ -20005,7 +20113,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.google.gct.core",
-            "nullablePluginName": "Google Cloud Code"
+            "nullablePluginName": "Gemini + Google Cloud Code"
           }
         ]
       },
@@ -20236,12 +20344,12 @@
         "dataSet": [
           {
             "pluginIdString": "com.intellij.swagger",
-            "nullablePluginName": "OpenAPI Specifications",
-            "isBundled": true
+            "nullablePluginName": "OpenAPI Specifications"
           },
           {
             "pluginIdString": "com.intellij.swagger",
-            "nullablePluginName": "OpenAPI Specifications"
+            "nullablePluginName": "OpenAPI Specifications",
+            "isBundled": true
           }
         ]
       },
@@ -20832,7 +20940,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1712794019530
+    "lastUpdateTime": 1712939614471
   },
   "dependencies": {
     "featureMap": {
@@ -21001,6 +21109,22 @@
           {
             "pluginIdString": "nsubstitutecomplete-rider",
             "nullablePluginName": "NSubstituteComplete"
+          }
+        ]
+      },
+      "dotnet:Reqnroll": {
+        "dataSet": [
+          {
+            "pluginIdString": "net.reqnroll",
+            "nullablePluginName": "Reqnroll for Rider"
+          }
+        ]
+      },
+      "dotnet:Specflow": {
+        "dataSet": [
+          {
+            "pluginIdString": "net.reqnroll",
+            "nullablePluginName": "Reqnroll for Rider"
           }
         ]
       },
@@ -22225,6 +22349,10 @@
           {
             "pluginIdString": "JavaScript",
             "nullablePluginName": "JavaScript and TypeScript"
+          },
+          {
+            "pluginIdString": "com.intellij.react",
+            "nullablePluginName": "React"
           }
         ]
       },
@@ -22389,7 +22517,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1712794019581
+    "lastUpdateTime": 1712939614556
   }
 }]]></component>
   <component name="PluginFeatureService">{
