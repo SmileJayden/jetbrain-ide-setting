@@ -448,7 +448,7 @@
         <entry key="$USER_HOME$/Development/wts">
           <value>
             <RecentProjectMetaInfo frameTitle="wts – package.json" opened="true" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
-              <option name="activationTimestamp" value="1713186601723" />
+              <option name="activationTimestamp" value="1713191002895" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512395792" />
@@ -464,7 +464,7 @@
         <entry key="$USER_HOME$/Development/add-logging-dataset">
           <value>
             <RecentProjectMetaInfo frameTitle="add-logging-dataset – package.json" opened="true" projectWorkspaceId="2eayOIEmbavqtatmzs3PeyABO8k">
-              <option name="activationTimestamp" value="1713171550144" />
+              <option name="activationTimestamp" value="1713191264088" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512395792" />
@@ -477,24 +477,54 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Development/fintech">
+        <entry key="$USER_HOME$/Development/fintech-devops">
           <value>
-            <RecentProjectMetaInfo frameTitle="fintech – index.tsx" opened="true" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
-              <option name="activationTimestamp" value="1713186367003" />
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2V6eIsf0MZr3fY3egKel2btbHli">
+              <option name="activationTimestamp" value="1713190894736" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
-              <option name="buildTimestamp" value="1694512395792" />
+              <option name="buildTimestamp" value="1694512421551" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1713186916747" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Development/fintech">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fintech – github.ts" opened="true" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
+              <option name="activationTimestamp" value="1713191145292" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9921.42" />
+              <option name="buildTimestamp" value="1694512421551" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
               <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1712818775355" />
+              <option name="projectOpenTimestamp" value="1713188406893" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Development/toss-frontend-infra">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2f8lQBSSq8IU0WS9Ld9984BubLz">
+              <option name="activationTimestamp" value="1713190994307" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9921.42" />
+              <option name="buildTimestamp" value="1694512421551" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1713190566987" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/wts" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/add-logging-dataset" />
   </component>
 </application>
