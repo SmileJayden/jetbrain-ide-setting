@@ -16,7 +16,7 @@
       <i c="290" l="1713188447617" />
     </e>
     <e n="$Undo">
-      <i c="5622" l="1713188368973" />
+      <i c="5623" l="1713192583259" />
     </e>
     <e n="ActivateBookmarksToolWindow">
       <i c="2" l="1712208000240" />
@@ -100,7 +100,7 @@
       <i c="601" l="1713148736080" />
     </e>
     <e n="EditorCopy">
-      <i c="11701" l="1713191087478" />
+      <i c="11711" l="1713192676689" />
     </e>
     <e n="EditorCut">
       <i c="1731" l="1713182589571" />
@@ -115,7 +115,7 @@
       <i c="2445" l="1713149075422" />
     </e>
     <e n="EditorDown">
-      <i c="215349" l="1713191077167" />
+      <i c="215551" l="1713193194626" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="4990" l="1713187477798" />
@@ -124,7 +124,7 @@
       <i c="8895" l="1713188368102" />
     </e>
     <e n="EditorEscape">
-      <i c="1531" l="1713188757606" />
+      <i c="1532" l="1713192649207" />
     </e>
     <e n="EditorIncreaseFontSize">
       <i c="5" l="1712912893865" />
@@ -133,28 +133,28 @@
       <i c="7" l="1711500417409" />
     </e>
     <e n="EditorLeft">
-      <i c="153254" l="1713191068894" />
+      <i c="153559" l="1713192706820" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="2645" l="1713188517650" />
     </e>
     <e n="EditorLineEnd">
-      <i c="17353" l="1713190937788" />
+      <i c="17367" l="1713193195063" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="2232" l="1713190374711" />
+      <i c="2234" l="1713192676240" />
     </e>
     <e n="EditorLineStart">
-      <i c="12310" l="1713190923024" />
+      <i c="12322" l="1713193195335" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="3084" l="1713188634882" />
+      <i c="3085" l="1713191418173" />
     </e>
     <e n="EditorNextWord">
       <i c="12587" l="1713190951417" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="4420" l="1713190936070" />
+      <i c="4434" l="1713192587784" />
     </e>
     <e n="EditorPageDown">
       <i c="1" l="1700556786088" />
@@ -166,13 +166,13 @@
       <i c="13022" l="1713188598447" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="11493" l="1713191077714" />
+      <i c="11520" l="1713192675958" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="6428" l="1713190952200" />
+      <i c="6429" l="1713192588115" />
     </e>
     <e n="EditorRight">
-      <i c="201653" l="1713190932274" />
+      <i c="201906" l="1713192732868" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1990" l="1713188568900" />
@@ -184,7 +184,7 @@
       <i c="1" l="1708594573373" />
     </e>
     <e n="EditorSelectWord">
-      <i c="23468" l="1713191087065" />
+      <i c="23469" l="1713191411928" />
     </e>
     <e n="EditorSplitLine">
       <i c="34" l="1712802402998" />
@@ -214,10 +214,10 @@
       <i c="3" l="1711977639837" />
     </e>
     <e n="EditorUp">
-      <i c="196779" l="1713191077450" />
+      <i c="197012" l="1713193194890" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="11187" l="1713187479976" />
+      <i c="11189" l="1713191418043" />
     </e>
     <e n="EmojiAndSymbols">
       <i c="4" l="1702399294020" />
@@ -232,7 +232,7 @@
       <i c="1" l="1710147353273" />
     </e>
     <e n="Find">
-      <i c="4675" l="1713191069081" />
+      <i c="4676" l="1713191399370" />
     </e>
     <e n="FindInPath">
       <i c="4209" l="1713191065429" />
@@ -283,7 +283,7 @@
       <i c="1" l="1698623277789" />
     </e>
     <e n="GotoDeclaration">
-      <i c="9022" l="1713191081608" />
+      <i c="9033" l="1713191416388" />
     </e>
     <e n="GotoImplementation">
       <i c="18" l="1712891434092" />
@@ -439,7 +439,7 @@
       <i c="208" l="1713188449491" />
     </e>
     <e n="SelectInProjectView">
-      <i c="3423" l="1713191063529" />
+      <i c="3425" l="1713192697882" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="839" l="1713140934113" />
@@ -469,7 +469,7 @@
       <i c="1762" l="1713191013509" />
     </e>
     <e n="Tree-selectNext">
-      <i c="30601" l="1713191063908" />
+      <i c="30604" l="1713192644888" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="151" l="1713171622746" />
@@ -478,7 +478,7 @@
       <i c="2194" l="1713188956708" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="26160" l="1713191064132" />
+      <i c="26164" l="1713192644652" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="83" l="1713188662254" />
@@ -502,7 +502,7 @@
       <i c="1" l="1710261096003" />
     </e>
     <e n="Vcs.RollbackChangedLines">
-      <i c="707" l="1713188562338" />
+      <i c="709" l="1713192584469" />
     </e>
     <e n="ViewSource">
       <i c="1" l="1712893303728" />
@@ -547,7 +547,7 @@
       <i c="25" l="1712276886989" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="4352" l="1713191075824" />
+      <i c="4353" l="1713191401895" />
     </e>
     <e n="com.intellij.find.SearchTextArea$ClearAction">
       <i c="3" l="1704714756066" />
@@ -565,7 +565,7 @@
       <i c="11341" l="1713191074226" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
-      <i c="6470" l="1713191074909" />
+      <i c="6473" l="1713191401594" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.SwitchToFind">
       <i c="29" l="1712893193397" />
@@ -631,7 +631,7 @@
       <i c="3" l="1711499910016" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="3535" l="1713188062918" />
+      <i c="3536" l="1713191410609" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1840" l="1713188450757" />
@@ -697,7 +697,7 @@
       <i c="183" l="1713188699456" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
-      <i c="5753" l="1713191063071" />
+      <i c="5758" l="1713192327770" />
     </e>
     <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
       <i c="8617" l="1713191062615" />
