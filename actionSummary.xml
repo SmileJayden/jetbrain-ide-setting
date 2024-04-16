@@ -13,7 +13,7 @@
       <i c="260" l="1713232691692" />
     </e>
     <e n="$SelectAll">
-      <i c="295" l="1713231791294" />
+      <i c="296" l="1713246012636" />
     </e>
     <e n="$Undo">
       <i c="5795" l="1713243852517" />
@@ -28,7 +28,7 @@
       <i c="1" l="1709511530568" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="3828" l="1713243834209" />
+      <i c="3831" l="1713253570851" />
     </e>
     <e n="Annotate">
       <i c="673" l="1713229804746" />
@@ -91,7 +91,7 @@
       <i c="43" l="1713224249418" />
     </e>
     <e n="EditorBackSpace">
-      <i c="33382" l="1713243815849" />
+      <i c="33384" l="1713246013468" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="3257" l="1713243063526" />
@@ -259,7 +259,7 @@
       <i c="7" l="1712138555934" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
-      <i c="366" l="1713232980254" />
+      <i c="367" l="1713246015448" />
     </e>
     <e n="Git.Revert.In.Log">
       <i c="4" l="1710426456880" />
@@ -451,7 +451,7 @@
       <i c="793" l="1713140944271" />
     </e>
     <e n="ShowPopupMenu">
-      <i c="930" l="1713243203369" />
+      <i c="931" l="1713246009224" />
     </e>
     <e n="Table-selectNextRowExtendSelection">
       <i c="2" l="1713231771921" />
@@ -469,10 +469,10 @@
       <i c="54" l="1713242093523" />
     </e>
     <e n="Tree-selectChild">
-      <i c="1769" l="1713242845503" />
+      <i c="1770" l="1713246007099" />
     </e>
     <e n="Tree-selectNext">
-      <i c="30807" l="1713244308647" />
+      <i c="30811" l="1713246007437" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="153" l="1713243203015" />
@@ -481,7 +481,7 @@
       <i c="2202" l="1713243201662" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="26378" l="1713244308788" />
+      <i c="26392" l="1713246007032" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="84" l="1713231751967" />
@@ -490,7 +490,7 @@
       <i c="1" l="1710864663440" />
     </e>
     <e n="Vcs.CherryPick">
-      <i c="7" l="1712939850886" />
+      <i c="8" l="1713246019099" />
     </e>
     <e n="Vcs.CopyRevisionNumberAction">
       <i c="1" l="1707125158645" />
@@ -637,7 +637,7 @@
       <i c="3576" l="1713243794016" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="1843" l="1713242294668" />
+      <i c="1844" l="1713246012036" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="20" l="1713189601544" />
@@ -718,7 +718,7 @@
       <i c="176" l="1713181492227" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
-      <i c="175" l="1712912668600" />
+      <i c="176" l="1713246009599" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutWithRebaseAction">
       <i c="1" l="1697611363183" />
