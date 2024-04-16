@@ -10,7 +10,7 @@
     <location key="find.popup.-2160.-594.2160.3840@192dpi" x="-2070" y="-356" />
     <location key="find.popup.3024.0.3840.2160@192dpi" x="3184" y="156" />
     <location key="find.popup.-2160.-602.2160.3840@192dpi" x="-2070" y="-362" />
-    <location key="find.popup.2160.0.3840.2160@192dpi" x="2320" y="154" />
+    <location key="find.popup.2160.0.3840.2160@192dpi" x="2320" y="156" />
     <location key="find.popup.0.0.3600.2338@192dpi" x="150" y="198" />
     <location key="find.popup.-2160.0.2160.3840@192dpi" x="-2070" y="236" />
     <location key="find.popup.-3840.-88.3840.2160@192dpi" x="-3680" y="68" />
@@ -54,9 +54,13 @@
     <size key="find.popup.-2160.0.2160.3840@192dpi" width="1768" height="3184" />
     <size key="find.popup.-3840.-88.3840.2160@192dpi" width="3140" height="1772" />
     <size key="find.popup.3600.0.3840.2160@192dpi" width="1286" height="1476" />
+    <size key="GridCell.Tab.0.left.2160.0.3840.2160@192dpi" width="1980" height="3288" />
+    <size key="GridCell.Tab.0.center.2160.0.3840.2160@192dpi" width="1980" height="3288" />
+    <size key="GridCell.Tab.0.right.2160.0.3840.2160@192dpi" width="1980" height="3288" />
+    <size key="GridCell.Tab.0.bottom.2160.0.3840.2160@192dpi" width="1980" height="3288" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
+    <frame x="0" y="35" width="1080" height="1875" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state width="1005" height="95" key="ShowUsagesActions.dimensionServiceKey" timestamp="1713222358521">
