@@ -1,7 +1,7 @@
 <application>
   <component name="DimensionService">
     <location key="find.popup.0.0.2160.3840@192dpi" x="90" y="236" />
-    <location key="find.popup.0.0.3024.1964@192dpi" x="132" y="170" />
+    <location key="find.popup.0.0.3024.1964@192dpi" x="126" y="170" />
     <location key="find.popup.2160.800.3840.2160@192dpi" x="2324" y="954" />
     <location key="find.popup.2160.524.3840.2160@192dpi" x="2240" y="680" />
     <location key="find.popup.0.0.3840.2160@192dpi" x="160" y="154" />
@@ -16,7 +16,7 @@
     <location key="find.popup.-3840.-88.3840.2160@192dpi" x="-3680" y="68" />
     <location key="find.popup.3600.0.3840.2160@192dpi" x="5048" y="320" />
     <size key="find.popup.0.0.2160.3840@192dpi" width="1286" height="1768" />
-    <size key="find.popup.0.0.3024.1964@192dpi" width="2444" height="1504" />
+    <size key="find.popup.0.0.3024.1964@192dpi" width="2472" height="1584" />
     <size key="find.popup.2160.800.3840.2160@192dpi" width="3104" height="1682" />
     <size key="find.popup.2160.524.3840.2160@192dpi" width="3760" height="1774" />
     <size key="find.popup.0.0.3840.2160@192dpi" width="3140" height="1772" />
@@ -60,7 +60,7 @@
     <size key="GridCell.Tab.0.bottom.2160.0.3840.2160@192dpi" width="1980" height="808" />
   </component>
   <component name="WindowManager">
-    <frame x="1080" y="25" width="1920" height="1055" extendedState="6" />
+    <frame x="56" y="58" width="1400" height="904" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state width="1005" height="95" key="ShowUsagesActions.dimensionServiceKey" timestamp="1713222358521">
