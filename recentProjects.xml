@@ -4,8 +4,8 @@
       <map>
         <entry key="$APPLICATION_CONFIG_DIR$/light-edit">
           <value>
-            <RecentProjectMetaInfo frameTitle="LightEditProject" hidden="true" projectWorkspaceId="2TS8vj1hjLJRgmEDZp1crz5XOBn">
-              <option name="activationTimestamp" value="1712908132383" />
+            <RecentProjectMetaInfo frameTitle="LightEditProject" hidden="true" opened="true" projectWorkspaceId="2TS8vj1hjLJRgmEDZp1crz5XOBn">
+              <option name="activationTimestamp" value="1713308917193" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
@@ -447,7 +447,7 @@
         </entry>
         <entry key="$USER_HOME$/Development/add-logging-dataset">
           <value>
-            <RecentProjectMetaInfo frameTitle="add-logging-dataset – package.json" opened="true" projectWorkspaceId="2eayOIEmbavqtatmzs3PeyABO8k">
+            <RecentProjectMetaInfo frameTitle="add-logging-dataset – package.json" projectWorkspaceId="2eayOIEmbavqtatmzs3PeyABO8k">
               <option name="activationTimestamp" value="1713233027192" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
@@ -464,7 +464,7 @@
         <entry key="$USER_HOME$/Development/wts">
           <value>
             <RecentProjectMetaInfo frameTitle="wts – package.json" opened="true" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
-              <option name="activationTimestamp" value="1713307599977" />
+              <option name="activationTimestamp" value="1713315927056" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512390197" />
@@ -510,15 +510,15 @@
         </entry>
         <entry key="$USER_HOME$/Development/toss-frontend-infra">
           <value>
-            <RecentProjectMetaInfo frameTitle="toss-frontend-infra – main.tf" opened="true" projectWorkspaceId="2f8lQBSSq8IU0WS9Ld9984BubLz">
-              <option name="activationTimestamp" value="1713308590864" />
+            <RecentProjectMetaInfo frameTitle="toss-frontend-infra – main.tf" projectWorkspaceId="2f8lQBSSq8IU0WS9Ld9984BubLz">
+              <option name="activationTimestamp" value="1713308593019" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512390197" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
-              <frame x="0" y="35" width="1080" height="1875" extendedState="6" />
+              <frame x="0" y="500" width="1080" height="944" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1713258541655" />
             </RecentProjectMetaInfo>
@@ -526,6 +526,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/toss-frontend-infra" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/wts" />
   </component>
 </application>
