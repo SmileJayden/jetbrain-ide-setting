@@ -4452,14 +4452,6 @@
           }
         ]
       },
-      "*.courier": {
-        "dataSet": [
-          {
-            "pluginIdString": "org.coursera.courier.plugin",
-            "nullablePluginName": "Courier schema language"
-          }
-        ]
-      },
       "*.courseignore": {
         "dataSet": [
           {
@@ -20360,12 +20352,12 @@
         "dataSet": [
           {
             "pluginIdString": "com.intellij.swagger",
-            "nullablePluginName": "OpenAPI Specifications"
+            "nullablePluginName": "OpenAPI Specifications",
+            "isBundled": true
           },
           {
             "pluginIdString": "com.intellij.swagger",
-            "nullablePluginName": "OpenAPI Specifications",
-            "isBundled": true
+            "nullablePluginName": "OpenAPI Specifications"
           }
         ]
       },
@@ -20956,7 +20948,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1713242006014
+    "lastUpdateTime": 1713339285591
   },
   "dependencies": {
     "featureMap": {
@@ -22533,7 +22525,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1713242006044
+    "lastUpdateTime": 1713339285631
   }
 }]]></component>
   <component name="PluginFeatureService">{
