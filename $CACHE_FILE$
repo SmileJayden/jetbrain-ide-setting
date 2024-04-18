@@ -20948,7 +20948,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1713339285591
+    "lastUpdateTime": 1713451254423
   },
   "dependencies": {
     "featureMap": {
@@ -22525,7 +22525,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1713339285631
+    "lastUpdateTime": 1713451254688
   }
 }]]></component>
   <component name="PluginFeatureService">{
@@ -22905,6 +22905,15 @@
 }</component>
   <component name="TypeScriptExternalDefinitionsRegistry">
     <modules>
+      <module>
+        <name>@types/react-dom</name>
+        <version>18.2.0</version>
+        <dependencies>
+          <dependency value="@types/react" />
+          <dependency value="@types/prop-types" />
+          <dependency value="csstype" />
+        </dependencies>
+      </module>
       <module>
         <name>@types/react-router-dom</name>
         <version>5.1.2</version>

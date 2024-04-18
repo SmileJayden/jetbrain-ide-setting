@@ -232,6 +232,58 @@
             </GitHubAction>
           </value>
         </entry>
+        <entry key="actions/setup-java@v3">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="inputs">
+                <map>
+                  <entry key="architecture" value="r[false] The architecture of the package (defaults to the action runner's architecture)" />
+                  <entry key="cache" value="r[false] Name of the build platform to cache dependencies. It can be &quot;maven&quot;, &quot;gradle&quot; or &quot;sbt&quot;." />
+                  <entry key="check-latest" value="r[false] def[false] Set this option if you want the action to check for the latest available version that satisfies the version spec" />
+                  <entry key="distribution" value="r[true] Java distribution. See the list of supported distributions in README file" />
+                  <entry key="gpg-passphrase" value="r[false] Environment variable name for the GPG private key passphrase. Default is&#10;       $GPG_PASSPHRASE." />
+                  <entry key="gpg-private-key" value="r[false] GPG private key to import. Default is empty string." />
+                  <entry key="java-package" value="r[false] def[jdk] The package type (jdk, jre, jdk+fx, jre+fx)" />
+                  <entry key="java-version" value="r[false] The Java version to set up. Takes a whole or semver Java version. See examples of supported syntax in README file" />
+                  <entry key="java-version-file" value="r[false] The path to the `.java-version` file. See examples of supported syntax in README file" />
+                  <entry key="jdkFile" value="r[false] Path to where the compressed JDK is located" />
+                  <entry key="job-status" value="r[false] def[${{ job.status }}] Workaround to pass job status to post job step. This variable is not intended for manual setting" />
+                  <entry key="mvn-toolchain-id" value="r[false] Name of Maven Toolchain ID if the default name of &quot;${distribution}_${java-version}&quot; is not wanted. See examples of supported syntax in Advanced Usage file" />
+                  <entry key="mvn-toolchain-vendor" value="r[false] Name of Maven Toolchain Vendor if the default name of &quot;${distribution}&quot; is not wanted. See examples of supported syntax in Advanced Usage file" />
+                  <entry key="overwrite-settings" value="r[false] def[true] Overwrite the settings.xml file if it exists. Default is &quot;true&quot;." />
+                  <entry key="server-id" value="r[false] def[github] ID of the distributionManagement repository in the pom.xml&#10;       file. Default is `github`" />
+                  <entry key="server-password" value="r[false] def[GITHUB_TOKEN] Environment variable name for password or token for&#10;       authentication to the Apache Maven repository. Default is $GITHUB_TOKEN" />
+                  <entry key="server-username" value="r[false] def[GITHUB_ACTOR] Environment variable name for the username for authentication&#10;       to the Apache Maven repository. Default is $GITHUB_ACTOR" />
+                  <entry key="settings-path" value="r[false] Path to where the settings.xml file will be written. Default is ~/.m2." />
+                  <entry key="token" value="r[false] def[${{ github.server_url == 'https://github.com' &amp;&amp; github.token || '' }}] The token used to authenticate when fetching version manifests hosted on github.com, such as for the Microsoft Build of OpenJDK. When running this action on github.com, the default value is sufficient. When running on GHES, you can pass a personal access token for github.com if you are experiencing rate limiting." />
+                </map>
+              </option>
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/setup-java/v3/action.yml" />
+                  <entry key="expiryTime" value="1714660834131" />
+                  <entry key="githubUrl" value="https://github.com/actions/setup-java/tree/v3#readme" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="false" />
+                  <entry key="isResolved" value="true" />
+                  <entry key="isSchema" value="false" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="actions/setup-java" />
+                  <entry key="usesValue" value="actions/setup-java@v3" />
+                </map>
+              </option>
+              <option name="outputs">
+                <map>
+                  <entry key="cache-hit" value="r[false] A boolean value to indicate an exact match was found for the primary key" />
+                  <entry key="distribution" value="r[false] Distribution of Java that has been installed" />
+                  <entry key="path" value="r[false] Path to where the java environment has been installed (same as $JAVA_HOME)" />
+                  <entry key="version" value="r[false] Actual version of the java environment that has been installed" />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
         <entry key="actions/setup-node@v1">
           <value>
             <GitHubAction>
@@ -298,6 +350,88 @@
               <option name="outputs">
                 <map>
                   <entry key="cache-hit" value="r[false] A boolean value to indicate if a cache was hit" />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
+        <entry key="actions/setup-node@v3">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="inputs">
+                <map>
+                  <entry key="always-auth" value="r[false] def[false] Set always-auth in npmrc." />
+                  <entry key="architecture" value="r[false] Target architecture for Node to use. Examples: x86, x64. Will use system architecture by default." />
+                  <entry key="cache" value="r[false] Used to specify a package manager for caching in the default directory. Supported values: npm, yarn, pnpm." />
+                  <entry key="cache-dependency-path" value="r[false] Used to specify the path to a dependency file: package-lock.json, yarn.lock, etc. Supports wildcards or a list of file names for caching multiple dependencies." />
+                  <entry key="check-latest" value="r[false] def[false] Set this option if you want the action to check for the latest available version that satisfies the version spec." />
+                  <entry key="node-version" value="r[false] Version Spec of the version to use. Examples: 12.x, 10.15.1, &gt;=10.15.0." />
+                  <entry key="node-version-file" value="r[false] File containing the version Spec of the version to use.  Examples: .nvmrc, .node-version, .tool-versions." />
+                  <entry key="registry-url" value="r[false] Optional registry to set up for auth. Will set the registry in a project level .npmrc and .yarnrc file, and set up auth to read in from env.NODE_AUTH_TOKEN." />
+                  <entry key="scope" value="r[false] Optional scope for authenticating against scoped registries. Will fall back to the repository owner when using the GitHub Packages registry (https://npm.pkg.github.com/)." />
+                  <entry key="token" value="r[false] def[${{ github.server_url == 'https://github.com' &amp;&amp; github.token || '' }}] Used to pull node distributions from node-versions. Since there's a default, this is typically not supplied by the user. When running this action on github.com, the default value is sufficient. When running on GHES, you can pass a personal access token for github.com if you are experiencing rate limiting." />
+                </map>
+              </option>
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/setup-node/v3/action.yml" />
+                  <entry key="expiryTime" value="1714660834131" />
+                  <entry key="githubUrl" value="https://github.com/actions/setup-node/tree/v3#readme" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="false" />
+                  <entry key="isResolved" value="true" />
+                  <entry key="isSchema" value="false" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="actions/setup-node" />
+                  <entry key="usesValue" value="actions/setup-node@v3" />
+                </map>
+              </option>
+              <option name="outputs">
+                <map>
+                  <entry key="cache-hit" value="r[false] A boolean value to indicate if a cache was hit." />
+                  <entry key="node-version" value="r[false] The installed node version." />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
+        <entry key="actions/setup-node@v4">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="inputs">
+                <map>
+                  <entry key="always-auth" value="r[false] def[false] Set always-auth in npmrc." />
+                  <entry key="architecture" value="r[false] Target architecture for Node to use. Examples: x86, x64. Will use system architecture by default." />
+                  <entry key="cache" value="r[false] Used to specify a package manager for caching in the default directory. Supported values: npm, yarn, pnpm." />
+                  <entry key="cache-dependency-path" value="r[false] Used to specify the path to a dependency file: package-lock.json, yarn.lock, etc. Supports wildcards or a list of file names for caching multiple dependencies." />
+                  <entry key="check-latest" value="r[false] def[false] Set this option if you want the action to check for the latest available version that satisfies the version spec." />
+                  <entry key="node-version" value="r[false] Version Spec of the version to use. Examples: 12.x, 10.15.1, &gt;=10.15.0." />
+                  <entry key="node-version-file" value="r[false] File containing the version Spec of the version to use.  Examples: package.json, .nvmrc, .node-version, .tool-versions." />
+                  <entry key="registry-url" value="r[false] Optional registry to set up for auth. Will set the registry in a project level .npmrc and .yarnrc file, and set up auth to read in from env.NODE_AUTH_TOKEN." />
+                  <entry key="scope" value="r[false] Optional scope for authenticating against scoped registries. Will fall back to the repository owner when using the GitHub Packages registry (https://npm.pkg.github.com/)." />
+                  <entry key="token" value="r[false] def[${{ github.server_url == 'https://github.com' &amp;&amp; github.token || '' }}] Used to pull node distributions from node-versions. Since there's a default, this is typically not supplied by the user. When running this action on github.com, the default value is sufficient. When running on GHES, you can pass a personal access token for github.com if you are experiencing rate limiting." />
+                </map>
+              </option>
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/setup-node/v4/action.yml" />
+                  <entry key="expiryTime" value="1714663659102" />
+                  <entry key="githubUrl" value="https://github.com/actions/setup-node/tree/v4#readme" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="false" />
+                  <entry key="isResolved" value="true" />
+                  <entry key="isSchema" value="false" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="actions/setup-node" />
+                  <entry key="usesValue" value="actions/setup-node@v4" />
+                </map>
+              </option>
+              <option name="outputs">
+                <map>
+                  <entry key="cache-hit" value="r[false] A boolean value to indicate if a cache was hit." />
+                  <entry key="node-version" value="r[false] The installed node version." />
                 </map>
               </option>
             </GitHubAction>
@@ -697,6 +831,76 @@
               <option name="outputs">
                 <map>
                   <entry key="maintainer_can_modify" value="r[false] Whether the &quot;allow edits&quot; box is checked or not" />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
+        <entry key="pnpm/action-setup@v2">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="inputs">
+                <map>
+                  <entry key="dest" value="r[false] def[~/setup-pnpm] Where to store pnpm files" />
+                  <entry key="package_json_file" value="r[false] def[package.json] File path to the package.json to read &quot;packageManager&quot; configuration" />
+                  <entry key="run_install" value="r[false] def[null] If specified, run `pnpm install`" />
+                  <entry key="standalone" value="r[false] def[false] When set to true, @pnpm/exe, which is a Node.js bundled package, will be installed, enabling using pnpm without Node.js." />
+                  <entry key="version" value="r[false] Version of pnpm to install" />
+                </map>
+              </option>
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/pnpm/action-setup/v2/action.yml" />
+                  <entry key="expiryTime" value="1714663555827" />
+                  <entry key="githubUrl" value="https://github.com/pnpm/action-setup/tree/v2#readme" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="false" />
+                  <entry key="isResolved" value="true" />
+                  <entry key="isSchema" value="false" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="pnpm/action-setup" />
+                  <entry key="usesValue" value="pnpm/action-setup@v2" />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
+        <entry key="tossinvest-actions/configure-aws-credentials@v2">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/tossinvest-actions/configure-aws-credentials/v2/action.yml" />
+                  <entry key="expiryTime" value="1714664782933" />
+                  <entry key="githubUrl" value="https://github.com/tossinvest-actions/configure-aws-credentials/tree/v2#readme" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="false" />
+                  <entry key="isSchema" value="false" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="tossinvest-actions/configure-aws-credentials" />
+                  <entry key="usesValue" value="tossinvest-actions/configure-aws-credentials@v2" />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
+        <entry key="tossinvest-actions/install-aws-cli-action@v1">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/tossinvest-actions/install-aws-cli-action/v1/action.yml" />
+                  <entry key="expiryTime" value="1714664782932" />
+                  <entry key="githubUrl" value="https://github.com/tossinvest-actions/install-aws-cli-action/tree/v1#readme" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="false" />
+                  <entry key="isSchema" value="false" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="tossinvest-actions/install-aws-cli-action" />
+                  <entry key="usesValue" value="tossinvest-actions/install-aws-cli-action@v1" />
                 </map>
               </option>
             </GitHubAction>
