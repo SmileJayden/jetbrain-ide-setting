@@ -9792,6 +9792,10 @@
           {
             "pluginIdString": "com.mesour.intellij.latte",
             "nullablePluginName": "Latte Pro"
+          },
+          {
+            "pluginIdString": "org.nette.latte",
+            "nullablePluginName": "Latte Support"
           }
         ]
       },
@@ -20944,7 +20948,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1713836254321
+    "lastUpdateTime": 1714087803871
   },
   "dependencies": {
     "featureMap": {
@@ -21005,6 +21009,14 @@
         ]
       },
       "dotnet:Microsoft.ApplicationInsights": {
+        "dataSet": [
+          {
+            "pluginIdString": "fr.socolin.application-insights-debug-log-viewer",
+            "nullablePluginName": "Application Insights Debug Log Viewer"
+          }
+        ]
+      },
+      "dotnet:Microsoft.ApplicationInsights.AspNetCore": {
         "dataSet": [
           {
             "pluginIdString": "fr.socolin.application-insights-debug-log-viewer",
@@ -21081,6 +21093,14 @@
           {
             "pluginIdString": "me.seclerp.rider.plugins.efcore",
             "nullablePluginName": "Entity Framework Core UI"
+          }
+        ]
+      },
+      "dotnet:Microsoft.Extensions.Logging.ApplicationInsights": {
+        "dataSet": [
+          {
+            "pluginIdString": "fr.socolin.application-insights-debug-log-viewer",
+            "nullablePluginName": "Application Insights Debug Log Viewer"
           }
         ]
       },
@@ -22488,6 +22508,14 @@
           }
         ]
       },
+      "python:Django": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.python.django",
+            "nullablePluginName": "Django"
+          }
+        ]
+      },
       "python:kafka-python": {
         "dataSet": [
           {
@@ -22521,7 +22549,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1713836254349
+    "lastUpdateTime": 1714087803902
   }
 }]]></component>
   <component name="PluginFeatureService">{
