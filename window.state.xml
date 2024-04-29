@@ -1,6 +1,6 @@
 <application>
   <component name="DimensionService">
-    <location key="find.popup.0.0.2160.3840@192dpi" x="90" y="238" />
+    <location key="find.popup.0.0.2160.3840@192dpi" x="0" y="2046" />
     <location key="find.popup.0.0.3024.1964@192dpi" x="132" y="170" />
     <location key="find.popup.2160.800.3840.2160@192dpi" x="2324" y="954" />
     <location key="find.popup.2160.524.3840.2160@192dpi" x="2240" y="680" />
@@ -17,7 +17,7 @@
     <location key="find.popup.3600.0.3840.2160@192dpi" x="5048" y="320" />
     <location key="find.popup.0.0.1920.1080" x="80" y="78" />
     <location key="find.popup.322.2160.3024.1964@192dpi" x="448" y="2330" />
-    <size key="find.popup.0.0.2160.3840@192dpi" width="1766" height="3180" />
+    <size key="find.popup.0.0.2160.3840@192dpi" width="2160" height="1504" />
     <size key="find.popup.0.0.3024.1964@192dpi" width="2444" height="1504" />
     <size key="find.popup.2160.800.3840.2160@192dpi" width="3104" height="1682" />
     <size key="find.popup.2160.524.3840.2160@192dpi" width="3760" height="1774" />
@@ -64,7 +64,7 @@
     <size key="find.popup.322.2160.3024.1964@192dpi" width="2474" height="1586" />
   </component>
   <component name="WindowManager">
-    <frame x="260" y="52" width="1400" height="1000" extendedState="6" />
+    <frame x="1500" y="80" width="1080" height="944" />
   </component>
   <component name="WindowStateApplicationService">
     <state width="1028" height="139" key="ShowUsagesActions.dimensionServiceKey" timestamp="1714092569699">
