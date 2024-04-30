@@ -17,7 +17,7 @@
     <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.local.history" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="vcs.use.integration" count="4390" last-shown="0" last-used="1714467656162" shown-count="0" />
+    <feature id="vcs.use.integration" count="4392" last-shown="0" last-used="1714467775729" shown-count="0" />
     <feature id="navigation.popup.file" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.close.all.editors" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -44,7 +44,7 @@
     <feature id="editing.reformat.code" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="11" last-shown="0" last-used="1713946618265" shown-count="0" />
     <feature id="editing.copy.line" count="303" last-shown="0" last-used="1714467709515" shown-count="0" />
-    <feature id="navigation.find.in.files" count="5000" last-shown="0" last-used="1714467706118" shown-count="0" />
+    <feature id="navigation.find.in.files" count="5001" last-shown="0" last-used="1714468680950" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="825" last-shown="0" last-used="1714463540620" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.replace" count="12" last-shown="0" last-used="1713861784372" shown-count="0" />
@@ -94,8 +94,8 @@
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find.usages" count="875" last-shown="0" last-used="1714458033422" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="21228" />
-      <option name="invocations" value="2852" />
+      <option name="sparedCharacters" value="21231" />
+      <option name="invocations" value="2853" />
       <option name="startDate" value="1697036400000" />
       <option name="dayCount" value="108" />
       <option name="lastDate" value="1714402800000" />
