@@ -178,7 +178,7 @@
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
-    <keyboard-shortcut first-keystroke="shift meta y" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="OverrideMethods" />
   <action id="PrevSplitter">
