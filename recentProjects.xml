@@ -445,22 +445,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Development/add-logging-dataset">
-          <value>
-            <RecentProjectMetaInfo frameTitle="add-logging-dataset – package.json" projectWorkspaceId="2eayOIEmbavqtatmzs3PeyABO8k">
-              <option name="activationTimestamp" value="1713233027192" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9921.42" />
-              <option name="buildTimestamp" value="1694512395792" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1712815686250" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Development/fintech-devops">
           <value>
             <RecentProjectMetaInfo frameTitle="fintech-devops – version.spec.ts" projectWorkspaceId="2V6eIsf0MZr3fY3egKel2btbHli">
@@ -544,7 +528,7 @@
         <entry key="$USER_HOME$/Development/wts">
           <value>
             <RecentProjectMetaInfo frameTitle="wts – commission.help.tsx" opened="true" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
-              <option name="activationTimestamp" value="1715069986048" />
+              <option name="activationTimestamp" value="1715121643401" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512410895" />
@@ -559,17 +543,33 @@
         </entry>
         <entry key="$USER_HOME$/Development/fintech">
           <value>
-            <RecentProjectMetaInfo frameTitle="CursorInput.tsx – ReservationHistory.tsx" opened="true" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
-              <option name="activationTimestamp" value="1715068354104" />
+            <RecentProjectMetaInfo frameTitle="CursorInput.tsx – Sell.tsx" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
+              <option name="activationTimestamp" value="1715070079971" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512388196" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
-              <frame x="0" y="0" width="1920" height="1055" extendedState="6" />
+              <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1715067750774" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Development/add-logging-dataset">
+          <value>
+            <RecentProjectMetaInfo frameTitle="add-logging-dataset – package.json" opened="true" projectWorkspaceId="2eayOIEmbavqtatmzs3PeyABO8k">
+              <option name="activationTimestamp" value="1715121641153" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9921.42" />
+              <option name="buildTimestamp" value="1694512388196" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1715070095915" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
