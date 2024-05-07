@@ -543,15 +543,15 @@
         </entry>
         <entry key="$USER_HOME$/Development/wts">
           <value>
-            <RecentProjectMetaInfo frameTitle="wts – index.tsx" opened="true" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
-              <option name="activationTimestamp" value="1715042284966" />
+            <RecentProjectMetaInfo frameTitle="wts – commission.help.tsx" opened="true" projectWorkspaceId="2OaWrZsK3W68gP5aV1T7EDpATZz">
+              <option name="activationTimestamp" value="1715049022004" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512410895" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="5" />
               </option>
-              <frame x="1512" y="25" width="1920" height="1055" extendedState="6" />
+              <frame x="0" y="0" width="1920" height="1055" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1713850837815" />
             </RecentProjectMetaInfo>
@@ -559,15 +559,15 @@
         </entry>
         <entry key="$USER_HOME$/Development/fintech">
           <value>
-            <RecentProjectMetaInfo frameTitle="CursorInput.tsx – SellHistory.tsx" opened="true" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
-              <option name="activationTimestamp" value="1714719311749" />
+            <RecentProjectMetaInfo frameTitle="CursorInput.tsx – index.tsx" opened="true" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
+              <option name="activationTimestamp" value="1715049022244" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512410895" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
-              <frame x="1512" y="25" width="1920" height="1055" extendedState="6" />
+              <frame x="0" y="25" width="1080" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1713857550584" />
             </RecentProjectMetaInfo>
@@ -575,6 +575,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/wts" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/fintech" />
   </component>
 </application>
