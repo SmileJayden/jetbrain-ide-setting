@@ -541,22 +541,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Development/fintech-contents">
-          <value>
-            <RecentProjectMetaInfo frameTitle="fintech-contents – robots.txt" projectWorkspaceId="2gB47DEe5sLFeepO0LK30POoAUQ">
-              <option name="activationTimestamp" value="1715316375413" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9921.42" />
-              <option name="buildTimestamp" value="1694512422404" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="0" y="0" width="1920" height="1055" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1715304180654" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Development/fintech-devops">
           <value>
             <RecentProjectMetaInfo frameTitle="fintech-devops – version.ts" projectWorkspaceId="2V6eIsf0MZr3fY3egKel2btbHli">
@@ -591,22 +575,38 @@
         </entry>
         <entry key="$USER_HOME$/Development/fintech">
           <value>
-            <RecentProjectMetaInfo frameTitle="CursorInput.tsx – useForm.ts" opened="true" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
-              <option name="activationTimestamp" value="1715322690185" />
+            <RecentProjectMetaInfo frameTitle="CursorInput.tsx – OddLotQuantityListRow.tsx" projectWorkspaceId="2IO25ZHG1SFXAL2TlFZ7OGUltW7">
+              <option name="activationTimestamp" value="1715325271602" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9921.42" />
               <option name="buildTimestamp" value="1694512422404" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
-              <frame x="0" y="0" width="1920" height="1055" extendedState="6" />
+              <frame x="1080" y="25" width="1920" height="1055" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1715316396494" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Development/fintech-contents">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fintech-contents – robots.txt" opened="true" projectWorkspaceId="2gB47DEe5sLFeepO0LK30POoAUQ">
+              <option name="activationTimestamp" value="1715326184627" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9921.42" />
+              <option name="buildTimestamp" value="1694512381956" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1715325278317" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/fintech" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/fintech-contents" />
   </component>
 </application>
