@@ -10,7 +10,7 @@
     <location key="find.popup.-2160.-594.2160.3840@192dpi" x="-2070" y="-356" />
     <location key="find.popup.3024.0.3840.2160@192dpi" x="3184" y="156" />
     <location key="find.popup.-2160.-602.2160.3840@192dpi" x="-2070" y="-362" />
-    <location key="find.popup.2160.0.3840.2160@192dpi" x="2320" y="156" />
+    <location key="find.popup.2160.0.3840.2160@192dpi" x="2320" y="154" />
     <location key="find.popup.0.0.3600.2338@192dpi" x="150" y="198" />
     <location key="find.popup.-2160.0.2160.3840@192dpi" x="-2070" y="236" />
     <location key="find.popup.-3840.-88.3840.2160@192dpi" x="-3680" y="68" />
@@ -64,7 +64,7 @@
     <size key="find.popup.322.2160.3024.1964@192dpi" width="2474" height="1586" />
   </component>
   <component name="WindowManager">
-    <frame x="3432" y="27" width="2439" height="1161" extendedState="6" />
+    <frame x="986" y="155" width="1920" height="1055" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state width="1787" height="317" key="ShowUsagesActions.dimensionServiceKey" timestamp="1715218570540">
@@ -80,16 +80,15 @@
     <state width="1787" height="317" key="ShowUsagesActions.dimensionServiceKey/0.25.1920.1055/-1080.25.1080.1895" timestamp="1715218570540" />
     <state width="1406" height="95" key="ShowUsagesActions.dimensionServiceKey/0.38.1512.944" timestamp="1713140933116" />
     <state width="1028" height="95" key="ShowUsagesActions.dimensionServiceKey/1080.25.1920.1055/0.25.1080.1895" timestamp="1714713143138" />
-    <state width="1465" height="119" key="ShowUsagesActions.dimensionServiceKey/1080.287.1920.1055/0.25.1080.1895" timestamp="1706622836067" />
     <state width="1080" height="95" key="ShowUsagesActions.dimensionServiceKey/1080.425.1920.1055/0.25.1080.1895" timestamp="1709967162609" />
     <state width="1787" height="469" key="ShowUsagesActions.dimensionServiceKey/161.1118.1512.944/0.25.1920.1055" timestamp="1713750706374" />
-    <state x="540" y="972" width="800" height="1895" key="WELCOME_SCREEN" timestamp="1713850835119">
+    <state x="540" y="972" width="800" height="1895" key="WELCOME_SCREEN" timestamp="1715316383849">
       <screen x="0" y="25" width="1080" height="1895" />
     </state>
     <state x="960" y="534" width="1760" height="949" key="WELCOME_SCREEN/-1080.25.1080.1895/0.25.1920.1055" timestamp="1712800938495" />
     <state x="680" y="972" width="800" height="1895" key="WELCOME_SCREEN/0.25.1080.1895/1080.25.1920.1055" timestamp="1710297178602" />
     <state x="959" y="552" width="801" height="1055" key="WELCOME_SCREEN/0.25.1920.1055" timestamp="1709699885391" />
     <state x="756" y="510" width="1120" height="944" key="WELCOME_SCREEN/0.38.1512.944/-3000.-178.1080.1895/-1920.25.1920.1055" timestamp="1712794688606" />
-    <state x="540" y="972" width="800" height="1895" key="WELCOME_SCREEN/1080.25.1920.1055/0.25.1080.1895" timestamp="1713850835119" />
+    <state x="540" y="972" width="800" height="1895" key="WELCOME_SCREEN/1080.25.1920.1055/0.25.1080.1895" timestamp="1715316383849" />
   </component>
 </application>
