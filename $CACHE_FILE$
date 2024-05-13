@@ -4488,7 +4488,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           },
           {
             "pluginIdString": "org.pathcheck.intellij.cql",
@@ -4621,7 +4621,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           },
           {
             "pluginIdString": "com.andrey4623.rainbowcsv",
@@ -4939,7 +4939,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -6614,7 +6614,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -7879,7 +7879,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -8021,7 +8021,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -12452,7 +12452,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -12821,7 +12821,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -12861,7 +12861,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -12971,7 +12971,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -13211,7 +13211,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -14133,7 +14133,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           },
           {
             "pluginIdString": "org.xuxiake.ideaToolCollection",
@@ -15840,7 +15840,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           },
           {
             "pluginIdString": "com.db.database.tool",
@@ -17187,7 +17187,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -17228,7 +17228,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -17348,7 +17348,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -17477,7 +17477,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -17930,6 +17930,14 @@
           }
         ]
       },
+      "*.valkyrie": {
+        "dataSet": [
+          {
+            "pluginIdString": "Valkyrie",
+            "nullablePluginName": "Valkyrie Language"
+          }
+        ]
+      },
       "*.vbs": {
         "dataSet": [
           {
@@ -18168,7 +18176,7 @@
           },
           {
             "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL for WebStorm"
+            "nullablePluginName": "Database Tools and SQL for WebStorm & RustRover"
           }
         ]
       },
@@ -20948,7 +20956,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1715325283814
+    "lastUpdateTime": 1715555503909
   },
   "dependencies": {
     "featureMap": {
@@ -22549,7 +22557,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1715325283848
+    "lastUpdateTime": 1715555503940
   }
 }]]></component>
   <component name="PluginFeatureService">{
