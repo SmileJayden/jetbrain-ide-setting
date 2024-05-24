@@ -160,26 +160,6 @@
             </GitHubAction>
           </value>
         </entry>
-        <entry key="actions/setup-node@v3">
-          <value>
-            <GitHubAction>
-              <option name="action" value="true" />
-              <option name="metaData">
-                <map>
-                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/setup-node/v3/action.yml" />
-                  <entry key="expiryTime" value="1717737439702" />
-                  <entry key="githubUrl" value="https://github.com/actions/setup-node/tree/v3#readme" />
-                  <entry key="isAction" value="true" />
-                  <entry key="isLocal" value="false" />
-                  <entry key="isSchema" value="false" />
-                  <entry key="isSuppressed" value="false" />
-                  <entry key="name" value="actions/setup-node" />
-                  <entry key="usesValue" value="actions/setup-node@v3" />
-                </map>
-              </option>
-            </GitHubAction>
-          </value>
-        </entry>
         <entry key="actions/setup-python@v4">
           <value>
             <GitHubAction>
