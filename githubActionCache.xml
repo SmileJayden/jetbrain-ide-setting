@@ -365,46 +365,6 @@
             </GitHubAction>
           </value>
         </entry>
-        <entry key="tossinvest-actions/build-push-action@v2">
-          <value>
-            <GitHubAction>
-              <option name="action" value="true" />
-              <option name="metaData">
-                <map>
-                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/tossinvest-actions/build-push-action/v2/action.yml" />
-                  <entry key="expiryTime" value="1718778402162" />
-                  <entry key="githubUrl" value="https://github.com/tossinvest-actions/build-push-action/tree/v2#readme" />
-                  <entry key="isAction" value="true" />
-                  <entry key="isLocal" value="false" />
-                  <entry key="isSchema" value="false" />
-                  <entry key="isSuppressed" value="false" />
-                  <entry key="name" value="tossinvest-actions/build-push-action" />
-                  <entry key="usesValue" value="tossinvest-actions/build-push-action@v2" />
-                </map>
-              </option>
-            </GitHubAction>
-          </value>
-        </entry>
-        <entry key="tossinvest-actions/login-action@v2">
-          <value>
-            <GitHubAction>
-              <option name="action" value="true" />
-              <option name="metaData">
-                <map>
-                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/tossinvest-actions/login-action/v2/action.yml" />
-                  <entry key="expiryTime" value="1718778402102" />
-                  <entry key="githubUrl" value="https://github.com/tossinvest-actions/login-action/tree/v2#readme" />
-                  <entry key="isAction" value="true" />
-                  <entry key="isLocal" value="false" />
-                  <entry key="isSchema" value="false" />
-                  <entry key="isSuppressed" value="false" />
-                  <entry key="name" value="tossinvest-actions/login-action" />
-                  <entry key="usesValue" value="tossinvest-actions/login-action@v2" />
-                </map>
-              </option>
-            </GitHubAction>
-          </value>
-        </entry>
       </map>
     </option>
   </component>
