@@ -1029,6 +1029,80 @@
             </GitHubAction>
           </value>
         </entry>
+        <entry key="ljharb/actions/node/matrix@main">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="inputs">
+                <map>
+                  <entry key="envs" value="r[false] optional env variables to add to the matrix" />
+                  <entry key="notable" value="r[false] semver range for notable versions, that should be pulled from &quot;preset&quot; into &quot;required&quot;" />
+                  <entry key="optionals" value="r[false] semver range for optional versions" />
+                  <entry key="preset" value="r[false] optional preset, takes precedence over requireds/optionals" />
+                  <entry key="requireds" value="r[false] semver range for required versions" />
+                  <entry key="type" value="r[false] majors, or minors?" />
+                  <entry key="version_key" value="r[false] def[node-version] key in JSON output to contain versions" />
+                  <entry key="versionsAsRoot" value="r[false] ignore the version_key, and make the versions be the root of the outputs?" />
+                </map>
+              </option>
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/ljharb/actions/main/node/matrix/action.yml" />
+                  <entry key="expiryTime" value="1722338801526" />
+                  <entry key="githubUrl" value="https://github.com/ljharb/actions/tree/main/node/matrix#readme" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="false" />
+                  <entry key="isResolved" value="true" />
+                  <entry key="isSchema" value="false" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="ljharb/actions" />
+                  <entry key="usesValue" value="ljharb/actions/node/matrix@main" />
+                </map>
+              </option>
+              <option name="outputs">
+                <map>
+                  <entry key="optionals" value="r[false] JSON object containing allowed-to-fail versions" />
+                  <entry key="requireds" value="r[false] JSON object containing required-to-pass versions" />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
+        <entry key="ljharb/actions/node/run@main">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="inputs">
+                <map>
+                  <entry key="after_install" value="r[false] command to run after `npm install`" />
+                  <entry key="after_success" value="r[false] command to run after everything succeeds. default runs codecov" />
+                  <entry key="before_install" value="r[false] command to run before `npm install`" />
+                  <entry key="cache-node-modules-key" value="r[false] if provided, cache node_modules under this cache key" />
+                  <entry key="command" value="r[false] `npm run` command" />
+                  <entry key="node-version" value="r[false] def[lts/*] version of node to use via nvm" />
+                  <entry key="shell-command" value="r[false] shell command, mutually exclusive with `command`" />
+                  <entry key="skip-install" value="r[false] def[false] skip `npm install` step" />
+                  <entry key="skip-ls-check" value="r[false] def[false] skip the `npm ls` check (not recommended)" />
+                  <entry key="use-npm-ci" value="r[false] def[false] if true, will use `npm ci` instead of `npm install`" />
+                </map>
+              </option>
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/ljharb/actions/main/node/run/action.yml" />
+                  <entry key="expiryTime" value="1722338801526" />
+                  <entry key="githubUrl" value="https://github.com/ljharb/actions/tree/main/node/run#readme" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="false" />
+                  <entry key="isResolved" value="true" />
+                  <entry key="isSchema" value="false" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="ljharb/actions" />
+                  <entry key="usesValue" value="ljharb/actions/node/run@main" />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
         <entry key="ljharb/rebase@master">
           <value>
             <GitHubAction>
@@ -1045,6 +1119,37 @@
                   <entry key="isSuppressed" value="false" />
                   <entry key="name" value="ljharb/rebase" />
                   <entry key="usesValue" value="ljharb/rebase@master" />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
+        <entry key="ljharb/require-allow-edits@main">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="inputs">
+                <map>
+                  <entry key="github_token" value="r[true] def[${{ github.token }}] The GitHub token (if not provided, the env var GITHUB_TOKEN will be used)" />
+                </map>
+              </option>
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/ljharb/require-allow-edits/main/action.yml" />
+                  <entry key="expiryTime" value="1722339801952" />
+                  <entry key="githubUrl" value="https://github.com/ljharb/require-allow-edits/tree/main#readme" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="false" />
+                  <entry key="isResolved" value="true" />
+                  <entry key="isSchema" value="false" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="ljharb/require-allow-edits" />
+                  <entry key="usesValue" value="ljharb/require-allow-edits@main" />
+                </map>
+              </option>
+              <option name="outputs">
+                <map>
+                  <entry key="maintainer_can_modify" value="r[false] Whether the &quot;allow edits&quot; box is checked or not" />
                 </map>
               </option>
             </GitHubAction>
