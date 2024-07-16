@@ -2,6 +2,25 @@
   <component name="GitHubActionCache">
     <option name="actions">
       <map>
+        <entry key="$USER_HOME$/Development/tds-wts/.github/workflows/publish.yml">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="$USER_HOME$/Development/tds-wts/.github/workflows/publish.yml" />
+                  <entry key="expiryTime" value="1722350742123" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="true" />
+                  <entry key="isSchema" value="false" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="./.github/workflows/publish.yml" />
+                  <entry key="usesValue" value="./.github/workflows/publish.yml" />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
         <entry key="GoogleCloudPlatform/release-please-action@v2.5.6">
           <value>
             <GitHubAction>
@@ -259,6 +278,42 @@
               <option name="outputs">
                 <map>
                   <entry key="page_url" value="r[false] URL to deployed GitHub Pages" />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
+        <entry key="actions/github-script@v4">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="inputs">
+                <map>
+                  <entry key="debug" value="r[false] def[false] Whether to tell the GitHub client to log details of its requests" />
+                  <entry key="github-token" value="r[false] def[${{ github.token }}] The GitHub token used to create an authenticated client" />
+                  <entry key="previews" value="r[false] A comma-separated list of API previews to accept" />
+                  <entry key="result-encoding" value="r[false] def[json] Either &quot;string&quot; or &quot;json&quot; (default &quot;json&quot;)—how the result will be encoded" />
+                  <entry key="script" value="r[true] The script to run" />
+                  <entry key="user-agent" value="r[false] def[actions/github-script] An optional user-agent string" />
+                </map>
+              </option>
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/github-script/v4/action.yml" />
+                  <entry key="expiryTime" value="1722350742123" />
+                  <entry key="githubUrl" value="https://github.com/actions/github-script/tree/v4#readme" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="false" />
+                  <entry key="isResolved" value="true" />
+                  <entry key="isSchema" value="false" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="actions/github-script" />
+                  <entry key="usesValue" value="actions/github-script@v4" />
+                </map>
+              </option>
+              <option name="outputs">
+                <map>
+                  <entry key="result" value="r[false] The return value of the script, stringified with `JSON.stringify`" />
                 </map>
               </option>
             </GitHubAction>
@@ -1150,6 +1205,26 @@
               <option name="outputs">
                 <map>
                   <entry key="maintainer_can_modify" value="r[false] Whether the &quot;allow edits&quot; box is checked or not" />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
+        <entry key="tossinvest-actions/actions-comment-pull-request@v1">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/tossinvest-actions/actions-comment-pull-request/v1/action.yml" />
+                  <entry key="expiryTime" value="1722350742122" />
+                  <entry key="githubUrl" value="https://github.com/tossinvest-actions/actions-comment-pull-request/tree/v1#readme" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="false" />
+                  <entry key="isSchema" value="false" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="tossinvest-actions/actions-comment-pull-request" />
+                  <entry key="usesValue" value="tossinvest-actions/actions-comment-pull-request@v1" />
                 </map>
               </option>
             </GitHubAction>
